@@ -1,0 +1,610 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Poker Strategy Library</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@300;400;500;700&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+:root {
+  --bg:#f8f8f7; --white:#fff; --border:#e4e4e0; --border2:#d0d0cc;
+  --text:#111110; --text-sub:#6b7280; --text-dim:#9ca3af;
+  --accent:#16a34a; --accent-bg:#f0fdf4;
+  --note-c:#16a34a; --yt-c:#dc2626; --blog-c:#7c3aed; --other-c:#d97706;
+  --nav-h:54px; --radius:8px;
+  --shadow-sm:0 1px 3px rgba(0,0,0,0.06),0 1px 2px rgba(0,0,0,0.04);
+  --shadow:0 4px 12px rgba(0,0,0,0.08);
+}
+body { font-family:'Noto Sans JP',sans-serif; background:var(--bg); color:var(--text); font-size:14px; line-height:1.65; -webkit-font-smoothing:antialiased; }
+a { color:inherit; text-decoration:none; }
+
+/* NAV */
+nav {
+  position:sticky; top:0; z-index:100; height:var(--nav-h);
+  background:var(--white); border-bottom:1px solid var(--border);
+  display:flex; align-items:center; padding:0 1.5rem; gap:0;
+  box-shadow:var(--shadow-sm);
+}
+.nav-logo { font-family:'Inter',sans-serif; font-size:15px; font-weight:600; display:flex; align-items:center; gap:0.45rem; margin-right:1.5rem; white-space:nowrap; flex-shrink:0; }
+.nav-logo-suit { color:var(--accent); font-size:17px; }
+.nav-links { display:flex; overflow-x:auto; scrollbar-width:none; flex:1; }
+.nav-links::-webkit-scrollbar { display:none; }
+.nav-link { padding:0 1rem; height:var(--nav-h); display:flex; align-items:center; font-size:13px; font-family:'Inter',sans-serif; font-weight:500; color:var(--text-sub); white-space:nowrap; border-bottom:2px solid transparent; transition:color 0.12s,border-color 0.12s; cursor:pointer; }
+.nav-link:hover { color:var(--text); }
+.nav-link.active { color:var(--text); border-bottom-color:var(--text); }
+.nav-right { flex-shrink:0; display:flex; align-items:center; gap:0.75rem; margin-left:1rem; }
+.nav-count { font-family:'Inter',sans-serif; font-size:12px; color:var(--text-dim); }
+
+/* PAGE */
+.page { max-width:860px; margin:0 auto; padding:2rem 1.25rem 5rem; }
+.page-eyebrow { font-family:'Inter',sans-serif; font-size:11px; font-weight:600; letter-spacing:0.08em; text-transform:uppercase; color:var(--accent); margin-bottom:0.3rem; }
+.page-title { font-size:24px; font-weight:700; letter-spacing:-0.02em; margin-bottom:1.5rem; }
+
+/* TOOLBAR */
+.toolbar { display:flex; flex-direction:column; gap:0.6rem; margin-bottom:1.25rem; }
+.platform-bar { display:flex; flex-wrap:wrap; gap:0.35rem; align-items:center; }
+.pf-label { font-family:'Inter',sans-serif; font-size:11px; font-weight:600; color:var(--text-dim); letter-spacing:0.06em; text-transform:uppercase; margin-right:0.25rem; white-space:nowrap; }
+.pf-pill { display:inline-flex; align-items:center; gap:0.3rem; padding:0.28rem 0.75rem; border-radius:100px; border:1px solid var(--border); background:var(--white); font-size:12.5px; font-family:'Noto Sans JP',sans-serif; color:var(--text-sub); cursor:pointer; transition:all 0.1s; white-space:nowrap; box-shadow:var(--shadow-sm); }
+.pf-pill:hover { border-color:var(--border2); color:var(--text); }
+.pf-dot { width:6px; height:6px; border-radius:50%; flex-shrink:0; }
+.pf-pill.active-all    { background:var(--text);    border-color:var(--text);    color:#fff; box-shadow:none; }
+.pf-pill.active-note   { background:var(--note-c);  border-color:var(--note-c);  color:#fff; box-shadow:none; }
+.pf-pill.active-youtube{ background:var(--yt-c);    border-color:var(--yt-c);    color:#fff; box-shadow:none; }
+.pf-pill.active-blog   { background:var(--blog-c);  border-color:var(--blog-c);  color:#fff; box-shadow:none; }
+.pf-pill.active-other  { background:var(--other-c); border-color:var(--other-c); color:#fff; box-shadow:none; }
+
+.search-sort { display:flex; gap:0.5rem; }
+.search-wrap { position:relative; flex:1; }
+.search-wrap svg { position:absolute; left:0.75rem; top:50%; transform:translateY(-50%); color:var(--text-dim); pointer-events:none; }
+#searchInput { width:100%; height:38px; border:1px solid var(--border); border-radius:var(--radius); background:var(--white); padding:0 0.85rem 0 2.25rem; font-family:'Noto Sans JP',sans-serif; font-size:13px; color:var(--text); outline:none; transition:border-color 0.12s,box-shadow 0.12s; box-shadow:var(--shadow-sm); }
+#searchInput:focus { border-color:var(--accent); box-shadow:0 0 0 3px rgba(22,163,74,0.1); }
+#searchInput::placeholder { color:var(--text-dim); }
+.sort-select { height:38px; border:1px solid var(--border); border-radius:var(--radius); background:var(--white); padding:0 0.85rem; font-family:'Inter',sans-serif; font-size:12.5px; color:var(--text-sub); outline:none; cursor:pointer; flex-shrink:0; box-shadow:var(--shadow-sm); }
+
+.tag-row { display:flex; flex-wrap:wrap; gap:0.3rem; align-items:center; }
+.tag-row-label { font-family:'Inter',sans-serif; font-size:11px; font-weight:600; color:var(--text-dim); text-transform:uppercase; letter-spacing:0.06em; margin-right:0.2rem; }
+.tag-chip { display:inline-flex; align-items:center; padding:0.16rem 0.6rem; border-radius:100px; border:1px solid var(--border); background:var(--white); font-size:12px; font-family:'Noto Sans JP',sans-serif; color:var(--text-sub); cursor:pointer; transition:all 0.1s; white-space:nowrap; }
+.tag-chip:hover { border-color:var(--border2); color:var(--text); }
+.tag-chip.active { background:var(--text); border-color:var(--text); color:#fff; font-weight:500; }
+
+.result-info { display:flex; align-items:center; justify-content:space-between; margin-bottom:0.75rem; }
+.result-count { font-family:'Inter',sans-serif; font-size:12.5px; color:var(--text-sub); }
+.result-count strong { color:var(--text); font-weight:600; }
+
+/* CARDS */
+#cardList { display:flex; flex-direction:column; gap:6px; }
+
+.card {
+  display:flex; background:var(--white); border:1px solid var(--border);
+  border-radius:var(--radius); cursor:pointer; overflow:hidden;
+  box-shadow:var(--shadow-sm); transition:border-color 0.12s,box-shadow 0.12s,transform 0.1s;
+  position:relative;
+}
+.card::before { content:''; position:absolute; left:0; top:0; bottom:0; width:3px; background:var(--platform-color,var(--border2)); }
+.card:hover { border-color:var(--border2); box-shadow:var(--shadow); transform:translateY(-1px); }
+.card[data-platform="note"]    { --platform-color:var(--note-c); }
+.card[data-platform="youtube"] { --platform-color:var(--yt-c); }
+.card[data-platform="blog"]    { --platform-color:var(--blog-c); }
+.card[data-platform="other"]   { --platform-color:var(--other-c); }
+
+/* サムネ */
+.card-thumb {
+  width:120px; height:80px; object-fit:cover; flex-shrink:0;
+  margin:0.8rem 0 0.8rem 1rem; border-radius:6px;
+  background:#f3f3f1; align-self:flex-start;
+  border:1px solid var(--border);
+}
+.card-thumb-placeholder {
+  width:120px; height:80px; flex-shrink:0;
+  margin:0.8rem 0 0.8rem 1rem; border-radius:6px;
+  border:1px solid var(--border);
+  background:#f8f8f7;
+  display:flex; flex-direction:column; align-items:center; justify-content:center;
+  gap:4px; align-self:flex-start; color:var(--text-dim);
+}
+.card-thumb-placeholder .ph-icon { font-size:22px; line-height:1; }
+.card-thumb-placeholder .ph-label {
+  font-family:'Inter',sans-serif; font-size:9px; font-weight:600;
+  letter-spacing:0.04em; color:var(--text-dim);
+}
+
+.card-body { flex:1; padding:0.8rem 0.9rem 0.8rem 0.85rem; min-width:0; }
+.card-top { display:flex; align-items:flex-start; justify-content:space-between; gap:0.75rem; margin-bottom:0.3rem; }
+.card-title { font-size:13.5px; font-weight:500; color:var(--text); line-height:1.45; transition:color 0.1s; }
+.card-title:hover { color:var(--accent); }
+.card-date { font-family:'Inter',sans-serif; font-size:11px; color:var(--text-dim); white-space:nowrap; flex-shrink:0; margin-top:2px; }
+
+/* 著者エリア */
+.card-author-row {
+  display:flex; align-items:center; gap:0.5rem; margin-bottom:0.4rem;
+  min-width:0;
+}
+.platform-badge {
+  display:inline-flex; align-items:center; gap:0.25rem;
+  font-size:10px; font-family:'Inter',sans-serif; font-weight:600;
+  padding:2px 7px; border-radius:100px; flex-shrink:0;
+  letter-spacing:0.02em;
+}
+.platform-badge .pb-dot { width:5px; height:5px; border-radius:50%; flex-shrink:0; }
+.pb-note    { background:#dcfce7; color:var(--note-c); }
+.pb-youtube { background:#fee2e2; color:var(--yt-c); }
+.pb-blog    { background:#ede9fe; color:var(--blog-c); }
+.pb-other   { background:#fef3c7; color:var(--other-c); }
+
+.author-avatar {
+  width:18px; height:18px; border-radius:50%; flex-shrink:0;
+  display:flex; align-items:center; justify-content:center;
+  font-size:9px; font-weight:700; font-family:'Inter',sans-serif;
+  color:#fff; letter-spacing:0;
+}
+.card-author {
+  font-size:12.5px; color:var(--text); font-weight:700;
+  white-space:nowrap; overflow:hidden; text-overflow:ellipsis; min-width:0;
+  cursor:pointer; text-decoration:underline; text-underline-offset:2px;
+  text-decoration-color:var(--border2);
+  transition:color 0.1s;
+}
+.card-author:hover { color:var(--accent); text-decoration-color:var(--accent); }
+
+/* 著者フィルター中バナー */
+.author-filter-banner {
+  display:none; align-items:center; justify-content:space-between;
+  background:#fffbeb; border:1px solid #fde68a;
+  border-radius:var(--radius); padding:0.55rem 1rem;
+  font-size:13px; color:#92400e; margin-bottom:0.75rem;
+  gap:0.5rem;
+}
+.author-filter-banner.show { display:flex; }
+.author-filter-banner strong { font-weight:700; }
+.btn-clear-author {
+  padding:0.25rem 0.65rem; border-radius:6px;
+  border:1px solid #f59e0b; background:transparent;
+  color:#92400e; font-size:12px; cursor:pointer;
+  white-space:nowrap; transition:background 0.1s;
+  font-family:'Noto Sans JP',sans-serif;
+}
+.btn-clear-author:hover { background:#fef3c7; }
+
+.card-desc {
+  font-size:12.5px; color:var(--text-sub); line-height:1.55;
+  margin-bottom:0.5rem;
+  display:-webkit-box; -webkit-line-clamp:2; -webkit-box-orient:vertical; overflow:hidden;
+}
+
+/* カード下部 */
+.card-bottom { display:flex; align-items:center; justify-content:space-between; gap:0.5rem; }
+.card-tags { display:flex; flex-wrap:wrap; gap:0.25rem; flex:1; }
+.card-tag { display:inline-flex; align-items:center; padding:0.1rem 0.5rem; border-radius:100px; border:1px solid var(--border); font-size:11px; color:var(--text-dim); cursor:pointer; transition:all 0.1s; font-family:'Noto Sans JP',sans-serif; background:var(--bg); }
+.card-tag:hover { border-color:var(--border2); color:var(--text-sub); }
+.card-tag.active-tag { background:var(--text); border-color:var(--text); color:#fff; }
+
+/* いいねボタン */
+.like-btn {
+  display:inline-flex; align-items:center; gap:0.3rem;
+  padding:0.25rem 0.6rem; border-radius:100px;
+  border:1px solid var(--border); background:var(--white);
+  font-size:12px; font-family:'Inter',sans-serif; color:var(--text-dim);
+  cursor:pointer; transition:all 0.15s; flex-shrink:0;
+  user-select:none;
+}
+.like-btn:hover { border-color:#fca5a5; color:#ef4444; background:#fff5f5; }
+.like-btn.liked { border-color:#ef4444; color:#ef4444; background:#fff5f5; }
+.like-btn.liked .like-heart { transform:scale(1.2); }
+.like-heart { transition:transform 0.15s; display:inline-block; }
+.like-count { font-weight:600; min-width:14px; text-align:center; }
+
+/* PAGINATION */
+.pagination { display:flex; justify-content:center; align-items:center; gap:0.35rem; margin-top:1.5rem; flex-wrap:wrap; }
+.page-btn {
+  min-width:36px; height:36px; padding:0 0.5rem; border-radius:var(--radius);
+  border:1px solid var(--border); background:var(--white); font-size:13px;
+  font-family:'Inter',sans-serif; color:var(--text-sub); cursor:pointer;
+  transition:all 0.1s; display:flex; align-items:center; justify-content:center;
+  box-shadow:var(--shadow-sm);
+}
+.page-btn:hover { border-color:var(--border2); color:var(--text); }
+.page-btn.active { background:var(--text); border-color:var(--text); color:#fff; font-weight:600; }
+.page-btn:disabled { opacity:0.35; cursor:not-allowed; }
+.page-info { font-size:12px; font-family:'Inter',sans-serif; color:var(--text-dim); padding:0 0.25rem; }
+
+/* EMPTY / LOADING */
+.empty { text-align:center; padding:4rem 1rem; color:var(--text-dim); font-size:13px; }
+#loadingOverlay { display:flex; align-items:center; justify-content:center; padding:4rem 0; gap:0.6rem; color:var(--text-dim); font-size:13px; }
+.spinner { width:16px; height:16px; border:2px solid var(--border2); border-top-color:var(--accent); border-radius:50%; animation:spin 0.7s linear infinite; }
+@keyframes spin { to { transform:rotate(360deg); } }
+
+/* FOOTER */
+.site-footer { text-align:center; padding:2rem 0 1rem; font-size:11.5px; color:var(--text-dim); font-family:'Inter',sans-serif; line-height:1.8; }
+
+@media (max-width:600px) {
+  nav { padding:0 1rem; }
+  .page { padding:1.25rem 1rem 5rem; }
+  .card-thumb, .card-thumb-placeholder { width:88px; height:62px; margin:0.7rem 0 0.7rem 0.85rem; }
+  .card-body { padding:0.7rem 0.75rem 0.7rem 0.75rem; }
+  .card-author-row { flex-wrap:wrap; gap:0.3rem; }
+}
+</style>
+</head>
+<body>
+
+<nav>
+  <div class="nav-logo">Poker Strategy Library</div>
+  <div class="nav-right">
+    <span class="nav-count" id="navCount"></span>
+  </div>
+</nav>
+
+<div class="page">
+  <div class="page-title">ポーカー戦略コンテンツまとめ</div>
+
+  <div class="toolbar">
+    <div class="platform-bar">
+      <span class="pf-label">Source</span>
+      <button class="pf-pill active-all" data-platform="all"><span class="pf-dot" style="background:#9ca3af"></span>すべて</button>
+      <button class="pf-pill" data-platform="note"><span class="pf-dot" style="background:var(--note-c)"></span>note</button>
+      <button class="pf-pill" data-platform="youtube"><span class="pf-dot" style="background:var(--yt-c)"></span>YouTube</button>
+      <button class="pf-pill" data-platform="blog"><span class="pf-dot" style="background:var(--blog-c)"></span>ブログ</button>
+      <button class="pf-pill" data-platform="other"><span class="pf-dot" style="background:var(--other-c)"></span>その他</button>
+    </div>
+    <div class="search-sort">
+      <div class="search-wrap">
+        <svg width="14" height="14" viewBox="0 0 16 16" fill="none">
+          <circle cx="7" cy="7" r="5.5" stroke="currentColor" stroke-width="1.5"/>
+          <path d="M11 11l3 3" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/>
+        </svg>
+        <input type="text" id="searchInput" placeholder="タイトル・著者・タグで検索...">
+      </div>
+      <select class="sort-select" id="sortSelect">
+        <option value="date-desc">新しい順</option>
+        <option value="date-asc">古い順</option>
+        <option value="likes-desc">いいね数順</option>
+        <option value="title">タイトル順</option>
+        <option value="author">著者順</option>
+      </select>
+    </div>
+    <div class="tag-row" id="tagRow"></div>
+  </div>
+
+  <div class="author-filter-banner" id="authorBanner">
+    <span>著者フィルター中: <strong id="authorBannerName"></strong></span>
+    <button class="btn-clear-author" id="clearAuthorBtn">✕ 解除</button>
+  </div>
+
+  <div class="result-info">
+    <div class="result-count"><strong id="resultCount">0</strong> 件</div>
+    <div class="page-info" id="pageInfo"></div>
+  </div>
+
+  <div id="loadingOverlay"><div class="spinner"></div><span>読み込み中...</span></div>
+  <div id="cardList" style="display:none"></div>
+  <div class="pagination" id="pagination"></div>
+
+  <footer class="site-footer">
+    掲載記事の著作権は各著者・メディアに帰属します。掲載削除のご要望は管理者までご連絡ください。
+  </footer>
+</div>
+
+<script>
+/* ════════════════════════════════
+   CONFIG
+════════════════════════════════ */
+const APPROVED_JSON  = "articles.json";
+const PER_PAGE       = 50;
+
+const PLATFORM_LABEL = { note:'note', youtube:'YouTube', blog:'ブログ', other:'その他' };
+const PLATFORM_CLS   = { note:'pb-note', youtube:'pb-youtube', blog:'pb-blog', other:'pb-other' };
+const PLATFORM_ICON  = { note:'📝', youtube:'▶', blog:'🌐', other:'◉' };
+
+/* ════════════════════════════════
+   STATE
+════════════════════════════════ */
+let articles       = [];
+let activePlatform = 'all';
+let activeTag      = 'all';
+let activeAuthor   = '';   // 著者フィルター
+let searchQuery    = '';
+let sortMode       = 'date-desc';
+let currentPage    = 1;
+let likes          = {};
+
+/* ════════════════════════════════
+   PERSISTENCE
+════════════════════════════════ */
+function loadLikes() {
+  try { likes = JSON.parse(localStorage.getItem('pokerLibLikes') || '{}'); } catch(e) {}
+}
+function saveLikes() {
+  try { localStorage.setItem('pokerLibLikes', JSON.stringify(likes)); } catch(e) {}
+}
+
+/* ════════════════════════════════
+   FETCH
+════════════════════════════════ */
+async function fetchArticles() {
+  try {
+    const res = await fetch(APPROVED_JSON + '?_=' + Date.now());
+    return await res.json();
+  } catch(e) {
+    console.warn('approved.json 取得失敗:', e);
+    return [];
+  }
+}
+
+/* ════════════════════════════════
+   FILTER / SORT
+════════════════════════════════ */
+function getAllTags() {
+  const s = new Set();
+  articles.forEach(a => (a.tags||[]).forEach(t => s.add(t)));
+  return [...s].sort((a,b) => a.localeCompare(b,'ja'));
+}
+
+function getFiltered() {
+  let list = [...articles];
+  if (activePlatform !== 'all') list = list.filter(a => a.platform === activePlatform);
+  if (activeTag !== 'all')      list = list.filter(a => (a.tags||[]).includes(activeTag));
+  if (activeAuthor)             list = list.filter(a => a.author === activeAuthor);
+  if (searchQuery) {
+    const q = searchQuery;
+    list = list.filter(a =>
+      (a.title||'').toLowerCase().includes(q) ||
+      (a.author||'').toLowerCase().includes(q) ||
+      (a.desc||'').toLowerCase().includes(q) ||
+      (a.tags||[]).some(t => t.toLowerCase().includes(q))
+    );
+  }
+  list.sort((a,b) => {
+    if (sortMode==='date-desc')  return new Date(b.date)-new Date(a.date);
+    if (sortMode==='date-asc')   return new Date(a.date)-new Date(b.date);
+    if (sortMode==='likes-desc') return (likes[b.id]||0)-(likes[a.id]||0);
+    if (sortMode==='title')      return (a.title||'').localeCompare(b.title||'','ja');
+    if (sortMode==='author')     return (a.author||'').localeCompare(b.author||'','ja');
+    return 0;
+  });
+  return list;
+}
+
+/* ════════════════════════════════
+   RENDER
+════════════════════════════════ */
+function esc(s) {
+  const d = document.createElement('div');
+  d.textContent = s || '';
+  return d.innerHTML;
+}
+
+function setPlatform(p) {
+  activePlatform = p;
+  currentPage = 1;
+  document.querySelectorAll('.pf-pill[data-platform]').forEach(b => {
+    b.className = 'pf-pill';
+    if (b.dataset.platform === p) b.classList.add('active-' + (p==='all'?'all':p));
+  });
+  renderAll();
+}
+
+function renderTagRow() {
+  const row  = document.getElementById('tagRow');
+  const tags = getAllTags();
+  const allBtn = `<button class="tag-chip ${activeTag==='all'?'active':''}" data-tag="all">すべて</button>`;
+  const chips  = tags.map(t =>
+    `<button class="tag-chip ${activeTag===t?'active':''}" data-tag="${esc(t)}">${esc(t)}</button>`
+  ).join('');
+  row.innerHTML = `<span class="tag-row-label">Tag</span>${allBtn}${chips}`;
+  row.querySelectorAll('.tag-chip').forEach(b => b.addEventListener('click', () => {
+    activeTag = b.dataset.tag; currentPage = 1; renderTagRow(); renderCards();
+  }));
+}
+
+function renderCards() {
+  const filtered = getFiltered();
+  const total    = filtered.length;
+  const totalPages = Math.ceil(total / PER_PAGE) || 1;
+  if (currentPage > totalPages) currentPage = totalPages;
+
+  const start = (currentPage - 1) * PER_PAGE;
+  const page  = filtered.slice(start, start + PER_PAGE);
+
+  document.getElementById('resultCount').textContent = total;
+  document.getElementById('navCount').textContent    = articles.length + ' 件';
+  document.getElementById('pageInfo').textContent    =
+    totalPages > 1 ? `${currentPage} / ${totalPages} ページ` : '';
+
+  const el = document.getElementById('cardList');
+
+  if (!page.length) {
+    el.innerHTML = `<div class="empty">条件に一致する記事が見つかりませんでした</div>`;
+    renderPagination(0, 1);
+    return;
+  }
+
+  el.innerHTML = page.map(a => {
+    const pcls   = PLATFORM_CLS[a.platform]   || 'pb-other';
+    const plabel = PLATFORM_LABEL[a.platform] || 'Other';
+    const picon  = PLATFORM_ICON[a.platform]  || '◉';
+    const likeCount = likes[a.id] || 0;
+    const isLiked   = likes[a.id + '_liked'] ? 'liked' : '';
+
+    // プラットフォーム別ドット色
+    const dotColor = {
+      note:'#16a34a', youtube:'#dc2626', blog:'#7c3aed', other:'#d97706'
+    }[a.platform] || '#9ca3af';
+
+    const avatarBg = dotColor;
+    const authorName = a.author || '';
+    const authorInitial = authorName ? [...authorName][0].toUpperCase() : '?';
+
+    // サムネHTML（画像あり/なしで切り替え）
+    const thumbHtml = a.thumbnail
+      ? `<img class="card-thumb" src="${esc(a.thumbnail)}" alt="" loading="lazy"
+           onerror="this.style.display='none';this.nextElementSibling.style.display='flex'"
+         ><div class="card-thumb-placeholder" style="display:none">
+           <span class="ph-icon">${picon}</span>
+           <span class="ph-label">${plabel}</span>
+         </div>`
+      : `<div class="card-thumb-placeholder">
+           <span class="ph-icon">${picon}</span>
+           <span class="ph-label">${plabel}</span>
+         </div>`;
+
+    // descのHTMLタグをフロント側でも除去（二重対策）
+    const cleanDesc = (a.desc||'').replace(/<[^>]*>/g,'').replace(/\s+/g,' ').trim();
+
+    const tagsHtml = (a.tags||[]).map(t =>
+      `<span class="card-tag ${activeTag===t?'active-tag':''}" data-tag="${esc(t)}">${esc(t)}</span>`
+    ).join('');
+
+    return `
+    <div class="card" data-id="${esc(a.id)}" data-url="${esc(a.url)}" data-platform="${esc(a.platform||'other')}">
+      ${thumbHtml}
+      <div class="card-body">
+        <div class="card-top">
+          <a class="card-title" href="${esc(a.url)}" target="_blank" rel="noopener"
+             onclick="event.stopPropagation()">${esc(a.title)}</a>
+          <span class="card-date">${esc(a.date||'')}</span>
+        </div>
+        <div class="card-author-row">
+          <span class="platform-badge ${pcls}">
+            <span class="pb-dot" style="background:${dotColor}"></span>${plabel}
+          </span>
+          <span class="author-avatar" style="background:${avatarBg}">${esc(authorInitial)}</span>
+          <span class="card-author" data-author="${esc(authorName)}" title="${esc(authorName)}"
+                onclick="event.stopPropagation()">${esc(authorName)}</span>
+        </div>
+        ${cleanDesc ? `<p class="card-desc">${esc(cleanDesc)}</p>` : ''}
+        <div class="card-bottom">
+          <div class="card-tags">${tagsHtml}</div>
+          <button class="like-btn ${isLiked}" data-id="${esc(a.id)}" onclick="event.stopPropagation()">
+            <span class="like-heart">${isLiked ? '❤️' : '🤍'}</span>
+            <span class="like-count">${likeCount}</span>
+          </button>
+        </div>
+      </div>
+    </div>`;
+  }).join('');
+
+  // 著者クリック → 著者フィルター
+  el.querySelectorAll('.card-author').forEach(el => {
+    el.addEventListener('click', e => {
+      e.stopPropagation();
+      const author = el.dataset.author;
+      if (!author) return;
+      activeAuthor = author;
+      currentPage  = 1;
+      document.getElementById('authorBannerName').textContent = author;
+      document.getElementById('authorBanner').classList.add('show');
+      renderCards();
+    });
+  });
+
+  // タグクリック
+  el.querySelectorAll('.card-tag').forEach(t => t.addEventListener('click', e => {
+    e.stopPropagation();
+    activeTag = t.dataset.tag; currentPage = 1;
+    renderTagRow(); renderCards();
+  }));
+
+  // カードクリック（タイトルリンク以外）
+  el.querySelectorAll('.card').forEach(card => {
+    card.addEventListener('click', () => {
+      const url = card.dataset.url;
+      if (url && url !== '#') window.open(url, '_blank', 'noopener');
+    });
+  });
+
+  // いいね
+  el.querySelectorAll('.like-btn').forEach(btn => {
+    btn.addEventListener('click', e => {
+      e.stopPropagation();
+      const id = btn.dataset.id;
+      const alreadyLiked = likes[id + '_liked'];
+      if (alreadyLiked) {
+        likes[id] = Math.max(0, (likes[id]||0) - 1);
+        delete likes[id + '_liked'];
+      } else {
+        likes[id] = (likes[id]||0) + 1;
+        likes[id + '_liked'] = 1;
+      }
+      saveLikes();
+      // ボタンだけ即更新
+      const count = likes[id] || 0;
+      const liked = !!likes[id + '_liked'];
+      btn.className = 'like-btn' + (liked ? ' liked' : '');
+      btn.querySelector('.like-heart').textContent = liked ? '❤️' : '🤍';
+      btn.querySelector('.like-count').textContent = count;
+    });
+  });
+
+  renderPagination(total, totalPages);
+  // ページ先頭にスクロール（初回以外）
+  if (currentPage > 1) window.scrollTo({ top: 0, behavior: 'smooth' });
+}
+
+function renderPagination(total, totalPages) {
+  const el = document.getElementById('pagination');
+  if (totalPages <= 1) { el.innerHTML = ''; return; }
+
+  let html = '';
+  html += `<button class="page-btn" id="prevPage" ${currentPage===1?'disabled':''}>‹</button>`;
+
+  // 表示するページ番号
+  const range = [];
+  for (let i = 1; i <= totalPages; i++) {
+    if (i === 1 || i === totalPages || Math.abs(i - currentPage) <= 2) range.push(i);
+    else if (range[range.length-1] !== '…') range.push('…');
+  }
+  range.forEach(p => {
+    if (p === '…') {
+      html += `<span class="page-info">…</span>`;
+    } else {
+      html += `<button class="page-btn ${p===currentPage?'active':''}" data-page="${p}">${p}</button>`;
+    }
+  });
+
+  html += `<button class="page-btn" id="nextPage" ${currentPage===totalPages?'disabled':''}>›</button>`;
+  el.innerHTML = html;
+
+  el.querySelectorAll('.page-btn[data-page]').forEach(btn =>
+    btn.addEventListener('click', () => { currentPage = +btn.dataset.page; renderCards(); }));
+  el.querySelector('#prevPage')?.addEventListener('click', () => { currentPage--; renderCards(); });
+  el.querySelector('#nextPage')?.addEventListener('click', () => { currentPage++; renderCards(); });
+}
+
+function renderAll() { renderTagRow(); renderCards(); }
+
+/* ════════════════════════════════
+   LISTENERS
+════════════════════════════════ */
+document.querySelectorAll('.pf-pill[data-platform]').forEach(b =>
+  b.addEventListener('click', () => setPlatform(b.dataset.platform)));
+document.getElementById('searchInput').addEventListener('input', e => {
+  searchQuery = e.target.value.toLowerCase(); currentPage = 1; renderCards();
+});
+document.getElementById('sortSelect').addEventListener('change', e => {
+  sortMode = e.target.value; currentPage = 1; renderCards();
+});
+
+document.getElementById('clearAuthorBtn').addEventListener('click', () => {
+  activeAuthor = '';
+  currentPage  = 1;
+  document.getElementById('authorBanner').classList.remove('show');
+  renderCards();
+});
+
+/* ════════════════════════════════
+   INIT
+════════════════════════════════ */
+async function init() {
+  loadLikes();
+  articles = await fetchArticles();
+  document.getElementById('loadingOverlay').style.display = 'none';
+  document.getElementById('cardList').style.display       = 'flex';
+  renderAll();
+}
+
+init();
+</script>
+</body>
+</html>
