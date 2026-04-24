@@ -2562,7 +2562,8 @@
     "desc": "本記事は以下の記事を取り上げ、独自の視点で解説を加えた解説記事です。 出典・引用元: Alan Goasdoue Wins the GGPoker WSOP Super Circuit Main Event for $2.2M 解析：20BBは「詰み」ではない 続きをみる",
     "tags": [
       "ポジション",
-      "エクイティ"
+      "エクイティ",
+      "特定のスタック"
     ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/262117792/rectangle_large_type_2_03f4654da419bc2f0b51e4a646731036.jpeg?fit=bounds&quality=85&width=1280",
     "source": "rss"
@@ -3254,7 +3255,8 @@
     "desc": "",
     "tags": [
       "レンジ",
-      "ポジション"
+      "ポジション",
+      "特定のスタック"
     ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/259955614/rectangle_large_type_2_b18894afe04148de3247c59d5a0bcfb2.jpeg?fit=bounds&quality=85&width=1280",
     "source": "initial_fetch_creator"
@@ -3733,7 +3735,8 @@
       "ICM",
       "MTT",
       "上級",
-      "入門"
+      "入門",
+      "バブルファクター"
     ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/258320412/rectangle_large_type_2_6c5033eeaad4225d7f6adbac5abbc2e6.png?fit=bounds&quality=85&width=1280",
     "source": "rss"
@@ -4341,7 +4344,9 @@
     "date": "2026-03-01",
     "desc": "",
     "tags": [
-      "ポジション"
+      "ポジション",
+      "特定のスタック",
+      "特定のポジション"
     ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/255456282/rectangle_large_type_2_9aa984a2b77cab7881aa68ec85a7e9b6.jpeg?fit=bounds&quality=85&width=1280",
     "source": "initial_fetch_creator"
@@ -4763,7 +4768,8 @@
     "date": "2026-02-24",
     "desc": "",
     "tags": [
-      "ポジション"
+      "ポジション",
+      "特定のスタック"
     ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/254132777/rectangle_large_type_2_c800a5f4300218d6816b49422bdcc17b.jpeg?fit=bounds&quality=85&width=1280",
     "source": "initial_fetch_creator"
@@ -5097,7 +5103,8 @@
     "desc": "",
     "tags": [
       "ポストフロップ",
-      "ポジション"
+      "ポジション",
+      "特定のスタック"
     ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/252956048/rectangle_large_type_2_0e6f152130d0f4627b7d70f4dd7dc4de.jpeg?fit=bounds&quality=85&width=1280",
     "source": "initial_fetch_creator"
@@ -5362,7 +5369,8 @@
     "date": "2026-02-12",
     "desc": "",
     "tags": [
-      "ポジション"
+      "ポジション",
+      "特定のスタック"
     ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/251023514/rectangle_large_type_2_23157017a9697a9908e4fb4fe8cf5071.jpeg?fit=bounds&quality=85&width=1280",
     "source": "initial_fetch_creator"
@@ -13345,7 +13353,6 @@
       "ポジション",
       "MTT",
       "ソルバー",
-      "20BB",
       "オールイン"
     ],
     "thumbnail": "https://i.ytimg.com/vi/xgl2wy5gCps/mqdefault.jpg",
@@ -14297,8 +14304,8 @@
       "レンジ",
       "ポジション",
       "ソルバー",
-      "15BB",
-      "プリフロップ"
+      "プリフロップ",
+      "特定のスタック"
     ],
     "thumbnail": "https://i.ytimg.com/vi/-87DrPkkrP8/mqdefault.jpg",
     "source": "initial_fetch_yt"
