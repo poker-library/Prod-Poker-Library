@@ -3655,7 +3655,6 @@
       "ポジション",
       "MTT",
       "キャッシュゲーム",
-      "SB",
       "リンプ"
     ],
     "thumbnail": "https://i.ytimg.com/vi/tlLElgMLz-s/mqdefault.jpg",
@@ -8453,8 +8452,8 @@
       "GTO",
       "レンジ",
       "ポジション",
-      "SB",
-      "BB"
+      "BB",
+      "特定のポジション"
     ],
     "thumbnail": "https://i.ytimg.com/vi/DujU01LqxFY/mqdefault.jpg",
     "source": "initial_fetch_yt"
@@ -11495,8 +11494,8 @@
     "tags": [
       "ポジション",
       "33",
-      "SB",
-      "MTT"
+      "MTT",
+      "特定のポジション"
     ],
     "thumbnail": "https://i.ytimg.com/vi/XqLDjFtAHl8/mqdefault.jpg",
     "source": "initial_fetch_yt"
