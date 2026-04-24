@@ -5962,7 +5962,7 @@
     "date": "2026-02-03",
     "desc": "ショートのTwitter（ポーカー戦略をつぶやきます） https://twitter.com/shortstackadven ゆるっとポーカー質問箱 ポーカー ...",
     "tags": [
-      "ポーカー"
+      "特定の環境"
     ],
     "thumbnail": "https://i.ytimg.com/vi/P2P3iBGyydw/mqdefault.jpg",
     "source": "initial_fetch_yt"
@@ -6399,8 +6399,7 @@
     "date": "2026-01-27",
     "desc": "ショートのTwitter（ポーカー戦略をつぶやきます） https://twitter.com/shortstackadven ゆるっとポーカー質問箱 ポーカー ...",
     "tags": [
-      "ポーカー",
-      "EDGE POKER"
+      "特定の環境"
     ],
     "thumbnail": "https://i.ytimg.com/vi/Q7c9jaSZi74/mqdefault.jpg",
     "source": "initial_fetch_yt"
@@ -35522,7 +35521,8 @@
     "date": "2024-03-26",
     "desc": "Playing out of position (OOP) is hard. It’s fundamentally disadvantageous to act on each street without knowing your opponent’s action while they get to act with knowledge of yours. This disadvantage ",
     "tags": [
-      "ポジション"
+      "ポジション",
+      "リバー"
     ],
     "thumbnail": "https://blog.gtowizard.com/wp-content/uploads/2024/03/gto-wizard-navigating-nasty-rivers-as-oop-blogpost-thumbnail.png",
     "source": "initial_fetch_web"
@@ -40202,7 +40202,8 @@
     "date": "2023-04-10",
     "desc": "Why do so many professional poker players register late for tournaments when they clearly would enjoy a big edge with deeper stacks? It is because you can enjoy an ICM equity boost that is on par with",
     "tags": [
-      "ICM"
+      "ICM",
+      "MTT"
     ],
     "thumbnail": "https://blog.gtowizard.com/wp-content/uploads/2023/04/1280x720-blogpost.jpg",
     "source": "initial_fetch_web"
