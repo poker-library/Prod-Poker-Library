@@ -1,5 +1,209 @@
 [
   {
+    "id": "auto-a7f76a932c",
+    "title": "GTOオープンレンジ MTT ・6max・ICM編",
+    "url": "https://note.com/daichi_t9s/n/n78acf4df5dfa",
+    "author": "Daichi",
+    "platform": "note",
+    "date": "2026-04-24",
+    "desc": "GTO Wizardで出力したMTT ・6max・ICMのオープンレンジ一覧です！ 最終更新日：2026/4/25 続きをみる",
+    "tags": [
+      "MTT",
+      "GTO",
+      "理論",
+      "ソルバー",
+      "ICM"
+    ],
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/270126003/rectangle_large_type_2_eb273c531bfd69b962f572859b144e50.png?fit=bounds&quality=85&width=1280",
+    "source": "rss"
+  },
+  {
+    "id": "auto-4e6a9d64b4",
+    "title": "Stage8-4 練習問題の解答・解説",
+    "url": "https://note.com/gto_theorem/n/n7401bc6dfb1f",
+    "author": "週刊均衡",
+    "platform": "note",
+    "date": "2026-04-24",
+    "desc": "文責：Drama(@RiverProbe) 問題と解答 続きをみる",
+    "tags": [
+      "勉強法",
+      "GTO"
+    ],
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/267911670/rectangle_large_type_2_054616e433ca6ada32f67db44c0bb4a8.png?fit=bounds&quality=85&width=1280",
+    "source": "rss"
+  },
+  {
+    "id": "auto-5bd83c15cc",
+    "title": "【超初心者向け】ポーカーの「エクイティ」って何？勝率を「目に見える資産」に変える魔法の考え方",
+    "url": "https://note.com/poker_room_tt/n/n62f6c777e966",
+    "author": "不明",
+    "platform": "note",
+    "date": "2026-04-24",
+    "desc": "いつも購読ありがとうございます。 Poker Room TT 店長の中森 です。 ポーカーの解説動画や本を見ていると必ず出てくる「エクイティ（Equity）」という言葉。 「期待値とか勝率のこと？」「なんか難しそう……」と敬遠していませんか？ 続きをみる",
+    "tags": [
+      "理論",
+      "エクイティ"
+    ],
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/266833999/rectangle_large_type_2_50900573e8a99ad909aea020911f1ed2.png?fit=bounds&quality=85&width=1280",
+    "source": "rss"
+  },
+  {
+    "id": "auto-b12aa500d1",
+    "title": "大型大会で損をしないために、最新の「TDAルール（2024年版）」を読み込むべき5つの理由",
+    "url": "https://note.com/cstp_akabane/n/nebe53e156257",
+    "author": "C.S.T.P AKABANE",
+    "platform": "note",
+    "date": "2026-04-24",
+    "desc": "はじめに GTOやエクスプロイト戦略を熱心に勉強しているプレイヤーは多いですが、トーナメントの「ルールブック」を隅々まで読んだことがある人はどれくらいいるでしょうか？ JOPTなどの国内大型大会や、海外のビッグトーナメントにおいて、「ルールを知らなかった」というたった一つのミスが、致命的なチップロスやトーナメントライフの終了を招くことがあります。 今回は、プレイヤーが自分のチップと権利を守るために",
+    "tags": [
+      "MTT",
+      "ルール"
+    ],
+    "thumbnail": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/c6c244f17345021e0075a521a90666c4da2c3cec.png",
+    "source": "rss"
+  },
+  {
+    "id": "auto-56f83de35d",
+    "title": "🃏【ポーカークイズ】ターンでオッズ約20%…それでもコールする？",
+    "url": "https://note.com/atsushi3194/n/n6e338522bf8f",
+    "author": "ポーカー部アツシ",
+    "platform": "note",
+    "date": "2026-04-24",
+    "desc": "🎯この記事のターゲット ・低レートで勝ちきれない人 ・ポットオッズを実戦で使いたい人 ・感覚ではなくロジックでプレーしたい人 --- 続きをみる",
+    "tags": [
+      "ターン",
+      "理論",
+      "コール"
+    ],
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/269917637/rectangle_large_type_2_8ade58a7be11e588a05fe6dd5d4b46dc.png?fit=bounds&quality=85&width=1280",
+    "source": "rss"
+  },
+  {
+    "id": "auto-17c1b039bc",
+    "title": "１日１問GTO戦略クイズ【#5】",
+    "url": "https://www.youtube.com/watch?v=qRuh7tPd7hM",
+    "author": "心配性ポーカー",
+    "platform": "youtube",
+    "date": "2026-04-24",
+    "desc": "LJ vs BBのシングルレイズドポットに関するGTO戦略のクイズです！！ ＜問題の設定＞ ・9人MAX ・4bb cap/5% ・2.5bb open ...",
+    "tags": [
+      "特定のポジション",
+      "GTO",
+      "レイズ",
+      "SRP"
+    ],
+    "thumbnail": "https://i.ytimg.com/vi/qRuh7tPd7hM/mqdefault.jpg",
+    "source": "youtube_api"
+  },
+  {
+    "id": "auto-1e6df05665",
+    "title": "【超入門】ポーカーの「ポ」の字も知らないあなたへ——10分でわかるテキサスホールデムの正体",
+    "url": "https://note.com/poker_room_tt/n/n54f1a223fc54",
+    "author": "不明",
+    "platform": "note",
+    "date": "2026-04-23",
+    "desc": "こんにちは。 Poker Room TT 店長の中森 です。 「ポーカー？ 名前は聞いたことあるけど、5枚配られて交換するやつでしょ？」 もしそう思っているなら、あなたはまだ、世界中が熱狂している「本当のポーカー」の面白さを知りません。 続きをみる",
+    "tags": [
+      "初心者向け"
+    ],
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/269641692/rectangle_large_type_2_bda4b95667108f6b6ae34f946a8699a6.png?fit=bounds&quality=85&width=1280",
+    "source": "rss"
+  },
+  {
+    "id": "auto-9a65a21acb",
+    "title": "multiway potだけ急に“当たった人勝ち”で止まってない？",
+    "url": "https://note.com/arinasinjya/n/n90619d097cbe",
+    "author": "アリナ信者の会",
+    "platform": "note",
+    "date": "2026-04-23",
+    "desc": "人数が増えた瞬間、思考を切る人へ ━━━━━━━━━━ 続きをみる",
+    "tags": [
+      "マルチウェイ"
+    ],
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/269863172/rectangle_large_type_2_be746eed1e3f01e56d763ce0c61aff56.png?fit=bounds&quality=85&width=1280",
+    "source": "rss"
+  },
+  {
+    "id": "auto-990cf79df3",
+    "title": "【ポーカー/トーナメント戦略⑥】有効なエクスプロイト3選(preflop編)※重要度☆☆☆",
+    "url": "https://note.com/pokerpokerpro/n/neb61658d8119",
+    "author": "ポーカープロが解説するよtori🐦",
+    "platform": "note",
+    "date": "2026-04-23",
+    "desc": "こんばんは、 ポーカープロのtori🐦です。 今回もトーナメント対策として、 実際のJOPTのハンドを基に、 有効なエクスプロイト戦略を3つ紹介します。 トーナメント特有のエクスプロイト戦略は多く存在します。 GWは大型大会が多いので、 ぜひ今のうちに準備しておいてください。 続きをみる",
+    "tags": [
+      "MTT",
+      "プリフロップ",
+      "エクスプロイト"
+    ],
+    "thumbnail": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/f8bdb74c4b18e7d7f509545e4054e1d366993c54.png",
+    "source": "rss"
+  },
+  {
+    "id": "auto-9bfbfc7406",
+    "title": "【m HOLD'EM】ランクマッチで勝ち抜くために意識している3つのこと",
+    "url": "https://note.com/doka12356/n/nad3b13b6a33e",
+    "author": "きっど",
+    "platform": "note",
+    "date": "2026-04-23",
+    "desc": "■ はじめに 続きをみる",
+    "tags": [
+      "戦略",
+      "特定の環境"
+    ],
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/269823287/rectangle_large_type_2_087a089cd7a9fb4ba007c311f5e273d4.png?fit=bounds&quality=85&width=1280",
+    "source": "rss"
+  },
+  {
+    "id": "auto-69d3dc6474",
+    "title": "勝てる卓で、強い時だけ急にデカくなってない？",
+    "url": "https://note.com/arinasinjya/n/n41335cbbd186",
+    "author": "アリナ信者の会",
+    "platform": "note",
+    "date": "2026-04-23",
+    "desc": "“取りたい気持ち”がサイズに出る人へ ━━━━━━━━━━━━━━━━━━ 続きをみる",
+    "tags": [],
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/269822882/rectangle_large_type_2_f2e50d28f9055241fbd9b1a2447a4a9a.png?fit=bounds&quality=85&width=1280",
+    "source": "rss"
+  },
+  {
+    "id": "auto-8c8eeb781e",
+    "title": "勝てる卓なのに“値段だけ通常卓”で置いてない？",
+    "url": "https://note.com/arinasinjya/n/nbb850e9a915a",
+    "author": "アリナ信者の会",
+    "platform": "note",
+    "date": "2026-04-23",
+    "desc": "callされるほど嬉しい場面で、まだ丸いサイズを置く人へ ━━━━━━━━━━ 形式 ：通常MTT 段階 ：全段階の入口 深さ ：全深さ共通の前提事故 主判断 ：value bet / value size 症状 ：降りにくい相手にもサイズが通常卓のまま細い この場面で一番大事なこと ：降りにくい相手には、降ろす前に払わせ方を変える この記事で止める事故 ：valueは打てているのに、値段だけ足り",
+    "tags": [
+      "MTT",
+      "エクスプロイト",
+      "バリュー",
+      "ベット",
+      "コール"
+    ],
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/269800641/rectangle_large_type_2_ce38d11692f8fffbdf91c638d6920adf.png?fit=bounds&quality=85&width=1280",
+    "source": "rss"
+  },
+  {
+    "id": "auto-2fe538cf01",
+    "title": "BvBだけ“1回打っとけ”で済ませてない？",
+    "url": "https://note.com/arinasinjya/n/n9ec97e012964",
+    "author": "アリナ信者の会",
+    "platform": "note",
+    "date": "2026-04-23",
+    "desc": "理由のないc-betが増える人へ 形式 ：通常MTT 段階 ：中盤〜終盤 深さ ：20〜40bb 主判断 ：BvBのflop c-bet 症状 ：広いレンジ環境を“とりあえず1発”に変えてしまう 止める事故 ：理由のない自動c-bet この記事が壊す思考停止 ：BvBは広いから、とりあえず1回打っておけばいい 続きをみる",
+    "tags": [
+      "MTT",
+      "フロップ",
+      "特定のポジション",
+      "理論",
+      "ベット",
+      "CB"
+    ],
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/269777022/rectangle_large_type_2_60050ea1695913bc8429d6fef751fb4b.png?fit=bounds&quality=85&width=1280",
+    "source": "rss"
+  },
+  {
     "id": "auto-b5ee97ce00",
     "title": "“安いから見る”が一番高い",
     "url": "https://note.com/arinasinjya/n/n173f50b622d5",
@@ -40,6 +244,7 @@
       "ポストフロップ",
       "理論",
       "初心者向け",
+      "中級者向け",
       "OOP",
       "SRP",
       "ブラフ",
@@ -63,6 +268,7 @@
     "tags": [
       "GTO",
       "勉強法",
+      "初心者向け",
       "キャッシュゲーム",
       "プリフロップ",
       "ポストフロップ",
@@ -102,6 +308,8 @@
       "理論",
       "リーク",
       "初心者向け",
+      "中級者向け",
+      "上級者向け",
       "勉強法",
       "テル",
       "ブラフ",
@@ -133,6 +341,7 @@
       "特定のポジション",
       "レーキ",
       "初心者向け",
+      "中級者向け",
       "理論",
       "ブラフ",
       "コール",
@@ -150,7 +359,34 @@
     "date": "2026-04-12",
     "desc": "ポーカーで一番金が飛ぶ瞬間、いつだと思う？ 相手にセットを引かれた時？ ブラフキャッチに失敗した時？銃弾で胸を貫かれた時？ 続きをみる",
     "tags": [
-      "ブラフ"
+      "キャッシュゲーム",
+      "特定のハンド",
+      "特定のボード",
+      "特定のスタック",
+      "特定のポジション",
+      "特定の役",
+      "特定のアクション",
+      "理論",
+      "エクスプロイト",
+      "勉強法",
+      "リーク",
+      "初心者向け",
+      "中級者向け",
+      "上級者向け",
+      "ブラフ",
+      "オールイン",
+      "ベット",
+      "レイズ",
+      "コール",
+      "チェック",
+      "フォールド",
+      "SRP",
+      "3BP",
+      "CB",
+      "ドロー",
+      "ブロッカー",
+      "特殊ルール",
+      "ルール"
     ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/266921343/rectangle_large_type_2_bf3993cf88c688df3de2fb04f013d6ac.png?fit=bounds&quality=85&width=1280",
     "source": "rss"
@@ -176,12 +412,12 @@
       "特定のポジション",
       "特定の役",
       "特定のアクション",
-      "特定の環境",
       "IP",
       "OOP",
       "マルチウェイ",
       "エクスプロイト",
       "初心者向け",
+      "中級者向け",
       "バリュー",
       "ブラフ",
       "ベット",
@@ -244,6 +480,7 @@
       "理論",
       "エクスプロイト",
       "初心者向け",
+      "中級者向け",
       "ベット",
       "チェック",
       "SRP",
@@ -266,7 +503,9 @@
     "tags": [
       "MTT",
       "FT",
-      "ICM"
+      "ICM",
+      "理論",
+      "エクスプロイト"
     ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/264811142/rectangle_large_type_2_98a49171bf503eaad96c6505930a9eb9.jpeg?fit=bounds&quality=85&width=1280",
     "source": "fetch_creator"
@@ -312,15 +551,39 @@
       "キャッシュゲーム",
       "プリフロップ",
       "ポストフロップ",
+      "フロップ",
+      "ターン",
+      "リバー",
+      "特定のハンド",
+      "特定のボード",
+      "特定のスタック",
+      "特定のポジション",
+      "特定の役",
+      "特定のアクション",
       "特定の環境",
+      "IP",
+      "OOP",
       "マルチウェイ",
       "エクスプロイト",
+      "MES",
+      "初心者向け",
+      "中級者向け",
+      "アンティ",
+      "バリュー",
+      "ブラフ",
+      "オールイン",
+      "ベット",
+      "レイズ",
       "コール",
       "チェック",
       "チェックレイズ",
       "フォールド",
       "SRP",
-      "CB"
+      "3BP",
+      "CB",
+      "ドロー",
+      "ブロッカー",
+      "特殊ルール"
     ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/266719268/rectangle_large_type_2_707efb29a6a164af26d9ff6c0ced80a8.png?fit=bounds&quality=85&width=1280",
     "source": "rss"
@@ -396,7 +659,9 @@
       "ポストフロップ",
       "理論",
       "ベット",
-      "初心者向け"
+      "初心者向け",
+      "中級者向け",
+      "上級者向け"
     ],
     "thumbnail": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/69be732ba6be3e26cd573971a4834d91ce83b0b3.png",
     "source": "rss"
@@ -420,6 +685,8 @@
       "エクスプロイト",
       "勉強法",
       "初心者向け",
+      "中級者向け",
+      "上級者向け",
       "ベット",
       "コール",
       "フォールド"
@@ -438,6 +705,8 @@
     "tags": [
       "プリフロップ",
       "初心者向け",
+      "中級者向け",
+      "勉強法",
       "フォールド",
       "ブラフ",
       "バリュー"
@@ -455,12 +724,12 @@
     "desc": "■ この記事のターゲット 続きをみる",
     "tags": [
       "キャッシュゲーム",
+      "中級者向け",
       "プリフロップ",
       "フロップ",
       "ターン",
       "リバー",
       "特定のハンド",
-      "特定のボード",
       "特定のスタック",
       "特定のポジション",
       "特定の役",
@@ -504,7 +773,8 @@
       "特定の役",
       "特定のポジション",
       "GTO",
-      "初心者向け"
+      "初心者向け",
+      "中級者向け"
     ],
     "thumbnail": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/fd1508705da52c97ed03fe33d065a458ac9c449e.png",
     "source": "rss"
@@ -519,9 +789,14 @@
     "desc": "2026年2月22日にポーカーを始めると同時にGTO契約。スターター民。 メーカー営業のポーカー初心者です。",
     "tags": [
       "GTO",
+      "勉強法",
+      "初心者向け",
       "ブラフ",
-      "ソルバー",
-      "入門"
+      "プリフロップ",
+      "ポストフロップ",
+      "キャッシュゲーム",
+      "ツール",
+      "ソルバー"
     ],
     "thumbnail": "https://i.ytimg.com/vi/Feuk9xrVbuk/mqdefault.jpg",
     "source": "youtube_api"
