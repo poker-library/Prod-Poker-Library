@@ -162,9 +162,7 @@
     "platform": "note",
     "date": "2026-04-23",
     "desc": "“取りたい気持ち”がサイズに出る人へ ━━━━━━━━━━━━━━━━━━ 続きをみる",
-    "tags": [
-      "ベット"
-    ],
+    "tags": [],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/269822882/rectangle_large_type_2_f2e50d28f9055241fbd9b1a2447a4a9a.png?fit=bounds&quality=85&width=1280",
     "source": "rss"
   },
@@ -4982,6 +4980,21 @@
     "source": "initial_fetch_creator"
   },
   {
+    "id": "auto-9b624eb935",
+    "title": "第12回｜STATS戦略",
+    "url": "https://note.com/xxctimexx/n/ne8fec687bc75",
+    "author": "ポカラボ東京♠by ポーカークレイジータイム新橋",
+    "platform": "note",
+    "date": "2026-03-12",
+    "desc": "",
+    "tags": [
+      "特定の環境",
+      "リーク"
+    ],
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/258576735/rectangle_large_type_2_017fd721f3c112e9ad7309171a4c729a.png?fit=bounds&quality=85&width=1280",
+    "source": "fetch_creator"
+  },
+  {
     "id": "auto-b3aae82c4e",
     "title": "レンジ頻度付きAKQゲームで理解するアクションEV",
     "url": "https://note.com/ryu1poker_2nd/n/n4cd9d3e4a874",
@@ -6325,6 +6338,24 @@
     "source": "initial_fetch_creator"
   },
   {
+    "id": "auto-ca11374b12",
+    "title": "ポストフロップにおけるレイズ戦略のすべて：主要シチュエーション徹底解説",
+    "url": "https://note.com/xxctimexx/n/n1dec29386677",
+    "author": "ポカラボ東京♠by ポーカークレイジータイム新橋",
+    "platform": "note",
+    "date": "2026-02-19",
+    "desc": "",
+    "tags": [
+      "ポストフロップ",
+      "フロップ",
+      "レイズ",
+      "ターン",
+      "リバー"
+    ],
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/252979395/rectangle_large_type_2_191e4770272401f1260858e6c6814fee.jpeg?fit=bounds&quality=85&width=1280",
+    "source": "fetch_creator"
+  },
+  {
     "id": "auto-6b761161f9",
     "title": "MSPT王者・Ozturkの「殺傷力」：最強を屠るプリフロップの全貌",
     "url": "https://note.com/7poke_poker/n/na42423f1e51b",
@@ -7540,6 +7571,21 @@
     "source": "fetch_creator"
   },
   {
+    "id": "auto-11b8aa4a12",
+    "title": "第10回｜ブラフキャッチ",
+    "url": "https://note.com/xxctimexx/n/n49ad96563ad8",
+    "author": "ポカラボ東京♠by ポーカークレイジータイム新橋",
+    "platform": "note",
+    "date": "2026-01-28",
+    "desc": "",
+    "tags": [
+      "ブラフ",
+      "コール"
+    ],
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/244592750/rectangle_large_type_2_0063d8bec7758543fe009765e13a0cff.png?fit=bounds&quality=85&width=1280",
+    "source": "fetch_creator"
+  },
+  {
     "id": "auto-353529fe3f",
     "title": "【EDGE POKER】ランクマッチ攻略最速便チャンネル【ランクマッチ】 #poker #ポーカー #EDGEPOKER",
     "url": "https://www.youtube.com/watch?v=Q7c9jaSZi74",
@@ -8736,6 +8782,20 @@
     "desc": "",
     "tags": [],
     "thumbnail": "https://assets.st-note.com/img/1767696410-PB2Vaz4qExAG8SjfduMky0OX.png",
+    "source": "fetch_creator"
+  },
+  {
+    "id": "auto-4506a6a5b2",
+    "title": "Suited Junk(スーテッドジャンク)",
+    "url": "https://note.com/xxctimexx/n/nc784b9128957",
+    "author": "ポカラボ東京♠by ポーカークレイジータイム新橋",
+    "platform": "note",
+    "date": "2026-01-06",
+    "desc": "",
+    "tags": [
+      "特定のハンド"
+    ],
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/241639505/rectangle_large_type_2_1a49b3f5bfa6987980b9ad2a156bae37.png?fit=bounds&quality=85&width=1280",
     "source": "fetch_creator"
   },
   {
@@ -10679,6 +10739,20 @@
     "tags": [],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/245650067/rectangle_large_type_2_ec0f512185d083e6fed74aa6e7a15478.png?fit=bounds&quality=85&width=1280",
     "source": "initial_fetch_creator"
+  },
+  {
+    "id": "auto-6b89b9ba44",
+    "title": "よもやま話。ブラフ編",
+    "url": "https://note.com/xxctimexx/n/n9954ca87691f",
+    "author": "ポカラボ東京♠by ポーカークレイジータイム新橋",
+    "platform": "note",
+    "date": "2025-12-12",
+    "desc": "",
+    "tags": [
+      "ブラフ"
+    ],
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/235689544/rectangle_large_type_2_c9989a8cdcd1639006f4de6cf8c8a3a1.jpeg?fit=bounds&quality=85&width=1280",
+    "source": "fetch_creator"
   },
   {
     "id": "auto-06732900cb",
@@ -13691,6 +13765,21 @@
     "source": "fetch_creator"
   },
   {
+    "id": "auto-fdb12cfbb7",
+    "title": "第8回｜ブラフ応用編",
+    "url": "https://note.com/xxctimexx/n/n21b63ea24145",
+    "author": "ポカラボ東京♠by ポーカークレイジータイム新橋",
+    "platform": "note",
+    "date": "2025-11-11",
+    "desc": "",
+    "tags": [
+      "ブラフ",
+      "上級者向け"
+    ],
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/228505873/rectangle_large_type_2_baf6cbd4acf195665a3dfeaac2736ed9.jpeg?fit=bounds&quality=85&width=1280",
+    "source": "fetch_creator"
+  },
+  {
     "id": "auto-c44721aa21",
     "title": "大きいベットサイズを使う",
     "url": "https://note.com/siru06/n/na72b6d3e15da",
@@ -16197,6 +16286,21 @@
     "source": "initial_fetch_creator"
   },
   {
+    "id": "auto-d6c94ea9c4",
+    "title": "第7.5回｜「特定のハンドのヘッズアップ勝率」ガイド",
+    "url": "https://note.com/xxctimexx/n/n8781768e7483",
+    "author": "ポカラボ東京♠by ポーカークレイジータイム新橋",
+    "platform": "note",
+    "date": "2025-10-13",
+    "desc": "",
+    "tags": [
+      "特定のハンド",
+      "ヘッズアップ"
+    ],
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/221324566/rectangle_large_type_2_d886cfe5492a8a050508d435c8628ff7.jpeg?fit=bounds&quality=85&width=1280",
+    "source": "fetch_creator"
+  },
+  {
     "id": "auto-ddfc6fb69a",
     "title": "プリフロップソルバーの使い方 - MTTでの1bb anteのHU",
     "url": "https://www.youtube.com/watch?v=_dzEgZrTFfE",
@@ -17360,6 +17464,20 @@
     "tags": [],
     "thumbnail": "",
     "source": "initial_fetch_creator"
+  },
+  {
+    "id": "auto-e14be0e211",
+    "title": "第7回｜ブラフ徹底ガイド",
+    "url": "https://note.com/xxctimexx/n/n46a4f08e5ccd",
+    "author": "ポカラボ東京♠by ポーカークレイジータイム新橋",
+    "platform": "note",
+    "date": "2025-09-26",
+    "desc": "",
+    "tags": [
+      "ブラフ"
+    ],
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/217667865/rectangle_large_type_2_075e684e3e812ccd00bae57ff1fd381b.jpeg?fit=bounds&quality=85&width=1280",
+    "source": "fetch_creator"
   },
   {
     "id": "auto-017202d0c0",
@@ -19825,6 +19943,21 @@
     "source": "initial_fetch_creator"
   },
   {
+    "id": "auto-96f2270e03",
+    "title": "第6.5回｜バリュー戦略 上級編",
+    "url": "https://note.com/xxctimexx/n/n3a41373c8b0a",
+    "author": "ポカラボ東京♠by ポーカークレイジータイム新橋",
+    "platform": "note",
+    "date": "2025-09-11",
+    "desc": "",
+    "tags": [
+      "上級者向け",
+      "バリュー"
+    ],
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/214488404/rectangle_large_type_2_cdc7c29ba77e4353665a35c08101d8a6.jpeg?fit=bounds&quality=85&width=1280",
+    "source": "fetch_creator"
+  },
+  {
     "id": "auto-db9a8aa8bd",
     "title": "ポーカーで最も難しい質問「どう勉強すればいいの？」に、12年目のプロギャンブラーがガチで答えます",
     "url": "https://www.youtube.com/watch?v=sD68k69UT1g",
@@ -20525,6 +20658,20 @@
     "source": "initial_fetch_creator"
   },
   {
+    "id": "auto-d208120655",
+    "title": "第6回｜バリュー徹底解剖",
+    "url": "https://note.com/xxctimexx/n/n9a1d1070ae04",
+    "author": "ポカラボ東京♠by ポーカークレイジータイム新橋",
+    "platform": "note",
+    "date": "2025-08-31",
+    "desc": "",
+    "tags": [
+      "バリュー"
+    ],
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/212113881/rectangle_large_type_2_f17c8c076cfe2b71a07f731e53e6df53.jpeg?fit=bounds&quality=85&width=1280",
+    "source": "fetch_creator"
+  },
+  {
     "id": "auto-6af3ed7b83",
     "title": "BBディフェンスの正解：サイズ×テクスチャ×カテゴリーで解決 #ポーカー #shorts",
     "url": "https://www.youtube.com/watch?v=3K5exLk7KgY",
@@ -20859,6 +21006,20 @@
     ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/210279683/rectangle_large_type_2_fb004bc404123bfa4968d5a337d4aad3.jpeg?fit=bounds&quality=85&width=1280",
     "source": "initial_fetch_creator"
+  },
+  {
+    "id": "auto-ca3674acba",
+    "title": "第5回｜ボードテクスチャ完全ガイド",
+    "url": "https://note.com/xxctimexx/n/nc81ab11361e1",
+    "author": "ポカラボ東京♠by ポーカークレイジータイム新橋",
+    "platform": "note",
+    "date": "2025-08-23",
+    "desc": "",
+    "tags": [
+      "特定のボード"
+    ],
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/210034328/rectangle_large_type_2_cc0c2ddff6dd2a62e97a1d76319f0a37.jpeg?fit=bounds&quality=85&width=1280",
+    "source": "fetch_creator"
   },
   {
     "id": "auto-fdd04cf19a",
@@ -21210,6 +21371,20 @@
     "source": "fetch_creator"
   },
   {
+    "id": "auto-0273c757c6",
+    "title": "第4回　プリフロップ総集編",
+    "url": "https://note.com/xxctimexx/n/nb3be7f19ffc4",
+    "author": "ポカラボ東京♠by ポーカークレイジータイム新橋",
+    "platform": "note",
+    "date": "2025-08-15",
+    "desc": "",
+    "tags": [
+      "プリフロップ"
+    ],
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/208700021/rectangle_large_type_2_6a05fb2b1685f47141461d67f8ea0e97.png?fit=bounds&quality=85&width=1280",
+    "source": "fetch_creator"
+  },
+  {
     "id": "auto-6636b1de91",
     "title": "ポーカーの勉強法⑤-ハンドレビューの注意点 ※辛口",
     "url": "https://note.com/pokerpokerpro/n/n8a8add434fb5",
@@ -21489,6 +21664,24 @@
       "ポジション"
     ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/206683707/rectangle_large_type_2_b88b3617edcf7d0ab246348265aaac6a.png?fit=bounds&quality=85&width=1280",
+    "source": "fetch_creator"
+  },
+  {
+    "id": "auto-e072737481",
+    "title": "第3回｜プリフロップの3ベット・4ベット入門─ 攻撃と防御のバランスを取るプリフロップ戦略 ─",
+    "url": "https://note.com/xxctimexx/n/n83370b9a19a7",
+    "author": "ポカラボ東京♠by ポーカークレイジータイム新橋",
+    "platform": "note",
+    "date": "2025-08-08",
+    "desc": "",
+    "tags": [
+      "プリフロップ",
+      "フロップ",
+      "3bet",
+      "3BP",
+      "4BP"
+    ],
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/207082555/rectangle_large_type_2_03095ef75125b32743b890c600205eed.jpeg?fit=bounds&quality=85&width=1280",
     "source": "fetch_creator"
   },
   {
@@ -21839,6 +22032,24 @@
     "source": "fetch_creator"
   },
   {
+    "id": "auto-59ce521fb0",
+    "title": "第2回｜なぜ2.5bb？なぜ3倍じゃダメなの？─ プリフロップのサイズ設計入門 × ポットオッズ とエクイティ",
+    "url": "https://note.com/xxctimexx/n/naf80f7a80368",
+    "author": "ポカラボ東京♠by ポーカークレイジータイム新橋",
+    "platform": "note",
+    "date": "2025-08-02",
+    "desc": "",
+    "tags": [
+      "プリフロップ",
+      "フロップ",
+      "特定のポジション",
+      "エクイティ",
+      "オッズ"
+    ],
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/205953406/rectangle_large_type_2_bd84241bebd8b28c6b59b85052a55ba8.jpeg?fit=bounds&quality=85&width=1280",
+    "source": "fetch_creator"
+  },
+  {
     "id": "auto-a8b6457581",
     "title": "なぜハンドを捨てることができないのか？「損だけは絶対に避けたい」",
     "url": "https://note.com/squall_88/n/n84b3e0479ec1",
@@ -22034,6 +22245,20 @@
     "desc": "",
     "tags": [],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/205636057/rectangle_large_type_2_cf26ca478c813f175b3350e2ae1e2d26.png?fit=bounds&quality=85&width=1280",
+    "source": "fetch_creator"
+  },
+  {
+    "id": "auto-36a9e58ad4",
+    "title": "第“0.5”回｜なぜ座学が必要なのか？─ やわらかく始まり、骨太に着地するポーカー学習論",
+    "url": "https://note.com/xxctimexx/n/n97296905a712",
+    "author": "ポカラボ東京♠by ポーカークレイジータイム新橋",
+    "platform": "note",
+    "date": "2025-07-29",
+    "desc": "",
+    "tags": [
+      "勉強法"
+    ],
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/205153687/rectangle_large_type_2_038faf0344e623e126234f415a88e817.png?fit=bounds&quality=85&width=1280",
     "source": "fetch_creator"
   },
   {
