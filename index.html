@@ -142,12 +142,6 @@ nav {
 .pb-blog    { background:#ede9fe; color:var(--blog-c); }
 .pb-other   { background:#fef3c7; color:var(--other-c); }
 
-.author-avatar {
-  width:18px; height:18px; border-radius:50%; flex-shrink:0;
-  display:flex; align-items:center; justify-content:center;
-  font-size:9px; font-weight:700; font-family:'Inter',sans-serif;
-  color:#fff; letter-spacing:0;
-}
 .card-author {
   font-size:12.5px; color:var(--text); font-weight:700;
   white-space:nowrap; overflow:hidden; text-overflow:ellipsis; min-width:0;
@@ -419,9 +413,7 @@ function renderCards() {
       note:'#16a34a', youtube:'#dc2626', blog:'#7c3aed', other:'#d97706'
     }[a.platform] || '#9ca3af';
 
-    const avatarBg = dotColor;
     const authorName = a.author || '';
-    const authorInitial = authorName ? [...authorName][0].toUpperCase() : '?';
 
     // サムネHTML（画像あり/なしで切り替え）
     const thumbHtml = a.thumbnail
@@ -456,7 +448,6 @@ function renderCards() {
           <span class="platform-badge ${pcls}">
             <span class="pb-dot" style="background:${dotColor}"></span>${plabel}
           </span>
-          <span class="author-avatar" style="background:${avatarBg}">${esc(authorInitial)}</span>
           <span class="card-author" data-author="${esc(authorName)}" title="${esc(authorName)}"
                 onclick="event.stopPropagation()">${esc(authorName)}</span>
         </div>
