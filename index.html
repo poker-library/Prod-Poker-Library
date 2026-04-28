@@ -270,7 +270,9 @@ nav {
   <div class="pagination" id="pagination"></div>
 
   <footer class="site-footer">
-    掲載記事の著作権は各著者・メディアに帰属します。掲載削除のご要望は管理者までご連絡ください。
+    掲載記事の著作権は各著者・メディアに帰属します。<br>
+    掲載削除のご要望は管理者（<a href="https://x.com/S_Poker_X" target="_blank" rel="noopener" style="color:inherit;text-decoration:underline;text-underline-offset:2px">S_Poker</a>）までご連絡ください。<br>
+    © 2026 S_Poker
   </footer>
 </div>
 
@@ -352,11 +354,12 @@ function esc(s) {
 }
 
 function setPlatform(p) {
-  activePlatform = p;
+  // 同じプラットフォームを再クリックしたら「すべて」に戻す
+  activePlatform = (activePlatform === p && p !== 'all') ? 'all' : p;
   currentPage = 1;
   document.querySelectorAll('.pf-pill[data-platform]').forEach(b => {
     b.className = 'pf-pill';
-    if (b.dataset.platform === p) b.classList.add('active-' + (p==='all'?'all':p));
+    if (b.dataset.platform === activePlatform) b.classList.add('active-' + (activePlatform==='all'?'all':activePlatform));
   });
   renderAll();
 }
@@ -373,7 +376,9 @@ function renderTagRow() {
   row.innerHTML = `<span class="tag-row-label">Tag</span>${allBtn}${chips}<button class="tag-toggle-btn" id="tagToggleBtn">${toggleLabel}</button>`;
 
   row.querySelectorAll('.tag-chip').forEach(b => b.addEventListener('click', () => {
-    activeTag = b.dataset.tag; currentPage = 1; renderTagRow(); renderCards();
+    // 同じタグを再クリックしたら「すべて」に戻す
+    activeTag = (activeTag === b.dataset.tag && b.dataset.tag !== 'all') ? 'all' : b.dataset.tag;
+    currentPage = 1; renderTagRow(); renderCards();
   }));
   document.getElementById('tagToggleBtn').addEventListener('click', () => {
     row.classList.toggle('collapsed');
@@ -459,16 +464,23 @@ function renderCards() {
     </div>`;
   }).join('');
 
-  // 著者クリック → 著者フィルター
+  // 著者クリック → 著者フィルター（同じ著者を再クリックで解除）
   el.querySelectorAll('.card-author').forEach(el => {
     el.addEventListener('click', e => {
       e.stopPropagation();
       const author = el.dataset.author;
       if (!author) return;
-      activeAuthor = author;
-      currentPage  = 1;
-      document.getElementById('authorBannerName').textContent = author;
-      document.getElementById('authorBanner').classList.add('show');
+      if (activeAuthor === author) {
+        // 同じ著者を再クリック → 解除
+        activeAuthor = '';
+        currentPage  = 1;
+        document.getElementById('authorBanner').classList.remove('show');
+      } else {
+        activeAuthor = author;
+        currentPage  = 1;
+        document.getElementById('authorBannerName').textContent = author;
+        document.getElementById('authorBanner').classList.add('show');
+      }
       renderCards();
     });
   });
@@ -476,7 +488,9 @@ function renderCards() {
   // タグクリック
   el.querySelectorAll('.card-tag').forEach(t => t.addEventListener('click', e => {
     e.stopPropagation();
-    activeTag = t.dataset.tag; currentPage = 1;
+    // 同じタグを再クリックしたら「すべて」に戻す
+    activeTag = (activeTag === t.dataset.tag) ? 'all' : t.dataset.tag;
+    currentPage = 1;
     renderTagRow(); renderCards();
   }));
 
