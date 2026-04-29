@@ -32786,6 +32786,24 @@
     "source": "initial_fetch_yt"
   },
   {
+    "id": "auto-c4d386b8d1",
+    "title": "ショートスタックでのAxのコール",
+    "url": "https://japan.gtowizard.com/blog/flatting-ace-x-hands-shortstacked/",
+    "author": "GTO Wizard Japan",
+    "platform": "blog",
+    "date": "2024-10-31",
+    "desc": "OOPからプレイするのは難しいですが、特にトーナメントではそのような場面に多く遭遇します。アンティがあるため、プロフロップでの小さなレイズに対して簡単にブラインドを手放すわけにはいきません。スタックが少ない時、ソルバーは…",
+    "tags": [
+      "MTT",
+      "特定のスタック",
+      "ソルバー",
+      "コール",
+      "特定のハンド"
+    ],
+    "thumbnail": "https://japan.gtowizard.com/wp-content/uploads/2024/10/1280x720-Blogpost-1.png",
+    "source": "initial_fetch_web"
+  },
+  {
     "id": "auto-7ff3a91c90",
     "title": "Confronting Monsters Under the Bed in Poker",
     "url": "https://blog.gtowizard.com/confronting-monsters-under-the-bed/",
@@ -32821,6 +32839,23 @@
       "Cbet"
     ],
     "thumbnail": "https://blog.gtowizard.com/wp-content/uploads/2024/10/gto-wizard-bullying-the-blinds-with-continuation-bets-blogpost-thumbnail.png",
+    "source": "initial_fetch_web"
+  },
+  {
+    "id": "auto-a371f14cb2",
+    "title": "MTTのリンプポットでのSBの戦い方",
+    "url": "https://japan.gtowizard.com/blog/playing-limped-pots-as-sb-in-mtts/",
+    "author": "GTO Wizard Japan",
+    "platform": "blog",
+    "date": "2024-10-28",
+    "desc": "MTTのSB対BBは、ノーリミットプレイヤーを居心地の悪い状況に追い込み、SPRが高い状況で極端に弱いハンドをプレイさせます。この不慣れなスポットでは、ハンドを評価したり、どのプレイヤーがなぜアクションを起こすべきかを考…",
+    "tags": [
+      "MTT",
+      "特定のポジション",
+      "特定のアクション",
+      "リンプ"
+    ],
+    "thumbnail": "https://japan.gtowizard.com/wp-content/uploads/2024/11/1280x720-Blogpost.png",
     "source": "initial_fetch_web"
   },
   {
@@ -32906,6 +32941,22 @@
     "source": "fetch_creator"
   },
   {
+    "id": "auto-4d36db1911",
+    "title": "ICMのブラインド対決【BB編】",
+    "url": "https://japan.gtowizard.com/blog/icm-and-blind-battles-the-big-blind/",
+    "author": "GTO Wizard Japan",
+    "platform": "blog",
+    "date": "2024-10-23",
+    "desc": "この記事はICMのブラインド対決【SB編】の続編です。前回は、ICMによって両プレイヤーは大きいポットを避けるようになるが、BBの方が早いストリートでポットを大きくしやすいと述べました。ポジションがあることでブラフを打ち…",
+    "tags": [
+      "特定のポジション",
+      "ICM",
+      "MTT"
+    ],
+    "thumbnail": "https://japan.gtowizard.com/wp-content/uploads/2024/10/1280x720-Blogpost-29.jpg",
+    "source": "initial_fetch_web"
+  },
+  {
     "id": "auto-c0450ba582",
     "title": "プリフロ勝率クイズ！ポーカートーナメントの座学 #pokerroyale #ポーカー",
     "url": "https://www.youtube.com/watch?v=VjUye1JpfVQ",
@@ -32947,6 +32998,22 @@
     ],
     "thumbnail": "https://i.ytimg.com/vi/xldGLpBrtl4/mqdefault.jpg",
     "source": "initial_fetch_yt"
+  },
+  {
+    "id": "auto-f557c79e95",
+    "title": "ICMのブラインド対決【SB編】",
+    "url": "https://japan.gtowizard.com/blog/icm-and-blind-battles-the-small-blind/",
+    "author": "GTO Wizard Japan",
+    "platform": "blog",
+    "date": "2024-10-20",
+    "desc": "トーナメントではICMによってアクションが保守的になるので、リスクプレミアムが高くなる局面では、ブラインドまで皆フォールドすることが多々あります。そのため、ICMプレッシャーが強いSB対BBの戦略を学ぶことは非常に重要で…",
+    "tags": [
+      "MTT",
+      "特定のポジション",
+      "ICM"
+    ],
+    "thumbnail": "https://japan.gtowizard.com/wp-content/uploads/2024/10/1280x720-Blogpost-28.jpg",
+    "source": "initial_fetch_web"
   },
   {
     "id": "auto-d549dabc3d",
