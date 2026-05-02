@@ -1810,6 +1810,21 @@
     "source": "rss"
   },
   {
+    "id": "auto-1ab9c0ad40",
+    "title": "【STEP3】CBの打ち方｜「とりあえず打つ」をやめると勝率が変わる",
+    "url": "https://note.com/poker_gto_easy/n/n1aec88c086b3",
+    "author": "初心者が勝てるポーカー戦略｜最短ロードマップ",
+    "platform": "note",
+    "date": "2026-04-15",
+    "desc": "はじめに プリフロップでレイズして、フロップが来た。 続きをみる",
+    "tags": [
+      "フロップ",
+      "CB"
+    ],
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/267562404/rectangle_large_type_2_75a5f0bc073df99045ee01a79e24ae47.png?fit=bounds&quality=85&width=1280",
+    "source": "rss"
+  },
+  {
     "id": "auto-9356e10c8f",
     "title": "初心者が最初に覚える3つの型",
     "url": "https://note.com/stacklog_app_id/n/n58581e0c32c1",
@@ -1886,6 +1901,21 @@
     ],
     "thumbnail": "https://assets.st-note.com/img/1776136401-PjsORmWLSMiIAaQfVv3dhqK8.png",
     "source": "initial_fetch_creator"
+  },
+  {
+    "id": "auto-216bf7cbf8",
+    "title": "【初心者必見】プレミアハンドって何？ポーカーの「カードの格付け」を覚えよう！",
+    "url": "https://note.com/poker_room_tt/n/ne085dc65afd6",
+    "author": "Poker Room TT@西中島南方",
+    "platform": "note",
+    "date": "2026-04-14",
+    "desc": "Poker Room TT 店長の中森です。 ポーカーを始めると、「今のプレミアハンドだったね！」「ブロードウェイが完成した！」といった専門用語が飛び交うのを耳にすると思います。 続きをみる",
+    "tags": [
+      "特定のハンド",
+      "初心者向け"
+    ],
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/266857353/rectangle_large_type_2_b55592f13ad457fbac3fcfd771d9c4ad.png?fit=bounds&quality=85&width=1280",
+    "source": "rss"
   },
   {
     "id": "auto-b5ee97ce00",
@@ -2258,6 +2288,22 @@
     ],
     "thumbnail": "https://i.ytimg.com/vi/ZBpyHkj0NFY/mqdefault.jpg",
     "source": "initial_fetch_yt"
+  },
+  {
+    "id": "auto-9277b07faf",
+    "title": "【初心者必見】アミューズメントポーカー店に初めて行く時の『暗黙のマナー』5選",
+    "url": "https://note.com/poker_room_tt/n/n82d84ed18a0e",
+    "author": "Poker Room TT@西中島南方",
+    "platform": "note",
+    "date": "2026-04-12",
+    "desc": "こんにちは。 Poker Room TT 店長の中森です。 最近、YouTubeやSNSの影響で「ポーカーを始めてみたい！」という方が本当に増えています。とても嬉しいことです。 続きをみる",
+    "tags": [
+      "初心者向け",
+      "ルール",
+      "特定のアクション"
+    ],
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/266332058/rectangle_large_type_2_1b8e0063ff86a630205a7a728e9e6483.png?fit=bounds&quality=85&width=1280",
+    "source": "rss"
   },
   {
     "id": "auto-436936fa2c",
@@ -3134,6 +3180,22 @@
     "source": "initial_fetch_web"
   },
   {
+    "id": "auto-3f359a0c58",
+    "title": "【STEP2】プリフロップの考え方｜レンジより大事なこと",
+    "url": "https://note.com/poker_gto_easy/n/na2f6e1320faa",
+    "author": "初心者が勝てるポーカー戦略｜最短ロードマップ",
+    "platform": "note",
+    "date": "2026-04-06",
+    "desc": "はじめに レンジを覚えてるのに勝てない人へ。それ、やり方が逆です。 続きをみる",
+    "tags": [
+      "プリフロップ",
+      "ポストフロップ",
+      "レンジ"
+    ],
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/265379503/rectangle_large_type_2_b81e45a7cb9a90422fa67aea7dfff5af.png?fit=bounds&quality=85&width=1280",
+    "source": "rss"
+  },
+  {
     "id": "auto-34e223ede2",
     "title": "Stage8-2 総合演習 BTNvsSB 3bp",
     "url": "https://note.com/gto_theorem/n/n3d7cda51a069",
@@ -3711,6 +3773,48 @@
       "リーク"
     ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/264021396/rectangle_large_type_2_bfd4004a87318ca421e289fc633ff83f.png?fit=bounds&quality=85&width=1280",
+    "source": "rss"
+  },
+  {
+    "id": "auto-5e7d53e819",
+    "title": "【STEP1】ポーカーは運ゲーじゃない｜初心者が最初に理解すべき本質",
+    "url": "https://note.com/poker_gto_easy/n/n73f03e575b16",
+    "author": "初心者が勝てるポーカー戦略｜最短ロードマップ",
+    "platform": "note",
+    "date": "2026-03-31",
+    "desc": "【STEP1】ポーカーは運ゲーじゃない｜勝てる人だけが知っている考え方 はじめに 続きをみる",
+    "tags": [
+      "初心者向け",
+      "理論",
+      "GTO",
+      "プリフロップ"
+    ],
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/263759698/rectangle_large_type_2_f24547829d0f77f6e2d3c0b812aeddf6.png?fit=bounds&quality=85&width=1280",
+    "source": "rss"
+  },
+  {
+    "id": "auto-d04300c6b6",
+    "title": "【ポーカー学習ロードマップ】初心者が最短でポーカーで勝つための7ステップ",
+    "url": "https://note.com/poker_gto_easy/n/n1c0eb191f7c6",
+    "author": "初心者が勝てるポーカー戦略｜最短ロードマップ",
+    "platform": "note",
+    "date": "2026-03-31",
+    "desc": "はじめに ポーカーを始めたばかりの人が、最初にぶつかる壁はとてもシンプルです。 続きをみる",
+    "tags": [
+      "初心者向け",
+      "勉強法",
+      "ルール",
+      "プリフロップ",
+      "ポストフロップ",
+      "フロップ",
+      "ブラフ",
+      "バリュー",
+      "フォールド",
+      "コール",
+      "ベット",
+      "リーク"
+    ],
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/263745815/rectangle_large_type_2_f42edc4ecb33246039265abecb8ee020.png?fit=bounds&quality=85&width=1280",
     "source": "rss"
   },
   {
@@ -9469,6 +9573,20 @@
     "source": "fetch_creator"
   },
   {
+    "id": "auto-f30d7bda14",
+    "title": "サテライト戦のスキルがインプライズ後のプライズジャンプ戦の力を底上げする【AIとの検討記事】",
+    "url": "https://note.com/kakip4952/n/nb0e6c5862fb8",
+    "author": "AI De Poker kkp(kakip)",
+    "platform": "note",
+    "date": "2026-01-06",
+    "desc": "ポーカーのマルチテーブルトーナメント（MTT）には様々なフェーズがある。特にインプライズ（賞金圏内に入ること）直後のプライズジャンプ局面は、プレイヤーの実力が最も如実に表れる瞬間です。実は、この局面で優位性を発揮するために有効な準備方法の一つが、一見すると全く異なるフォーマットに思えるサテライト戦だと思うのです。 本記事では、なぜサテライト戦の習熟がプライズジャンプ戦を強化するのか、数学的・戦略的",
+    "tags": [
+      "MTT"
+    ],
+    "thumbnail": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/87d547726c602442066385d1d13632f7a4502ac8.png",
+    "source": "rss"
+  },
+  {
     "id": "auto-ab529a82e2",
     "title": "ターンマージナルだが大きめにベットしてみた",
     "url": "https://note.com/siru06/n/n2467162e6af5",
@@ -11725,6 +11843,158 @@
     ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/234902954/rectangle_large_type_2_92990a6cf8b689c0558b513001dbb88e.png?fit=bounds&quality=85&width=1280",
     "source": "fetch_creator"
+  },
+  {
+    "id": "auto-953616df4e",
+    "title": "【第0～７章＋付録セット】《MMT × WTAターボ完全攻略バイブル》〜 GTO × Exploit × ライブ特化の三位一体理論書 〜（５万字超）",
+    "url": "https://note.com/witty_daisy235/n/n7371c41f663f",
+    "author": "JoJo Poker Lab",
+    "platform": "note",
+    "date": "2025-12-09",
+    "desc": "【はじめに】 本書は、これまで個別に公開してきた 第0章〜第7章、そして付録レンジ表を 1冊に統合した完全版 です。 内容は５万字超の超大作です。 ただ文量が多いのではなく、 勝つために大事な要素がギュッと詰まっています。 続きをみる",
+    "tags": [
+      "GTO",
+      "エクスプロイト",
+      "レンジ"
+    ],
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/235207944/rectangle_large_type_2_d044d479b6a2bfeb9449252af5ef593d.jpeg?fit=bounds&quality=85&width=1280",
+    "source": "rss"
+  },
+  {
+    "id": "auto-737d864b30",
+    "title": "付録：完全レンジ表6-max OR / 3bet / BB defend ― 実戦で迷わない“即決テンプレート”",
+    "url": "https://note.com/witty_daisy235/n/nf1e2d3884672",
+    "author": "JoJo Poker Lab",
+    "platform": "note",
+    "date": "2025-12-09",
+    "desc": "0. 本付録で使う略語について 本付録では、以下の略語を使います。最初にまとめておきます。 続きをみる",
+    "tags": [
+      "プリフロップ",
+      "レンジ",
+      "ポジション"
+    ],
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/235195103/rectangle_large_type_2_60f9cb2f23fb4542381343e78d9d66f5.jpeg?fit=bounds&quality=85&width=1280",
+    "source": "rss"
+  },
+  {
+    "id": "auto-205c4b9715",
+    "title": "第6章【エクスプロイト大全】人間相手にEVを最大化する“実戦搾取理論”",
+    "url": "https://note.com/witty_daisy235/n/n9634efb68640",
+    "author": "JoJo Poker Lab",
+    "platform": "note",
+    "date": "2025-12-09",
+    "desc": "1. はじめに：GTOだけでは勝ち切れない理由 GTO（Game Theory Optimal）は、「誰にも搾取されない戦略」を目指す理論です。 続きをみる",
+    "tags": [
+      "GTO",
+      "エクスプロイト",
+      "エクイティ"
+    ],
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/235193789/rectangle_large_type_2_eeee02767a8599c04e6d7836e9e1905c.jpeg?fit=bounds&quality=85&width=1280",
+    "source": "rss"
+  },
+  {
+    "id": "auto-ca998002ed",
+    "title": "第5章【Solver実戦術】GTOを“現場で勝つ形”に変換する技術",
+    "url": "https://note.com/witty_daisy235/n/n17a15b22bae4",
+    "author": "JoJo Poker Lab",
+    "platform": "note",
+    "date": "2025-12-09",
+    "desc": "1. はじめに：Solverは「教科書」ではなく「辞書」である GTO（Game Theory Optimal）は、「理論的にもっとも搾取されにくい戦略」を目指す考え方です。 続きをみる",
+    "tags": [
+      "GTO",
+      "ソルバー"
+    ],
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/235193088/rectangle_large_type_2_d49048a1e59233204a35c7ab9aa43730.jpeg?fit=bounds&quality=85&width=1280",
+    "source": "rss"
+  },
+  {
+    "id": "auto-3023d9c197",
+    "title": "第4章【リバー最強の教科書】バリュー／ブラフ／SDVの境界線を完全に理解する",
+    "url": "https://note.com/witty_daisy235/n/n147708aac3bf",
+    "author": "JoJo Poker Lab",
+    "platform": "note",
+    "date": "2025-12-09",
+    "desc": "1. はじめに：なぜリバーで大きな差がつくのか 第3章で見たとおり、「方針決定」という意味ではターンがいちばん難しいストリートです。 一方で、実際のチップの動き＝EV（期待値）がもっとも集約されるのはリバーです。 続きをみる",
+    "tags": [
+      "ポストフロップ",
+      "ブラフ",
+      "バリュー",
+      "エクイティ"
+    ],
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/235192401/rectangle_large_type_2_705d08d101179dcb1517e5a5ad7d8f1d.jpeg?fit=bounds&quality=85&width=1280",
+    "source": "rss"
+  },
+  {
+    "id": "auto-65775900fa",
+    "title": "第3章【ターン完全攻略】45分類で“迷いゼロ”の実戦システムを手に入れる",
+    "url": "https://note.com/witty_daisy235/n/n06ca5bbfa1e6",
+    "author": "JoJo Poker Lab",
+    "platform": "note",
+    "date": "2025-12-09",
+    "desc": "1. はじめに：なぜターンは「最難関ストリート」なのか フロップまでは、ある程度「型どおり」に打っても大きくはズレません。 続きをみる",
+    "tags": [
+      "ポストフロップ"
+    ],
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/235191672/rectangle_large_type_2_261ab28f8ccf1b0ed3b57f4e6a68fc67.jpeg?fit=bounds&quality=85&width=1280",
+    "source": "rss"
+  },
+  {
+    "id": "auto-7135a44669",
+    "title": "第2章【フロップ15分類・完全攻略】すべてのボードを“15種類だけ”で打ち分ける方法",
+    "url": "https://note.com/witty_daisy235/n/n9b114168cd3a",
+    "author": "JoJo Poker Lab",
+    "platform": "note",
+    "date": "2025-12-09",
+    "desc": "1. なぜフロップは「分類」が最重要なのか 多くのプレイヤーは、フロップが落ちるたびに毎回「新しい局面」としてゼロから考えています。 続きをみる",
+    "tags": [
+      "ポストフロップ"
+    ],
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/235191014/rectangle_large_type_2_8260bd6b09a86dd3e9991fdac9a6d986.jpeg?fit=bounds&quality=85&width=1280",
+    "source": "rss"
+  },
+  {
+    "id": "auto-cafb9ec8a8",
+    "title": "第1章【無料】プリフロップ完全攻略— 勝つ人だけが使っている“レンジの作り方” —",
+    "url": "https://note.com/witty_daisy235/n/n927f4f9af7aa",
+    "author": "JoJo Poker Lab",
+    "platform": "note",
+    "date": "2025-12-09",
+    "desc": "1. プリフロップ戦略が「勝率の大部分」を決める理由 多くのプレイヤーは「ポーカーはフロップ以降が難しい」と感じています。 続きをみる",
+    "tags": [
+      "プリフロップ",
+      "ポストフロップ",
+      "レンジ"
+    ],
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/235190306/rectangle_large_type_2_35b44513f21671c836bf1ba676bd755c.jpeg?fit=bounds&quality=85&width=1280",
+    "source": "rss"
+  },
+  {
+    "id": "auto-879a758365",
+    "title": "第0章【無料】WTA×ターボMTTの核心原則— 勝率が伸びる人と伸びない人の決定的な差 —",
+    "url": "https://note.com/witty_daisy235/n/n79c4100ba91c",
+    "author": "JoJo Poker Lab",
+    "platform": "note",
+    "date": "2025-12-09",
+    "desc": "WTA形式のターボMTTで勝てない理由は、才能でも経験不足でもありません。 多くの場合、ただひとつ。 まったく別の競技のルールで戦ってしまっているからです。 続きをみる",
+    "tags": [
+      "MTT"
+    ],
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/235189580/rectangle_large_type_2_10ac40b2283a7cae64a9f62fa672aa7e.jpeg?fit=bounds&quality=85&width=1280",
+    "source": "rss"
+  },
+  {
+    "id": "auto-8775db53b2",
+    "title": "【はじめまして】JoJo Poker Lab｜WTA×ターボMTTの研究を始めます",
+    "url": "https://note.com/witty_daisy235/n/n9e6839d88b20",
+    "author": "JoJo Poker Lab",
+    "platform": "note",
+    "date": "2025-12-09",
+    "desc": "はじめまして。JoJo Poker Lab です。 ハウストーナメントのターボMTTで、こんなことを感じたことはないでしょうか。 続きをみる",
+    "tags": [
+      "MTT"
+    ],
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/234779975/rectangle_large_type_2_87d231e1e9b5c6d3ae681e0f1aad1f19.jpeg?fit=bounds&quality=85&width=1280",
+    "source": "rss"
   },
   {
     "id": "auto-001547c65b",
@@ -13996,6 +14266,21 @@
     ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/229846529/rectangle_large_type_2_4fcb7ff675fd1768ad9fa44df2c9d7b4.png?fit=bounds&quality=85&width=1280",
     "source": "initial_fetch_creator"
+  },
+  {
+    "id": "auto-a2a5c4b08a",
+    "title": "87sのつかいかた",
+    "url": "https://note.com/merrypoker/n/nb7fdbda4ee8b",
+    "author": "メリー@海外ライブポーカープレイヤー",
+    "platform": "note",
+    "date": "2025-11-16",
+    "desc": "0. はじめに こんにちは、メリーです。 今回は「勘違いされやすいハンドシリーズ」として、 87s（7♠8♠ などのミドルスーテッドコネクター） を扱っていきます。 続きをみる",
+    "tags": [
+      "戦略",
+      "特定のハンド"
+    ],
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/229646040/rectangle_large_type_2_978623be360d11c0ef62a7445e60f566.png?fit=bounds&quality=85&width=1280",
+    "source": "rss"
   },
   {
     "id": "auto-dc06fbd3ed",
@@ -17322,6 +17607,24 @@
     "source": "fetch_creator"
   },
   {
+    "id": "auto-0703ba1271",
+    "title": "大型トーナメントでの「降りる勇気」【AIと一緒に考えた】",
+    "url": "https://note.com/kakip4952/n/nee1c2b0ba035",
+    "author": "AI De Poker kkp(kakip)",
+    "platform": "note",
+    "date": "2025-10-06",
+    "desc": "JOPTなどの大型はバリュー過多で知られ、なかなか大ベットしても降りてくれずに強いハンドや役が作られていることもしばしばある。そういう時に必要なのが「降りる勇気」だが、なかなかプレミアハンドなどを持っていたり、トリップスやストレートが完成していると「降りれない」という人もいるのではないでしょうか。 以下、JOPTのような大型大会を想定して「降りる勇気」をリスト化しました 降りる勇気が必要なシチュエ",
+    "tags": [
+      "ポストフロップ",
+      "ブラフ",
+      "バリュー",
+      "MTT",
+      "チェックレイズ"
+    ],
+    "thumbnail": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/e3aa7dcc7af845e16f34a0a74923ff356e98a5da.png",
+    "source": "rss"
+  },
+  {
     "id": "auto-fbde27db5f",
     "title": "【ポーカー講座】トーナメントでコールドコールしない人多すぎ #poker #ポーカー",
     "url": "https://www.youtube.com/watch?v=CF9G76Kevqk",
@@ -18189,6 +18492,42 @@
     "source": "fetch_creator"
   },
   {
+    "id": "auto-7013421cf6",
+    "title": "JOPT 2025 Tokyo #03 想定問題集 - Day 1フライトEXその３",
+    "url": "https://note.com/kakip4952/n/needdd22358f6",
+    "author": "AI De Poker kkp(kakip)",
+    "platform": "note",
+    "date": "2025-09-26",
+    "desc": "想定設定詳細 初期スタック: 50,000点 参加者数: 700人 通過率: 7% (約49人) 通過要件: Level 15 (3000/6000/6000) 終了まで生き残り 目標スタック: 200,000点以上 対象レベル: Level 4-7 プリフロップ問題（15問） 問題1 - Level 4 (300/500/500) あなたのスタック：46,200点 (92BB) ポジション：UT",
+    "tags": [
+      "プリフロップ",
+      "ポストフロップ",
+      "ポジション",
+      "エクイティ",
+      "特定の環境"
+    ],
+    "thumbnail": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/0816f30169595eb1874d812c28f975f19dac6be0.png",
+    "source": "rss"
+  },
+  {
+    "id": "auto-89a71a9179",
+    "title": "JOPT 2025 Tokyo #03 想定問題集 - Day 1フライトEXその２（1lv. 45分）",
+    "url": "https://note.com/kakip4952/n/n8d60ea1a566d",
+    "author": "AI De Poker kkp(kakip)",
+    "platform": "note",
+    "date": "2025-09-26",
+    "desc": "設定詳細 初期スタック: 50,000点 参加者数: 700人 通過率: 7% (約49人) 通過要件: Level 15 (3000/6000/6000) 終了まで生き残り 目標スタック: 200,000点以上 対象レベル: Level 3-6（中盤戦の重要局面） プリフロップ問題（15問） 問題1 - Level 3 (200/400/400) あなたのスタック：44,800点 (112BB)",
+    "tags": [
+      "プリフロップ",
+      "ポストフロップ",
+      "ポジション",
+      "エクイティ",
+      "特定の環境"
+    ],
+    "thumbnail": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/e92f54a2ab4242bce04c2f88432c3c9c981eda56.png",
+    "source": "rss"
+  },
+  {
     "id": "auto-017202d0c0",
     "title": "バリューライン最適化ドリル100（GTOでのバリューベット判断）— 取りこぼしを減らしてEVを最大化する技術",
     "url": "https://note.com/7poke_poker/n/nc87e8adfc10c",
@@ -18650,6 +18989,23 @@
     ],
     "thumbnail": "",
     "source": "initial_fetch_creator"
+  },
+  {
+    "id": "auto-e0f641e8b9",
+    "title": "ポーカートーナメントにおいてなぜICMが重要か：ICM理解者とそうでない人を見分ける視点【AI解析記事】",
+    "url": "https://note.com/kakip4952/n/n171eab1249e4",
+    "author": "AI De Poker kkp(kakip)",
+    "platform": "note",
+    "date": "2025-09-23",
+    "desc": "久しぶりの記事。トナメではやっぱりEVより重要になりうるICMの記事です。以下、どうぞお読みください。 ポーカートーナメントの世界において、**ICM（Independent Chip Model）**は単なる理論ではない。それは勝者と敗者を分ける決定的な要因の一つである。しかし、多くのプレイヤーが「ICMを知っている」と言いながら、実際には表面的な理解に留まっているのが現状である。 本記事では、",
+    "tags": [
+      "ポジション",
+      "ICM",
+      "MTT",
+      "エクイティ"
+    ],
+    "thumbnail": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/b4506f29dde438e59f49c2f7d16baa7ed6f2ff07.png",
+    "source": "rss"
   },
   {
     "id": "auto-7f54d9e7fb",
@@ -32174,6 +32530,22 @@
     "source": "initial_fetch_web"
   },
   {
+    "id": "auto-0ca7b2c1da",
+    "title": "River Probeが過少になりがちなスポット",
+    "url": "https://note.com/alpt/n/n6c3d91f630eb",
+    "author": "ALPT/ Active Learning Poker Team",
+    "platform": "note",
+    "date": "2024-11-17",
+    "desc": "ALPTのやぶやぶと申します。 本記事では ・BB vs BTNのSRPでBBのRiver Probe Betが過少になりやすいスポット ・BTN側のexploit を簡単に紹介します。 筆者:やぶやぶ ( https://x.com/829yabuyabu ) 校正:sf,ALPTメンバー ( https://x.com/sf_NLHE ) 続きをみる",
+    "tags": [
+      "エクスプロイト",
+      "ポジション",
+      "リバー"
+    ],
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/161526894/rectangle_large_type_2_9f99e25a8a9e2d6aa4f4d9ae95544676.jpeg?fit=bounds&quality=85&width=1280",
+    "source": "rss"
+  },
+  {
     "id": "auto-8e0e4d1c41",
     "title": "ポーカーで勝つための究極の秘訣！プリフロップの基本原則で収益を最大化 #poker #ポーカー #テキサスホールデム",
     "url": "https://www.youtube.com/watch?v=mGmAIIon7Jw",
@@ -45059,6 +45431,20 @@
     ],
     "thumbnail": "https://blog.gtowizard.com/wp-content/uploads/2022/10/does-your-range-affect-your-strategy-image.jpg",
     "source": "initial_fetch_web"
+  },
+  {
+    "id": "auto-c3f9f05392",
+    "title": "【意味不明?】unknownをexploitしろだって!?",
+    "url": "https://note.com/peeeaje/n/ncb8068054e8d",
+    "author": "Peeeaje",
+    "platform": "note",
+    "date": "2022-06-21",
+    "desc": "",
+    "tags": [
+      "エクスプロイト"
+    ],
+    "thumbnail": "",
+    "source": "fetch_creator"
   },
   {
     "id": "auto-c650e9d1c6",
