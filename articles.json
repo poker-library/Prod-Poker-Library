@@ -12006,8 +12006,7 @@
     "desc": "poker #テキサスホールデム #ポーカー ※この動画はYouTubeのコミュニティガイドラインに遵守した動画です。ギャンブルや ...",
     "tags": [
       "レンジ",
-      "Cbet",
-      "レンジCB"
+      "CB"
     ],
     "thumbnail": "https://i.ytimg.com/vi/WuAZ4cTXBRs/mqdefault.jpg",
     "source": "initial_fetch_yt"
@@ -13555,8 +13554,8 @@
       "ポストフロップ",
       "GTO",
       "ソルバー",
-      "Cbet",
-      "チェック"
+      "チェック",
+      "CB"
     ],
     "thumbnail": "https://i.ytimg.com/vi/7J-e7vpqtH4/mqdefault.jpg",
     "source": "initial_fetch_yt"
@@ -15404,7 +15403,7 @@
     "desc": "I’ll begin this article with a confession: I’m bad at overbetting flops. I’ve known for years now that there are flops where overbetting is an important part of the preflop raiser’s continuation betti",
     "tags": [
       "プリフロップ",
-      "Cbet"
+      "CB"
     ],
     "thumbnail": "https://blog.gtowizard.com/wp-content/uploads/2025/10/header-5-1200x675.png",
     "source": "initial_fetch_web"
@@ -21927,8 +21926,8 @@
     "date": "2025-08-27",
     "desc": "poker #テキサスホールデム #ポーカー 本編はこちら https://youtu.be/WiVxbeUOV38 ◇━━━━━ OUR SPACE 限定版 ...",
     "tags": [
-      "Cbet",
-      "入門"
+      "入門",
+      "CB"
     ],
     "thumbnail": "https://i.ytimg.com/vi/YJB4ST9Fpzw/mqdefault.jpg",
     "source": "initial_fetch_yt"
@@ -28371,8 +28370,8 @@
     "tags": [
       "ポストフロップ",
       "GTO",
-      "Cbet",
-      "入門"
+      "入門",
+      "CB"
     ],
     "thumbnail": "https://i.ytimg.com/vi/usFczkHQuB4/mqdefault.jpg",
     "source": "initial_fetch_yt"
@@ -29537,7 +29536,7 @@
     "tags": [
       "エクスプロイト",
       "ポジション",
-      "Cbet"
+      "CB"
     ],
     "thumbnail": "https://blog.gtowizard.com/wp-content/uploads/2025/02/gto-wizard-the-art-of-turn-probing-exploiting-checked-flops-app-thumbnail-1200x675.png",
     "source": "initial_fetch_web"
@@ -33052,7 +33051,7 @@
     "date": "2024-10-28",
     "desc": "A big stack in No Limit Hold‘em does not always carry a license to steal. In a cash game, for instance, there is no sound strategic reason why having more chips than your opponents should cause them t",
     "tags": [
-      "Cbet"
+      "CB"
     ],
     "thumbnail": "https://blog.gtowizard.com/wp-content/uploads/2024/10/gto-wizard-bullying-the-blinds-with-continuation-bets-blogpost-thumbnail.png",
     "source": "initial_fetch_web"
@@ -37345,7 +37344,7 @@
     "desc": "Continuation betting from the SB does not follow the usual patterns for out of position (OOP) c-betting in single-raised pots (SRP). In this article, we’ll examine how and why the SB approaches the fl",
     "tags": [
       "ポジション",
-      "Cbet"
+      "CB"
     ],
     "thumbnail": "https://blog.gtowizard.com/wp-content/uploads/2024/04/gto-wizard-aggregate-flop-strategy-sb-c-betting-in-srp-image-thumbnail-blogpost.png",
     "source": "initial_fetch_web"
@@ -37548,20 +37547,6 @@
       "GTO"
     ],
     "thumbnail": "https://i.ytimg.com/vi/9tKezV4UMs8/mqdefault.jpg",
-    "source": "initial_fetch_yt"
-  },
-  {
-    "id": "auto-ac12d218fc",
-    "title": "『Cbet』の適正額は？デカけりゃイイってものでもない！？ポーカートナメで勝つために重要な戦略！！ アントニー／ファビオ／うだちー／ダックス／澤田先生",
-    "url": "https://www.youtube.com/watch?v=DQ2cLm-Nei4",
-    "author": "ポーカー専門番組『Showdown』",
-    "platform": "youtube",
-    "date": "2024-04-17",
-    "desc": "ポーカー番組『Showdown』｜DAZNで隔週火曜日 配信中!! もっと詳しく知りたい方は こちらの動画をチェック ...",
-    "tags": [
-      "Cbet"
-    ],
-    "thumbnail": "https://i.ytimg.com/vi/DQ2cLm-Nei4/mqdefault.jpg",
     "source": "initial_fetch_yt"
   },
   {
@@ -39822,7 +39807,6 @@
       "プリフロップ",
       "エクスプロイト",
       "レンジ",
-      "Cbet",
       "ソルバー"
     ],
     "thumbnail": "https://blog.gtowizard.com/wp-content/uploads/2023/12/gto-wizard-exploiting-excessive-c-betting-by-ip-blogpost-thumbnail.png",
@@ -39869,7 +39853,7 @@
       "プリフロップ",
       "エクスプロイト",
       "ポジション",
-      "Cbet"
+      "CB"
     ],
     "thumbnail": "https://blog.gtowizard.com/wp-content/uploads/2023/12/gto-wizard-exploiting-excessive-c-betting-by-oop-blogpost-thumbnail.png",
     "source": "initial_fetch_web"
@@ -41140,8 +41124,8 @@
       "プリフロップ",
       "レンジ",
       "ポジション",
-      "Cbet",
-      "エクイティ"
+      "エクイティ",
+      "CB"
     ],
     "thumbnail": "https://blog.gtowizard.com/wp-content/uploads/2023/09/gto-wizard-c-betting-oop-in-3-bet-pots-blogpost-thumbnail.png",
     "source": "initial_fetch_web"
@@ -43791,10 +43775,10 @@
     "tags": [
       "GTO",
       "ブラフ",
-      "Cbet",
       "ソルバー",
       "中級",
-      "入門"
+      "入門",
+      "CB"
     ],
     "thumbnail": "https://i.ytimg.com/vi/MgpU1aeGqpc/mqdefault.jpg",
     "source": "initial_fetch_yt"
@@ -49370,9 +49354,9 @@
     "date": "2020-01-18",
     "desc": "ドンクベットというプレイがなんのことなのか、知っていますか？ テキサスホールデムの定石にコンティニュエーションベットが ...",
     "tags": [
-      "Cbet",
       "中級",
-      "入門"
+      "入門",
+      "CB"
     ],
     "thumbnail": "https://i.ytimg.com/vi/7frPZzNX4js/mqdefault.jpg",
     "source": "initial_fetch_yt"
