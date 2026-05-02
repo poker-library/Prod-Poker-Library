@@ -744,6 +744,20 @@
     "source": "rss"
   },
   {
+    "id": "auto-aef1c89376",
+    "title": "T4一般卓でのプリフロップ乖離",
+    "url": "https://note.com/siru06/n/nf4c5fffd1807",
+    "author": "si06",
+    "platform": "note",
+    "date": "2026-04-23",
+    "desc": "",
+    "tags": [
+      "プリフロップ"
+    ],
+    "thumbnail": "",
+    "source": "initial_fetch_creator"
+  },
+  {
     "id": "auto-ea7e482fe0",
     "title": "BB defendだけ“もう1bbやし”で残ってない？",
     "url": "https://note.com/arinasinjya/n/nc0edaa2c7578",
@@ -1367,6 +1381,23 @@
     "source": "youtube_api"
   },
   {
+    "id": "auto-1918ee3ad9",
+    "title": "【ポーカー戦略】トナメのスーコネ、全部教えます。",
+    "url": "https://www.youtube.com/watch?v=DxaToIc2S44",
+    "author": "トーナメント10分座学@すきま",
+    "platform": "youtube",
+    "date": "2026-04-20",
+    "desc": "トーナメント初心者必見！これ一本でスーテッドコネクターの基礎的な考え方がわかります。 【各種学習ツール】 ・Zoomaga ...",
+    "tags": [
+      "MTT",
+      "勉強法",
+      "初心者向け",
+      "特定のハンド"
+    ],
+    "thumbnail": "https://i.ytimg.com/vi/DxaToIc2S44/mqdefault.jpg",
+    "source": "initial_fetch_yt"
+  },
+  {
     "id": "auto-295e896931",
     "title": "【必勝法】なぜポーカーは「ポジション」が重要？最強の座り位置をマスターしよう",
     "url": "https://note.com/poker_room_tt/n/na7edc5bf7c12",
@@ -1476,6 +1507,21 @@
     ],
     "thumbnail": "https://blog.gtowizard.com/wp-content/uploads/2026/04/header-3-1200x675.png",
     "source": "web_rss"
+  },
+  {
+    "id": "auto-50379e7617",
+    "title": "100bb持ちのプリフロップでAKoは降りてはいけないのか？",
+    "url": "https://note.com/siru06/n/n299995587a1f",
+    "author": "si06",
+    "platform": "note",
+    "date": "2026-04-19",
+    "desc": "",
+    "tags": [
+      "プリフロップ",
+      "特定のハンド"
+    ],
+    "thumbnail": "",
+    "source": "initial_fetch_creator"
   },
   {
     "id": "auto-558601f4c8",
@@ -1858,6 +1904,20 @@
     "source": "rss"
   },
   {
+    "id": "auto-147d629ab4",
+    "title": "xr周りで無理してみた。",
+    "url": "https://note.com/siru06/n/ndf69c8e96250",
+    "author": "si06",
+    "platform": "note",
+    "date": "2026-04-14",
+    "desc": "",
+    "tags": [
+      "チェックレイズ"
+    ],
+    "thumbnail": "https://assets.st-note.com/img/1776136401-PjsORmWLSMiIAaQfVv3dhqK8.png",
+    "source": "initial_fetch_creator"
+  },
+  {
     "id": "auto-b5ee97ce00",
     "title": "“安いから見る”が一番高い",
     "url": "https://note.com/arinasinjya/n/n173f50b622d5",
@@ -2228,6 +2288,22 @@
     ],
     "thumbnail": "https://japan.gtowizard.com/wp-content/uploads/2026/03/header-2-2.png",
     "source": "initial_fetch_web"
+  },
+  {
+    "id": "auto-545704a55f",
+    "title": "プリフロップでのスーテッドコネクターの扱い方",
+    "url": "https://www.youtube.com/watch?v=ZBpyHkj0NFY",
+    "author": "GTO Wizard Japan",
+    "platform": "youtube",
+    "date": "2026-04-12",
+    "desc": "投機的なハンドの代表として扱われるスーテッドコネクターがGTOではどのように使用されているのかを解説しています。",
+    "tags": [
+      "プリフロップ",
+      "特定のハンド",
+      "GTO"
+    ],
+    "thumbnail": "https://i.ytimg.com/vi/ZBpyHkj0NFY/mqdefault.jpg",
+    "source": "initial_fetch_yt"
   },
   {
     "id": "auto-436936fa2c",
@@ -2702,6 +2778,23 @@
     ],
     "thumbnail": "https://i.ytimg.com/vi/qjMhvN7R0a8/mqdefault.jpg",
     "source": "youtube_api"
+  },
+  {
+    "id": "auto-c9313dfdd2",
+    "title": "【ポーカー解説】ともき本人によるアメリカのライブキャッシュのリアルな思考を解説 | ハンド解説動画",
+    "url": "https://www.youtube.com/watch?v=tQP5H7aPIdg",
+    "author": "Pacific Poker Club (パシフィック ポーカークラブ)",
+    "platform": "youtube",
+    "date": "2026-04-10",
+    "desc": "今回ハンド解説したともきさんのXアカウントはこちら↓ https://x.com/tomoki22S この動画はオンラインカジノや違法賭博への ...",
+    "tags": [
+      "キャッシュゲーム",
+      "特定のハンド",
+      "特定のポジション",
+      "特定の環境"
+    ],
+    "thumbnail": "https://i.ytimg.com/vi/tQP5H7aPIdg/mqdefault.jpg",
+    "source": "initial_fetch_yt"
   },
   {
     "id": "auto-5027abca53",
@@ -3202,6 +3295,21 @@
     ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/265151652/rectangle_large_type_2_59ea04234449bd20689e214694ccdeee.png?fit=bounds&quality=85&width=1280",
     "source": "rss"
+  },
+  {
+    "id": "auto-a3fb23eea5",
+    "title": "AAやKKでのプリフロップ罠ハメパターン2選 #poker #ポーカー",
+    "url": "https://www.youtube.com/watch?v=79bbHw2ivxg",
+    "author": "ショートのポーカー冒険譚",
+    "platform": "youtube",
+    "date": "2026-04-05",
+    "desc": "ショートのX（ポーカー戦略をつぶやきます） https://x.com/shortstackadven ショートのTwitch（生放送でポーカー質問答え ...",
+    "tags": [
+      "プリフロップ",
+      "特定のハンド"
+    ],
+    "thumbnail": "https://i.ytimg.com/vi/79bbHw2ivxg/mqdefault.jpg",
+    "source": "initial_fetch_yt"
   },
   {
     "id": "auto-7937ad3f98",
@@ -4691,6 +4799,20 @@
     ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/261407804/rectangle_large_type_2_eda1d3960bf46551037f85be67250914.png?fit=bounds&quality=85&width=1280",
     "source": "rss"
+  },
+  {
+    "id": "auto-0cfe66fb3c",
+    "title": "流行ってないGTOプレイほど超チャンス #poker #ポーカー",
+    "url": "https://www.youtube.com/watch?v=nrmTn0liA-o",
+    "author": "ショートのポーカー冒険譚",
+    "platform": "youtube",
+    "date": "2026-03-23",
+    "desc": "ショートのX（ポーカー戦略をつぶやきます） https://x.com/shortstackadven ショートのTwitch（生放送でポーカー質問答え ...",
+    "tags": [
+      "GTO"
+    ],
+    "thumbnail": "https://i.ytimg.com/vi/nrmTn0liA-o/mqdefault.jpg",
+    "source": "initial_fetch_yt"
   },
   {
     "id": "auto-5e55a0acb3",
@@ -12381,6 +12503,21 @@
     "source": "fetch_creator"
   },
   {
+    "id": "auto-bed2a35f52",
+    "title": "【Dramaさん解説】ベットのサイジングにあなたのテルでてます!!",
+    "url": "https://www.youtube.com/watch?v=x9xKHOmfDj4",
+    "author": "suits Poker Channel",
+    "platform": "youtube",
+    "date": "2025-12-05",
+    "desc": "今回は店内で行われたヘッドホンポーカーのdramaさん解説動画になります。 是非ご覧ください!! ※当店はオンラインポーカーへ ...",
+    "tags": [
+      "テル",
+      "ベット"
+    ],
+    "thumbnail": "https://i.ytimg.com/vi/x9xKHOmfDj4/mqdefault.jpg",
+    "source": "initial_fetch_yt"
+  },
+  {
     "id": "auto-ec73ec61c6",
     "title": "待つプレイも実力のうち【ポーカー戦略】#poker #shorts #ポーカー",
     "url": "https://www.youtube.com/watch?v=zmxIV6W0E94",
@@ -13233,6 +13370,22 @@
     ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/232196010/rectangle_large_type_2_4502398b21a48de45debd31a49f3ab80.png?fit=bounds&quality=85&width=1280",
     "source": "fetch_creator"
+  },
+  {
+    "id": "auto-c626839142",
+    "title": "ブラフの期待値について 【ポーカー】",
+    "url": "https://www.youtube.com/watch?v=5A3p5TFcti0",
+    "author": "のーらん",
+    "platform": "youtube",
+    "date": "2025-11-27",
+    "desc": "今回は、ブラフEVの構造とシンプルな実践エクスプロイトについて解説させていただきました。 ◼️チャプター 0:00 OP 1:05 ...",
+    "tags": [
+      "理論",
+      "エクスプロイト",
+      "ブラフ"
+    ],
+    "thumbnail": "https://i.ytimg.com/vi/5A3p5TFcti0/mqdefault.jpg",
+    "source": "initial_fetch_yt"
   },
   {
     "id": "auto-9a9f96a526",
@@ -17021,6 +17174,21 @@
     ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/222467242/rectangle_large_type_2_8e5ad1f5067ee1cc673acf268007dee6.jpeg?fit=bounds&quality=85&width=1280",
     "source": "initial_fetch_creator"
+  },
+  {
+    "id": "auto-edce3cb25d",
+    "title": "【ポーカー初心者必見】相手のベットに対してコールすべきかどうかを正しく判断する方法",
+    "url": "https://www.youtube.com/watch?v=5JOqukKe0Ac",
+    "author": "銀河 -POKER理論解説-",
+    "platform": "youtube",
+    "date": "2025-10-15",
+    "desc": "poker #テキサスホールデム #ポーカー 本編はこちら https://youtu.be/iKjZRxH2qM0 ◇━━━━━━━ OUR SPACE ...",
+    "tags": [
+      "初心者向け",
+      "コール"
+    ],
+    "thumbnail": "https://i.ytimg.com/vi/5JOqukKe0Ac/mqdefault.jpg",
+    "source": "initial_fetch_yt"
   },
   {
     "id": "auto-ef774d1586",
@@ -25311,6 +25479,21 @@
     "tags": [],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/195497276/rectangle_large_type_2_7e27dd28557810c7164e048cc05d8440.png?fit=bounds&quality=85&width=1280",
     "source": "fetch_creator"
+  },
+  {
+    "id": "auto-00e822013b",
+    "title": "【ポーカー初心者必見】ドンクベットしない方がいい理由",
+    "url": "https://www.youtube.com/watch?v=GLuFeNyntZ0",
+    "author": "銀河 -POKER理論解説-",
+    "platform": "youtube",
+    "date": "2025-06-11",
+    "desc": "poker #テキサスホールデム #ポーカー 本編はこちら https://youtu.be/7JTRHqRxA64 ◇━━━━━ OUR SPACE 限定版 ...",
+    "tags": [
+      "初心者向け",
+      "ドンク"
+    ],
+    "thumbnail": "https://i.ytimg.com/vi/GLuFeNyntZ0/mqdefault.jpg",
+    "source": "initial_fetch_yt"
   },
   {
     "id": "auto-059ddd81cf",
