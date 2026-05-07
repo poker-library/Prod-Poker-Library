@@ -30,6 +30,67 @@
     "source": "rss"
   },
   {
+    "id": "auto-a399d97ebe",
+    "title": "EQ,EV,戦略チャート",
+    "url": "https://note.com/honest_auklet922/n/n577a704aa248",
+    "author": "NA",
+    "platform": "note",
+    "date": "2026-05-06",
+    "desc": "EQ,EV,戦略チャートを役、ドローで色分けしてグラフ化しました。 左列がEQ順にソート、右列がEV順にソートされています。 EQ(sorted by EQ)はwizardのEQチャートそのもの。 bet freq(sorted by EQ)は詳細タブのヒストグラムそのもの。 bet freq×rangeは、ベット頻度とこれまでのストリートをたどった頻度(range)を掛け合わせたもの。 例えば、",
+    "tags": [
+      "理論",
+      "エクイティ"
+    ],
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/273586373/rectangle_large_type_2_04d3b02e8af570811ed3edbc5c6728c0.png?fit=bounds&quality=85&width=1280",
+    "source": "rss"
+  },
+  {
+    "id": "auto-c1a39818e4",
+    "title": "１日１問GTO戦略クイズ【#17】",
+    "url": "https://www.youtube.com/watch?v=GoMrrxbL7hA",
+    "author": "心配性ポーカー",
+    "platform": "youtube",
+    "date": "2026-05-06",
+    "desc": "BB vs COのシングルレイズドポットに関するGTO戦略のクイズです！！ ＜問題の設定＞ ・9人MAX ・4bb cap/5% ・2.5bb open ...",
+    "tags": [
+      "特定のポジション",
+      "GTO",
+      "SRP"
+    ],
+    "thumbnail": "https://i.ytimg.com/vi/GoMrrxbL7hA/mqdefault.jpg",
+    "source": "youtube_api"
+  },
+  {
+    "id": "auto-9eaafc8095",
+    "title": "PokerNowの使い方",
+    "url": "https://note.com/tsuruhato/n/n9435a68d609b",
+    "author": "つるはと",
+    "platform": "note",
+    "date": "2026-05-05",
+    "desc": "PokerNowは、ダウンロード不要でオンラインポーカーがプレイできるサイト。PC、スマホ、どちらでもプレイできる。 続きをみる",
+    "tags": [
+      "ツール"
+    ],
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/273353860/rectangle_large_type_2_2d467f14822d60fb77b9f3eafb3e8554.png?fit=bounds&quality=85&width=1280",
+    "source": "rss"
+  },
+  {
+    "id": "auto-b4d431f91e",
+    "title": "１日１問GTO戦略クイズ【#16】",
+    "url": "https://www.youtube.com/watch?v=yk3QVN5WtLk",
+    "author": "心配性ポーカー",
+    "platform": "youtube",
+    "date": "2026-05-05",
+    "desc": "BB vs LJのシングルレイズドポットに関するGTO戦略のクイズです！！ ＜問題の設定＞ ・9人MAX ・4bb cap/5% ・2.5bb open ...",
+    "tags": [
+      "特定のポジション",
+      "GTO",
+      "SRP"
+    ],
+    "thumbnail": "https://i.ytimg.com/vi/yk3QVN5WtLk/mqdefault.jpg",
+    "source": "youtube_api"
+  },
+  {
     "id": "auto-5a2f7dd85a",
     "title": "１日１問GTO戦略クイズ【#15】",
     "url": "https://www.youtube.com/watch?v=88pk1t-9sYE",
@@ -44,6 +105,51 @@
     ],
     "thumbnail": "https://i.ytimg.com/vi/88pk1t-9sYE/mqdefault.jpg",
     "source": "youtube_api"
+  },
+  {
+    "id": "auto-250b0667cb",
+    "title": "【脱・初心者】ポーカーの「ハンドレンジ」って何？相手を「点」ではなく「面」で捉える技術",
+    "url": "https://note.com/poker_room_tt/n/nde2352c29d09",
+    "author": "Poker Room TT@西中島南方",
+    "platform": "note",
+    "date": "2026-05-04",
+    "desc": "Poker Room TT 店長の中森です。 ポーカーを少し覚えると、「相手は何を持っているんだろう？」と一点突破で手札を当てようとしてしまいがちです。でも、実はプロは相手の手札を「これだ！」と決め打ちはしません。 続きをみる",
+    "tags": [
+      "理論",
+      "初心者向け",
+      "レンジ"
+    ],
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/270268695/rectangle_large_type_2_f1a30da95b49a7725cb30f896549eec0.png?fit=bounds&quality=85&width=1280",
+    "source": "rss"
+  },
+  {
+    "id": "auto-cb15ceb1af",
+    "title": "(再掲)【ポーカー戦略】強いペアを諦めるタイミング※重要度☆☆☆",
+    "url": "https://note.com/pokerpokerpro/n/nf39106dde3d4",
+    "author": "ポーカープロが解説するよtori🐦",
+    "platform": "note",
+    "date": "2026-05-04",
+    "desc": "こんばんは、 ポーカープロのtori🐦です。 今日は、AAなどの 強いペア(オーバーペアを含む)をいつ諦めるのか？ について詳しく解説していきます。 続きをみる",
+    "tags": [
+      "戦略",
+      "特定の役"
+    ],
+    "thumbnail": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/a0fc025f00902e88a2e581a369737750e905c41f.png",
+    "source": "rss"
+  },
+  {
+    "id": "auto-4bc0078eb5",
+    "title": "(再掲)【ポーカー戦略】「絶対降りないマン」に対するエクスプロイト",
+    "url": "https://note.com/pokerpokerpro/n/nb7a6b8f8cbbd",
+    "author": "ポーカープロが解説するよtori🐦",
+    "platform": "note",
+    "date": "2026-05-04",
+    "desc": "こんばんは、 ポーカープロのtori🐦です。 今回は、意外と苦手とする人が多い、 「絶対降りないマン」に対するエクスプロイト戦略 を解説します。 続きをみる",
+    "tags": [
+      "エクスプロイト"
+    ],
+    "thumbnail": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/17e064fa195e7823e518268e3c88dffc71943688.png",
+    "source": "rss"
   },
   {
     "id": "auto-92003697a0",
@@ -135,6 +241,29 @@
     ],
     "thumbnail": "https://i.ytimg.com/vi/ow4BDM_g0uc/mqdefault.jpg",
     "source": "youtube_api"
+  },
+  {
+    "id": "auto-e9e79a76a8",
+    "title": "Exploiting Profiles: Episode II – The Nit",
+    "url": "https://blog.gtowizard.com/exploiting-profiles-episode-ii-the-nit/?utm_source=rss&utm_medium=rss&utm_campaign=exploiting-profiles-episode-ii-the-nit",
+    "author": "GTO Wizard",
+    "platform": "blog",
+    "date": "2026-05-03",
+    "desc": "We will compare BTN’s strategy when playing heads up against a Nit and against a GTO opponent in a 100bb cash game, BTN vs BB SRP. We will compare reports detailing BTN’s aggregated c-bet strategy acr",
+    "tags": [
+      "キャッシュゲーム",
+      "フロップ",
+      "特定のポジション",
+      "GTO",
+      "理論",
+      "エクスプロイト",
+      "ソルバー",
+      "ベット",
+      "SRP",
+      "CB"
+    ],
+    "thumbnail": "https://blog.gtowizard.com/content/2026/05/Thumbnail.png",
+    "source": "web_rss"
   },
   {
     "id": "auto-48b8e5cd16",
