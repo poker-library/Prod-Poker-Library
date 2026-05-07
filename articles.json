@@ -1,5 +1,132 @@
 [
   {
+    "id": "auto-5a2f7dd85a",
+    "title": "１日１問GTO戦略クイズ【#15】",
+    "url": "https://www.youtube.com/watch?v=88pk1t-9sYE",
+    "author": "心配性ポーカー",
+    "platform": "youtube",
+    "date": "2026-05-04",
+    "desc": "BTN vs BBのシングルレイズドポットに関するGTO戦略のクイズです！！ ＜問題の設定＞ ・9人MAX ・4bb cap/5% ・2.5bb open ...",
+    "tags": [
+      "特定のポジション",
+      "GTO",
+      "SRP"
+    ],
+    "thumbnail": "https://i.ytimg.com/vi/88pk1t-9sYE/mqdefault.jpg",
+    "source": "youtube_api"
+  },
+  {
+    "id": "auto-92003697a0",
+    "title": "【ポーカーGTO解説】BTN vs BB SRP におけるターン戦略[Aハイ、Kハイボード編]",
+    "url": "https://note.com/poker_ninja/n/nab29a91ad71b",
+    "author": "東京大学ポーカー研究会",
+    "platform": "note",
+    "date": "2026-05-03",
+    "desc": "この記事は定価500円ですが、【先着5名様】のみ割引価格「350円」です。 定員に達し次第、値上がりします。 こんにちは、東京大学ポーカー研究会です。 このNoteでは、ポーカーの具体的なスポットにおける戦略を、GTO（Game Theory Optimal）の視点から順を追って解説していきます。Solver（GTO計算ツール）による出力をベースに、【体系的で分かりやすいポーカー戦略解説】を書いて",
+    "tags": [
+      "ターン",
+      "特定のボード",
+      "特定のポジション",
+      "GTO",
+      "理論",
+      "SRP"
+    ],
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/272653082/rectangle_large_type_2_f9152432b42d45c4734c9738d8d6373a.png?fit=bounds&quality=85&width=1280",
+    "source": "rss"
+  },
+  {
+    "id": "auto-989828982f",
+    "title": "初心者向けポーカー上達法（トーナメント編）",
+    "url": "https://note.com/txksr/n/nd3bbac02ab44",
+    "author": "フレンドリーク",
+    "platform": "note",
+    "date": "2026-05-03",
+    "desc": "【まずはこれ】ポーカー初心者が学ぶべき6つの基本！今日から勝てるコツをプロがわかりやすく教えます。 ※表記 〇K～〇2は〇X(例 AKs～A2s→AXs)、両方〇以上はX〇以上(例 両方T以上→XT以上) 続きをみる",
+    "tags": [
+      "MTT",
+      "勉強法",
+      "初心者向け"
+    ],
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/272610378/rectangle_large_type_2_3976a9933fc2da48a8cd5d7ef647040f.jpeg?fit=bounds&quality=85&width=1280",
+    "source": "rss"
+  },
+  {
+    "id": "auto-c12f47ace4",
+    "title": "JOPT対策|トーナメントで有効なブラフ3選※上級者向け",
+    "url": "https://note.com/pokerpokerpro/n/nadfa36d81ac2",
+    "author": "ポーカープロが解説するよtori🐦",
+    "platform": "note",
+    "date": "2026-05-03",
+    "desc": "こんばんは、 ポーカープロのtori🦜です。 前回の記事でもお伝えしましたが、 コーチングさせていただいている方が、 JOPT(約400人参加)でFTに進出しました🎉 続きをみる",
+    "tags": [
+      "MTT",
+      "上級者向け",
+      "ブラフ"
+    ],
+    "thumbnail": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/04c58190c689095f30eeb2e5a8b1455f54c9adfd.png",
+    "source": "rss"
+  },
+  {
+    "id": "auto-5224dc92e4",
+    "title": "１日１問GTO戦略クイズ【#14】",
+    "url": "https://www.youtube.com/watch?v=ow4BDM_g0uc",
+    "author": "心配性ポーカー",
+    "platform": "youtube",
+    "date": "2026-05-03",
+    "desc": "UTG vs BBのシングルレイズドポットに関するGTO戦略のクイズです！！ ＜問題の設定＞ ・9人MAX ・4bb cap/5% ・2.5bb open ...",
+    "tags": [
+      "特定のポジション",
+      "GTO",
+      "SRP"
+    ],
+    "thumbnail": "https://i.ytimg.com/vi/ow4BDM_g0uc/mqdefault.jpg",
+    "source": "youtube_api"
+  },
+  {
+    "id": "auto-48b8e5cd16",
+    "title": "JOPT「#102 NLH Good Game 1000」直前対策｜ハイローラー戦略クイズ30選",
+    "url": "https://note.com/7poke_poker/n/n3245ba9121be",
+    "author": "「ぽ」のハナシ🃏🐟 | 本気ドリル・基礎クイズから、「ぽ」な日常・ニュースまでなんでもあり",
+    "platform": "note",
+    "date": "2026-05-02",
+    "desc": "📋 目次 第1章: ハイローラーのプリフロップ：レンジのバランス ▷ 節1-1: GTOベースのオープン・3ベットレンジ ▷ 節1-2: 4ベット・5ベットの判断 ▷ 節1-3: スクイズと3ベットの判断精度 第2章: ポストフロップ：搾り取りとブラフの精度 ▷ 節2-1: バリューラインの最適化 ▷ 節2-2: ブラフラインとブロッカーの活用 ▷ 節2-3: ポットコントロールとエクスプロイト ",
+    "tags": [
+      "MTT"
+    ],
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/272331640/rectangle_large_type_2_8da5c3741d4580a8bbafd2edb177efc4.jpeg?fit=bounds&quality=85&width=1280",
+    "source": "rss"
+  },
+  {
+    "id": "auto-3b126d4830",
+    "title": "JOPT「#90 NLH Bounty Hunter」直前対策｜ヘッズアップ戦略クイズ30選",
+    "url": "https://note.com/7poke_poker/n/ndb5f34afab42",
+    "author": "「ぽ」のハナシ🃏🐟 | 本気ドリル・基礎クイズから、「ぽ」な日常・ニュースまでなんでもあり",
+    "platform": "note",
+    "date": "2026-05-02",
+    "desc": "📋 目次 第1章: HUのプリフロップ：超広いレンジの扱い方 ▷ 節1-1: HUでのオープンレンジとリンプ戦略 ▷ 節1-2: 3ベット・コールの判断基準 ▷ 節1-3: OOP/IPの情報格差を活かしたライン選択 第2章: HUポストフロップ：アグレッションと読み ▷ 節2-1: Cbetの頻度と抑制のバランス ▷ 節2-2: 相手のレンジを絞り込む思考法 ▷ 節2-3: ターン・リバーのダブ",
+    "tags": [
+      "MTT",
+      "ヘッズアップ"
+    ],
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/272331110/rectangle_large_type_2_59841772f984f27c9bff07711e796392.jpeg?fit=bounds&quality=85&width=1280",
+    "source": "rss"
+  },
+  {
+    "id": "auto-5b816de03c",
+    "title": "JOPT「#89 NLH Good Game 1000」直前対策｜ハイローラー戦略クイズ30選",
+    "url": "https://note.com/7poke_poker/n/n05016384e4db",
+    "author": "「ぽ」のハナシ🃏🐟 | 本気ドリル・基礎クイズから、「ぽ」な日常・ニュースまでなんでもあり",
+    "platform": "note",
+    "date": "2026-05-02",
+    "desc": "📋 目次 第1章: ハイローラーのプリフロップ：レンジのバランス ▷ 節1-1: GTOベースのオープン・3ベットレンジ ▷ 節1-2: 4ベット・5ベットの判断 ▷ 節1-3: スクイズと3ベットの判断精度 第2章: ポストフロップ：搾り取りとブラフの精度 ▷ 節2-1: バリューラインの最適化 ▷ 節2-2: ブラフラインとブロッカーの活用 ▷ 節2-3: ポットコントロールとエクスプロイト ",
+    "tags": [
+      "ICM",
+      "MTT"
+    ],
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/272330804/rectangle_large_type_2_62b811b9f5c363b62a2c7bb2811fa3f5.jpeg?fit=bounds&quality=85&width=1280",
+    "source": "rss"
+  },
+  {
     "id": "auto-bb68e967a0",
     "title": "相手メモ、ただの悪口だけになってない？",
     "url": "https://note.com/arinasinjya/n/n77648a5dafbd",
@@ -8,7 +135,28 @@
     "date": "2026-04-28",
     "desc": "“次に何を変えるか”まで書けているか 「ブラフ多い」ってメモしてたのに、 また次のリバーで払ったことないですか。 続きをみる",
     "tags": [
-      "リーク"
+      "勉強法",
+      "ツール",
+      "エクスプロイト",
+      "ポストフロップ",
+      "リバー",
+      "ターン",
+      "フロップ",
+      "特定の役",
+      "特定のスタック",
+      "特定のポジション",
+      "特定の環境",
+      "特定のハンド",
+      "特定のボード",
+      "ベット",
+      "コール",
+      "フォールド",
+      "ブラフ",
+      "バリュー",
+      "リーク",
+      "初心者向け",
+      "中級者向け",
+      "上級者向け"
     ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/271081639/rectangle_large_type_2_b4c20a7f26dc03889e29e44132a7fb6f.png?fit=bounds&quality=85&width=1280",
     "source": "rss"
@@ -22,7 +170,14 @@
     "date": "2026-04-28",
     "desc": "次の実戦で直すのは1個だけでいい 反省点が多かった日は、上達している感じがする。 続きをみる",
     "tags": [
-      "勉強法"
+      "勉強法",
+      "リーク",
+      "初心者向け",
+      "中級者向け",
+      "理論",
+      "エクスプロイト",
+      "ポストフロップ",
+      "特定の環境"
     ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/271040539/rectangle_large_type_2_1a25b2f22456da50bd6cb3463e2588df.png?fit=bounds&quality=85&width=1280",
     "source": "rss"
@@ -36,7 +191,34 @@
     "date": "2026-04-28",
     "desc": "上達する人は“最初にズレた判断”だけを見る ポーカーで強くなる人は、ほぼ必ずハンドレビューをしている。 続きをみる",
     "tags": [
-      "勉強法"
+      "勉強法",
+      "理論",
+      "エクスプロイト",
+      "初心者向け",
+      "中級者向け",
+      "上級者向け",
+      "特定のスタック",
+      "特定のポジション",
+      "特定の役",
+      "特定のアクション",
+      "特定の環境",
+      "IP",
+      "OOP",
+      "マルチウェイ",
+      "バリュー",
+      "ブラフ",
+      "ベット",
+      "コール",
+      "チェック",
+      "フォールド",
+      "SRP",
+      "3BP",
+      "CB",
+      "ドロー",
+      "ブロッカー",
+      "FT",
+      "バウンティ",
+      "ICM"
     ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/271031904/rectangle_large_type_2_b100af9994a6c3936fcf63b48f90dcc4.png?fit=bounds&quality=85&width=1280",
     "source": "rss"
@@ -50,9 +232,21 @@
     "date": "2026-04-27",
     "desc": "弱い卓なのに増えない時、 問題は「相手が見えていないこと」ではない。 降りすぎる人もいる。 打ちすぎる人もいる。 全然打たない人もいる。 サイズで強弱が漏れている人もいる。 続きをみる",
     "tags": [
-      "戦略",
-      "特定の環境",
-      "エクスプロイト"
+      "エクスプロイト",
+      "理論",
+      "ポストフロップ",
+      "バリュー",
+      "ブラフ",
+      "ベット",
+      "レイズ",
+      "コール",
+      "チェック",
+      "フォールド",
+      "初心者向け",
+      "中級者向け",
+      "上級者向け",
+      "特定のポジション",
+      "特定のスタック"
     ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/270995140/rectangle_large_type_2_52a4c559243c94c43efaa43bf176ef43.png?fit=bounds&quality=85&width=1280",
     "source": "rss"
@@ -69,7 +263,26 @@
       "ポストフロップ",
       "フロップ",
       "ターン",
-      "リバー"
+      "リバー",
+      "特定のポジション",
+      "特定の役",
+      "特定のアクション",
+      "特定の環境",
+      "IP",
+      "OOP",
+      "マルチウェイ",
+      "理論",
+      "エクスプロイト",
+      "初心者向け",
+      "中級者向け",
+      "ベット",
+      "コール",
+      "チェック",
+      "フォールド",
+      "SRP",
+      "バリュー",
+      "ブラフ",
+      "ドロー"
     ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/270994397/rectangle_large_type_2_ea3261cff12b16f70a27956166c36f9a.png?fit=bounds&quality=85&width=1280",
     "source": "rss"
@@ -84,10 +297,13 @@
     "desc": "トーナメントで噛み合わない時、 毎回ハンドを間違えているとは限りません。 むしろ多いのは、こっちです。 続きをみる",
     "tags": [
       "MTT",
-      "特定のハンド",
-      "特定のポジション",
+      "初心者向け",
+      "中級者向け",
+      "上級者向け",
+      "FT",
+      "サテライト",
       "ICM",
-      "バウンティ"
+      "アンティ"
     ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/270993604/rectangle_large_type_2_b58cc37af33144ca93795eac824dbac2.png?fit=bounds&quality=85&width=1280",
     "source": "rss"
@@ -101,7 +317,13 @@
     "date": "2026-04-27",
     "desc": "20bbの記事もある。 バブルの記事もある。 PKO、BB defend、CB、リバー、exploitもある。 どれも気になる。 続きをみる",
     "tags": [
-      "エクスプロイト"
+      "MTT",
+      "サテライト",
+      "ポストフロップ",
+      "リバー",
+      "エクスプロイト",
+      "ICM",
+      "マルチウェイ"
     ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/270992024/rectangle_large_type_2_5b30f1960649ec90a0b0a49874e1f9fe.png?fit=bounds&quality=85&width=1280",
     "source": "rss"
@@ -115,7 +337,14 @@
     "date": "2026-04-27",
     "desc": "ライブポーカーで相手のVPIPを推定する科学 — HUDなしで5分で見抜く方法 ライブポーカーで卓に着いて、最初に直面する課題がある。 続きをみる",
     "tags": [
-      "特定の環境"
+      "プリフロップ",
+      "エクスプロイト",
+      "初心者向け",
+      "中級者向け",
+      "ツール",
+      "特定のポジション",
+      "特定の役",
+      "特定のハンド"
     ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/270904154/rectangle_large_type_2_b3108889a2dc8091656bef9e811a0ce4.png?fit=bounds&quality=85&width=1280",
     "source": "rss"
@@ -129,8 +358,16 @@
     "date": "2026-04-27",
     "desc": "こんばんは、 ポーカープロのtori🦜です。 今回は、 BBからの必須エクスプロイト戦略 を 3つのハンド を通して解説します。 続きをみる",
     "tags": [
-      "特定のポジション",
-      "エクスプロイト"
+      "MTT",
+      "プリフロップ",
+      "エクスプロイト",
+      "GTO",
+      "特定のハンド",
+      "コール",
+      "フォールド",
+      "理論",
+      "初心者向け",
+      "中級者向け"
     ],
     "thumbnail": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/f1900c0927e6e0c1ee89592c6df4d26fd236139a.png",
     "source": "rss"
@@ -145,9 +382,53 @@
     "desc": "こんばんは、 ポーカープロのtori🐦です。 今回もトーナメント対策として、 実際のJOPTのハンドを基に、 有効なエクスプロイト戦略を3つ紹介します。 トーナメント特有のエクスプロイト戦略は多く存在します。 GWは大型大会が多いので、 ぜひ今のうちに準備しておいてください。 続きをみる",
     "tags": [
       "MTT",
-      "ターン",
-      "リバー",
-      "エクスプロイト"
+      "エクスプロイト",
+      "特定のハンド",
+      "特定のボード",
+      "特定のスタック",
+      "特定のポジション",
+      "特定の役",
+      "特定のアクション",
+      "特定の環境",
+      "IP",
+      "OOP",
+      "マルチウェイ",
+      "GTO",
+      "理論",
+      "MES",
+      "勉強法",
+      "ツール",
+      "ソルバー",
+      "テル",
+      "リーク",
+      "初心者向け",
+      "中級者向け",
+      "上級者向け",
+      "アンティ",
+      "レーキ",
+      "ICM",
+      "バウンティ",
+      "バリュー",
+      "ブラフ",
+      "オールイン",
+      "ベット",
+      "レイズ",
+      "コール",
+      "チェック",
+      "チェックレイズ",
+      "フォールド",
+      "SRP",
+      "3BP",
+      "4BP",
+      "5BP",
+      "CB",
+      "BMCB",
+      "ドロー",
+      "ブロッカー",
+      "FT",
+      "サテライト",
+      "特殊ルール",
+      "ルール"
     ],
     "thumbnail": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/556b40279bbc19862fbcfadd5b9c13521c30ecc6.png",
     "source": "rss"
@@ -161,9 +442,9 @@
     "date": "2026-04-27",
     "desc": "BTN vs BBのシングルレイズドポットに関するGTO戦略のクイズです！！ ＜問題の設定＞ ・9人MAX ・4bb cap/5% ・2.5bb open ...",
     "tags": [
-      "特定のポジション",
       "GTO",
-      "SRP"
+      "SRP",
+      "プリフロップ"
     ],
     "thumbnail": "https://i.ytimg.com/vi/4m0lxHYGuRc/mqdefault.jpg",
     "source": "youtube_api"
@@ -177,8 +458,14 @@
     "date": "2026-04-27",
     "desc": "こんにちは。 Poker Room TT 店長の中森 です。 「今は負けているけれど、次のカードで何が来れば勝てるのか？」 これを常に把握しているのが強いプレイヤーの共通点です。今回は、ポーカーの数学的な土台となる「アウツ（Outs）」についてお話しします。 続きをみる",
     "tags": [
-      "戦略",
-      "オッズ"
+      "理論",
+      "初心者向け",
+      "中級者向け",
+      "ドロー",
+      "特定の役",
+      "特定の環境",
+      "勉強法",
+      "ルール"
     ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/270257925/rectangle_large_type_2_a0a2c17bc30bfa97c2b9ab4602901abb.png?fit=bounds&quality=85&width=1280",
     "source": "rss"
@@ -193,13 +480,20 @@
     "desc": "今回の記事では、GTO Wizardのカスタム集合分析機能を用いて、Cash Gameの200BB BTN vs BB SRPにおけるフロップ戦略を検証していきます。 現状多くのプレイヤーの間でフロップ集合学習の題材となっているのは、恐らく100BB＆NL50 or 500 Rakeに基づいているのではないでしょうか？ この前提は、確かにオンラインのFast Tableといった環境のプレイヤーには",
     "tags": [
       "キャッシュゲーム",
+      "プリフロップ",
+      "ポストフロップ",
       "フロップ",
+      "GTO",
+      "理論",
+      "特定のスタック",
       "特定のポジション",
       "特定の環境",
-      "GTO",
-      "勉強法",
-      "ソルバー",
-      "SRP"
+      "IP",
+      "OOP",
+      "SRP",
+      "レーキ",
+      "ツール",
+      "ソルバー"
     ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/268391727/rectangle_large_type_2_91412e4c4a58778b93ce0beb55388f13.jpeg?fit=bounds&quality=85&width=1280",
     "source": "rss"
@@ -213,8 +507,15 @@
     "date": "2026-04-26",
     "desc": "どーも、goleiro.tikです。 久しぶりのポーカー記事です！ 続きをみる",
     "tags": [
+      "GTO",
+      "初心者向け",
+      "プリフロップ",
+      "3BP",
+      "4BP",
+      "IP",
+      "OOP",
       "理論",
-      "プリフロップ"
+      "勉強法"
     ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/270680482/rectangle_large_type_2_2291e6f834ff31bba46a864d5a455427.jpeg?fit=bounds&quality=85&width=1280",
     "source": "rss"
@@ -229,8 +530,9 @@
     "desc": "こんばんは、 ポーカープロのtori🐦です。 今回もトーナメント対策として、 実際のJOPTのハンドを基に、 有効なエクスプロイト戦略を3つ紹介します。 トーナメント特有のエクスプロイト戦略は多く存在します。 GWは大型大会が多いので、 ぜひ今のうちに準備しておいてください。 続きをみる",
     "tags": [
       "MTT",
+      "エクスプロイト",
       "フロップ",
-      "エクスプロイト"
+      "チェックレイズ"
     ],
     "thumbnail": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/6bda44dd59bcd8490099269b1209c1d3e9d1de9e.png",
     "source": "rss"
@@ -260,9 +562,10 @@
     "date": "2026-04-26",
     "desc": "ショートのX（ポーカー戦略をつぶやきます） https://x.com/shortstackadven ショートのTwitch（生放送でポーカー質問答え ...",
     "tags": [
-      "戦略",
+      "GTO",
       "理論",
-      "GTO"
+      "勉強法",
+      "ソルバー"
     ],
     "thumbnail": "https://i.ytimg.com/vi/31WCUohlm9s/mqdefault.jpg",
     "source": "youtube_api"
@@ -276,8 +579,10 @@
     "date": "2026-04-26",
     "desc": "CO vs BBのシングルレイズドポットに関するGTO戦略のクイズです！！ ＜問題の設定＞ ・9人MAX ・4bb cap/5% ・2.5bb open ...",
     "tags": [
-      "特定のポジション",
       "GTO",
+      "プリフロップ",
+      "ポストフロップ",
+      "理論",
       "SRP"
     ],
     "thumbnail": "https://i.ytimg.com/vi/lNpOONu9lAc/mqdefault.jpg",
@@ -292,12 +597,25 @@
     "date": "2026-04-26",
     "desc": "こんにちは。 Poker Room TT 店長の中森 です。 ポーカーを打っていると「それはドンクだね」なんて言葉を耳にすることがあるかもしれません。 ドンク（Donk）は英語で「ロバ＝間抜け」という意味。あまり良い響きではありませんが、なぜ特定の打ち方がそう呼ばれるのでしょうか？ 続きをみる",
     "tags": [
-      "特定のアクション",
+      "ポストフロップ",
+      "特定の役",
+      "特定のポジション",
+      "特定の環境",
+      "IP",
+      "OOP",
+      "GTO",
+      "理論",
+      "エクスプロイト",
       "初心者向け",
+      "中級者向け",
       "上級者向け",
+      "CB",
+      "ブラフ",
       "ベット",
-      "BMCB",
-      "ドンク"
+      "チェック",
+      "チェックレイズ",
+      "フォールド",
+      "SRP"
     ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/270257085/rectangle_large_type_2_f7cedaa4e7de3a0cf47b200605f55d6c.png?fit=bounds&quality=85&width=1280",
     "source": "rss"
@@ -312,7 +630,20 @@
     "desc": "orbitコストが変わった瞬間に遅れる人へ 形式：通常MTT 続きをみる",
     "tags": [
       "MTT",
-      "アンティ"
+      "中級者向け",
+      "アンティ",
+      "ICM",
+      "プリフロップ",
+      "ポストフロップ",
+      "特定のスタック",
+      "特定のポジション",
+      "理論",
+      "エクスプロイト",
+      "ブラフ",
+      "ベット",
+      "レイズ",
+      "コール",
+      "フォールド"
     ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/270234801/rectangle_large_type_2_38d8a481f348b20d9e58236d378dcdb6.png?fit=bounds&quality=85&width=1280",
     "source": "rss"
@@ -326,7 +657,24 @@
     "date": "2026-04-25",
     "desc": "誰にカバーされてるかで最初の一手が変わる話 形式：通常MTT 続きをみる",
     "tags": [
-      "MTT"
+      "MTT",
+      "中級者向け",
+      "プリフロップ",
+      "ポストフロップ",
+      "特定のスタック",
+      "特定のポジション",
+      "IP",
+      "OOP",
+      "理論",
+      "エクスプロイト",
+      "ブラフ",
+      "ベット",
+      "レイズ",
+      "コール",
+      "フォールド",
+      "SRP",
+      "3BP",
+      "ICM"
     ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/270222217/rectangle_large_type_2_450f390725c5e29f7456cf258a18e981.png?fit=bounds&quality=85&width=1280",
     "source": "rss"
@@ -341,9 +689,37 @@
     "desc": "━━━━━━━━━━ 形式：通常MTT（Multi Table Tournament） 続きをみる",
     "tags": [
       "MTT",
+      "プリフロップ",
+      "ポストフロップ",
+      "特定のスタック",
       "特定のポジション",
+      "特定の役",
+      "特定の環境",
+      "IP",
+      "OOP",
       "マルチウェイ",
-      "特定のスタック"
+      "エクスプロイト",
+      "初心者向け",
+      "中級者向け",
+      "アンティ",
+      "バリュー",
+      "ブラフ",
+      "オールイン",
+      "ベット",
+      "レイズ",
+      "コール",
+      "チェック",
+      "フォールド",
+      "SRP",
+      "3BP",
+      "ICM",
+      "バウンティ",
+      "ドロー",
+      "ブロッカー",
+      "FT",
+      "サテライト",
+      "特殊ルール",
+      "ルール"
     ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/270210629/rectangle_large_type_2_24d0adde5ceb04c61ee8a9fa96afae22.png?fit=bounds&quality=85&width=1280",
     "source": "rss"
@@ -357,8 +733,39 @@
     "date": "2026-04-25",
     "desc": "はじめに 続きをみる",
     "tags": [
-      "戦略",
-      "MTT"
+      "MTT",
+      "プリフロップ",
+      "ポストフロップ",
+      "特定のスタック",
+      "特定のポジション",
+      "特定の役",
+      "特定のアクション",
+      "理論",
+      "エクスプロイト",
+      "MES",
+      "初心者向け",
+      "中級者向け",
+      "上級者向け",
+      "アンティ",
+      "ICM",
+      "バリュー",
+      "ブラフ",
+      "オールイン",
+      "ベット",
+      "レイズ",
+      "コール",
+      "チェック",
+      "チェックレイズ",
+      "フォールド",
+      "SRP",
+      "3BP",
+      "4BP",
+      "CB",
+      "ドロー",
+      "ブロッカー",
+      "FT",
+      "サテライト",
+      "特殊ルール"
     ],
     "thumbnail": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/2afc19454ad5cc4ce094a4487226469ecb1fb3f1.png",
     "source": "rss"
@@ -373,8 +780,16 @@
     "desc": "こんばんは、 ポーカープロのtori🦜です。 今回は主にJOPTの対策として、 「トーナメントで必ずやってしまうミス3選&その対策」 を記事にしました。 続きをみる",
     "tags": [
       "MTT",
-      "リーク",
-      "特定の環境"
+      "ブラフ",
+      "オールイン",
+      "アンティ",
+      "エクスプロイト",
+      "初心者向け",
+      "中級者向け",
+      "リバー",
+      "バリュー",
+      "コール",
+      "フォールド"
     ],
     "thumbnail": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/a3a366b46b34b82ea214d12ebdb6c453aaeb1128.png",
     "source": "rss"
