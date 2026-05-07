@@ -471,6 +471,24 @@
     "source": "rss"
   },
   {
+    "id": "auto-cdd9b61fda",
+    "title": "Exploiting Profiles: Episode I – The Calling Station",
+    "url": "https://blog.gtowizard.com/exploiting-profiles-episode-i-the-calling-station/",
+    "author": "GTO Wizard",
+    "platform": "blog",
+    "date": "2026-04-27",
+    "desc": "In this article, we will derive some heuristics for exploiting calling stations specifically. Before we proceed, however, it is important to understand what exactly player profiles are and what they c",
+    "tags": [
+      "特定のポジション",
+      "理論",
+      "エクスプロイト",
+      "オールイン",
+      "コール"
+    ],
+    "thumbnail": "https://blog.gtowizard.com/content/2026/04/header-4-1.png",
+    "source": "web_rss"
+  },
+  {
     "id": "auto-714ed27242",
     "title": "【Cash】Live10% 200BB BTNvsBB SRP Flop集合分析",
     "url": "https://note.com/zoomagaaa/n/n313a36018933",
@@ -3277,6 +3295,22 @@
     "source": "fetch_creator"
   },
   {
+    "id": "auto-b785f5b6dd",
+    "title": "ポーカーの根幹：GTO Wizardで紐解くIPとOOPの戦略的非対称性",
+    "url": "https://note.com/rich_tiger474/n/nf7a5aff4535f",
+    "author": "oKA｜ポーカー思考の言語化",
+    "platform": "note",
+    "date": "2026-04-09",
+    "desc": "",
+    "tags": [
+      "GTO",
+      "IP",
+      "OOP"
+    ],
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/266176731/rectangle_large_type_2_0ed498dbc0a8034f5656017636596263.png?fit=bounds&quality=85&width=1280",
+    "source": "fetch_creator"
+  },
+  {
     "id": "auto-7878a031d4",
     "title": "これだけは抑えておきたい！トーナメントの3betセオリー【ポーカー戦略】",
     "url": "https://www.youtube.com/watch?v=d4k59CIRYjk",
@@ -3832,6 +3866,39 @@
     ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/264407118/rectangle_large_type_2_d8ccc80b134ed74e47e4f36ba64d190e.png?fit=bounds&quality=85&width=1280",
     "source": "rss"
+  },
+  {
+    "id": "auto-3c061144c3",
+    "title": "リバーのブラフキャッチについて｜相手のバリュー下限から逆算してコールを考える",
+    "url": "https://note.com/rich_tiger474/n/ncd2fd950bfd8",
+    "author": "oKA｜ポーカー思考の言語化",
+    "platform": "note",
+    "date": "2026-04-03",
+    "desc": "",
+    "tags": [
+      "リバー",
+      "バリュー",
+      "ブラフ",
+      "コール"
+    ],
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/264559834/rectangle_large_type_2_190a715e68e83e38f1b3c048d2ea486f.png?fit=bounds&quality=85&width=1280",
+    "source": "fetch_creator"
+  },
+  {
+    "id": "auto-d670904bff",
+    "title": "ポットオッズとMDFについて｜",
+    "url": "https://note.com/rich_tiger474/n/n18b1be5bfd0c",
+    "author": "oKA｜ポーカー思考の言語化",
+    "platform": "note",
+    "date": "2026-04-03",
+    "desc": "",
+    "tags": [
+      "理論",
+      "MDF",
+      "オッズ"
+    ],
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/264559102/rectangle_large_type_2_65217fb709170e4b4dd70bdf40268f51.png?fit=bounds&quality=85&width=1280",
+    "source": "fetch_creator"
   },
   {
     "id": "auto-ccf0b3e0e3",
@@ -4826,6 +4893,36 @@
     "source": "initial_fetch_creator"
   },
   {
+    "id": "auto-9c47d64f8a",
+    "title": "ポーカー初心者はまずこれだけ読めばいい｜勝つことより先に「下手に負けない」ための基本原則",
+    "url": "https://note.com/rich_tiger474/n/nd6149c2b8a76",
+    "author": "oKA｜ポーカー思考の言語化",
+    "platform": "note",
+    "date": "2026-03-27",
+    "desc": "",
+    "tags": [
+      "初心者向け"
+    ],
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/262425916/rectangle_large_type_2_519285a084d4930cf9736ea4fc369d86.jpeg?fit=bounds&quality=85&width=1280",
+    "source": "fetch_creator"
+  },
+  {
+    "id": "auto-2367df925e",
+    "title": "ポーカーはエクイティを奪うゲーム｜レンジのポラライズとブラフの本質",
+    "url": "https://note.com/rich_tiger474/n/nba6707f1d3dc",
+    "author": "oKA｜ポーカー思考の言語化",
+    "platform": "note",
+    "date": "2026-03-27",
+    "desc": "",
+    "tags": [
+      "理論",
+      "エクイティ",
+      "ブラフ"
+    ],
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/262477175/rectangle_large_type_2_b3d144341639cfc87a7477614d76fdb8.jpeg?fit=bounds&quality=85&width=1280",
+    "source": "fetch_creator"
+  },
+  {
     "id": "auto-a56792aa79",
     "title": "【人生×ポーカー】「リバー」を読み解く：最終局面で最善の決断を下す戦略",
     "url": "https://note.com/gamelife_master/n/n18cb78d4a4bc",
@@ -5186,6 +5283,20 @@
     "source": "initial_fetch_creator"
   },
   {
+    "id": "auto-a12f6f8607",
+    "title": "GTO戦略を学ぶ本当の意味。",
+    "url": "https://note.com/rich_tiger474/n/n039c5b86732c",
+    "author": "oKA｜ポーカー思考の言語化",
+    "platform": "note",
+    "date": "2026-03-24",
+    "desc": "",
+    "tags": [
+      "GTO"
+    ],
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/262428020/rectangle_large_type_2_5941f433af1497bb349ea08866c4429d.jpeg?fit=bounds&quality=85&width=1280",
+    "source": "fetch_creator"
+  },
+  {
     "id": "auto-03d5689463",
     "title": "【001】エキスパート卓ハンドレビュー",
     "url": "https://note.com/ryu1poker_2nd/n/n4f2e054c6fc7",
@@ -5349,6 +5460,22 @@
     "tags": [],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/261020117/rectangle_large_type_2_2a3c41832c34c1fc5b9e03e6f4bdbec7.jpeg?fit=bounds&quality=85&width=1280",
     "source": "initial_fetch_creator"
+  },
+  {
+    "id": "auto-231dbaa6bc",
+    "title": "ポーカー初心者が最短で伸びるためのレンジ思考と期待値",
+    "url": "https://note.com/rich_tiger474/n/n8e742ff103b9",
+    "author": "oKA｜ポーカー思考の言語化",
+    "platform": "note",
+    "date": "2026-03-22",
+    "desc": "",
+    "tags": [
+      "理論",
+      "初心者向け",
+      "レンジ"
+    ],
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/262428586/rectangle_large_type_2_cc59438134dc3d6e1ec7d65a44967c41.jpeg?fit=bounds&quality=85&width=1280",
+    "source": "fetch_creator"
   },
   {
     "id": "auto-73958ec631",
@@ -5789,6 +5916,21 @@
     "source": "initial_fetch_creator"
   },
   {
+    "id": "auto-d4f578b6ae",
+    "title": "レクの反射テルを狩る｜テル読みエクスプロイト解説",
+    "url": "https://note.com/rich_tiger474/n/na03e865ecc65",
+    "author": "oKA｜ポーカー思考の言語化",
+    "platform": "note",
+    "date": "2026-03-17",
+    "desc": "",
+    "tags": [
+      "エクスプロイト",
+      "テル"
+    ],
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/262467201/rectangle_large_type_2_be703eeaf55a7e86542bc22b07e61e5d.jpeg?fit=bounds&quality=85&width=1280",
+    "source": "fetch_creator"
+  },
+  {
     "id": "auto-06365b2d1e",
     "title": "【初心者向け】無差別化(インディファレント)・MDF・ジオメトリックとは？",
     "url": "https://note.com/ryu1poker_2nd/n/ne5c4d2d35adb",
@@ -5873,6 +6015,20 @@
       "ポジション"
     ],
     "thumbnail": "",
+    "source": "fetch_creator"
+  },
+  {
+    "id": "auto-b6aded3802",
+    "title": "感覚派プレイヤーに勝つには",
+    "url": "https://note.com/rich_tiger474/n/n9c4ca384bfef",
+    "author": "oKA｜ポーカー思考の言語化",
+    "platform": "note",
+    "date": "2026-03-16",
+    "desc": "",
+    "tags": [
+      "エクスプロイト"
+    ],
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/262429857/rectangle_large_type_2_908263c4ae8e01867b3c4f1fe17b893e.jpeg?fit=bounds&quality=85&width=1280",
     "source": "fetch_creator"
   },
   {
