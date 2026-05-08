@@ -5454,7 +5454,9 @@
     "platform": "youtube",
     "date": "2026-03-30",
     "desc": "JJの使い方に関して説明をしています。 JJはPFの扱いから多岐に渡り、Flop以降もover cardが落ちるかどうかで戦略の変わる ...",
-    "tags": [],
+    "tags": [
+      "特定のハンド"
+    ],
     "thumbnail": "https://i.ytimg.com/vi/SZGhAM7Ixn4/mqdefault.jpg",
     "source": "initial_fetch_yt"
   },
@@ -7045,7 +7047,7 @@
     "date": "2026-03-14",
     "desc": "",
     "tags": [
-      "戦略"
+      "特殊ルール"
     ],
     "thumbnail": "https://japan.gtowizard.com/wp-content/uploads/2026/03/header-1-scaled-1.png",
     "source": "web_scrape"
@@ -9461,7 +9463,8 @@
     "date": "2026-02-01",
     "desc": "AKというハンドの使い方を、preflopやflop以降のアクションについて分類することで説明を行なっています。 本動画を通じてAK ...",
     "tags": [
-      "プリフロップ"
+      "フロップ",
+      "特定のハンド"
     ],
     "thumbnail": "https://i.ytimg.com/vi/HrtZcVIHYLU/mqdefault.jpg",
     "source": "initial_fetch_yt"
@@ -16262,7 +16265,9 @@
     "platform": "youtube",
     "date": "2025-11-09",
     "desc": "一般的に悪手といわれるdonk betについて有効な場面を説明しています。 FlopやTurnのdonk等よく知られたspotに加え、solution ...",
-    "tags": [],
+    "tags": [
+      "ドンク"
+    ],
     "thumbnail": "https://i.ytimg.com/vi/0lVeTPbulAw/mqdefault.jpg",
     "source": "initial_fetch_yt"
   },
