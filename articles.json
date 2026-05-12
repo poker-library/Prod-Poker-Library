@@ -51428,7 +51428,9 @@
     "platform": "note",
     "date": "2019-12-06",
     "desc": "",
-    "tags": [],
+    "tags": [
+      "勉強法"
+    ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/16626106/rectangle_large_type_2_073191386a1de4648724530be978c7a6.jpeg?fit=bounds&quality=85&width=1280",
     "source": "fetch_creator"
   },
@@ -51467,7 +51469,8 @@
     "date": "2019-11-11",
     "desc": "テキサスホールデムポーカーの第一歩を踏み出したばかりの方向けに動画や配信を行っています。よかったらチャンネル登録 ...",
     "tags": [
-      "レンジ"
+      "レンジ",
+      "特定のポジション"
     ],
     "thumbnail": "https://i.ytimg.com/vi/ub2Ls6At6n4/mqdefault.jpg",
     "source": "initial_fetch_yt"
@@ -51511,7 +51514,9 @@
     "platform": "youtube",
     "date": "2019-09-19",
     "desc": "yokosawa.shop □ https://yokosawa.shop/ 大人気！世界のヨコサワオリジナルグッズ - World Wide Yokosawa -が絶賛発売中です ...",
-    "tags": [],
+    "tags": [
+      "ルール"
+    ],
     "thumbnail": "https://i.ytimg.com/vi/tGoA4OWzzAk/mqdefault.jpg",
     "source": "initial_fetch_yt"
   },
@@ -51523,7 +51528,9 @@
     "platform": "note",
     "date": "2019-08-11",
     "desc": "",
-    "tags": [],
+    "tags": [
+      "エクスプロイト"
+    ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/13553906/rectangle_large_type_2_ce6d37af9e90650ea5e92b588a54d267.jpeg?fit=bounds&quality=85&width=1280",
     "source": "fetch_creator"
   },
