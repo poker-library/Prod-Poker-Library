@@ -8750,7 +8750,8 @@
     "date": "2026-02-22",
     "desc": "",
     "tags": [
-      "ポジション"
+      "オールイン",
+      "ヘッズアップ"
     ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/253791036/rectangle_large_type_2_adf97c9f9e5da114ccee8ec45bab86ad.png?fit=bounds&quality=85&width=1280",
     "source": "initial_fetch_creator"
@@ -8763,7 +8764,9 @@
     "platform": "note",
     "date": "2026-02-22",
     "desc": "",
-    "tags": [],
+    "tags": [
+      "リーク"
+    ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/253719935/rectangle_large_type_2_756ce0679a34ffda922c6a89d387c7f5.png?fit=bounds&quality=85&width=1280",
     "source": "initial_fetch_creator"
   },
@@ -8818,7 +8821,9 @@
     "platform": "note",
     "date": "2026-02-21",
     "desc": "",
-    "tags": [],
+    "tags": [
+      "理論"
+    ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/253422816/rectangle_large_type_2_e9b47838ad4f5bddcb47a60e0c18f1f2.png?fit=bounds&quality=85&width=1280",
     "source": "initial_fetch_creator"
   },
@@ -8871,7 +8876,8 @@
     "date": "2026-02-20",
     "desc": "",
     "tags": [
-      "ポジション"
+      "レイズ",
+      "プリフロップ"
     ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/253230314/rectangle_large_type_2_f17a598daa3fd9ab4edf21ef0d617786.png?fit=bounds&quality=85&width=1280",
     "source": "initial_fetch_creator"
@@ -8885,8 +8891,7 @@
     "date": "2026-02-20",
     "desc": "",
     "tags": [
-      "プリフロップ",
-      "ポストフロップ"
+      "プリフロップ"
     ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/253057048/rectangle_large_type_2_61674db8009c7940433983b302760815.png?fit=bounds&quality=85&width=1280",
     "source": "initial_fetch_creator"
@@ -8915,7 +8920,8 @@
     "date": "2026-02-19",
     "desc": "",
     "tags": [
-      "GTO"
+      "GTO",
+      "理論"
     ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/253018722/rectangle_large_type_2_91cbadf01d931a6d9992916f0b68a509.png?fit=bounds&quality=85&width=1280",
     "source": "initial_fetch_creator"
@@ -9089,7 +9095,9 @@
     "platform": "note",
     "date": "2026-02-14",
     "desc": "",
-    "tags": [],
+    "tags": [
+      "エクスプロイト"
+    ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/251742838/rectangle_large_type_2_63584b2814e381a6e239524273f59c5d.png?fit=bounds&quality=85&width=1280",
     "source": "initial_fetch_creator"
   },
@@ -9170,7 +9178,8 @@
     "date": "2026-02-13",
     "desc": "",
     "tags": [
-      "入門"
+      "入門",
+      "エクスプロイト"
     ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/251422194/rectangle_large_type_2_0fffed9cd1e7511a534ce99b445ddee1.png?fit=bounds&quality=85&width=1280",
     "source": "initial_fetch_creator"
@@ -9256,7 +9265,8 @@
     "desc": "",
     "tags": [
       "GTO",
-      "レンジ"
+      "レンジ",
+      "エクイティ"
     ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/250859083/rectangle_large_type_2_a03fca5b3377e6f9983e05b5ba89d1cf.png?fit=bounds&quality=85&width=1280",
     "source": "initial_fetch_creator"
@@ -9361,8 +9371,7 @@
     "date": "2026-02-08",
     "desc": "",
     "tags": [
-      "プリフロップ",
-      "ポストフロップ"
+      "プリフロップ"
     ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/250082204/rectangle_large_type_2_eb7fc0e15e364c6b14864f7faec522fe.png?fit=bounds&quality=85&width=1280",
     "source": "initial_fetch_creator"
@@ -9570,7 +9579,9 @@
     "platform": "note",
     "date": "2026-02-07",
     "desc": "",
-    "tags": [],
+    "tags": [
+      "ツール"
+    ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/249951372/rectangle_large_type_2_d8fb8567a348d19b1afa23c4f82c5acb.jpeg?fit=bounds&quality=85&width=1280",
     "source": "initial_fetch_creator"
   },
@@ -9584,7 +9595,6 @@
     "desc": "",
     "tags": [
       "プリフロップ",
-      "ポストフロップ",
       "GTO",
       "ソルバー"
     ],
@@ -9894,7 +9904,9 @@
     "platform": "note",
     "date": "2026-02-01",
     "desc": "",
-    "tags": [],
+    "tags": [
+      "コール"
+    ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/248157277/rectangle_large_type_2_277977f5a62be307a2637648ac18bcd0.png?fit=bounds&quality=85&width=1280",
     "source": "initial_fetch_creator"
   },
@@ -10161,21 +10173,10 @@
     "date": "2026-01-29",
     "desc": "",
     "tags": [
-      "ポストフロップ"
+      "ポストフロップ",
+      "勉強法"
     ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/247397954/rectangle_large_type_2_94c9b34797b86c70c80d862da4cd3d25.png?fit=bounds&quality=85&width=1280",
-    "source": "initial_fetch_creator"
-  },
-  {
-    "id": "auto-648d22295c",
-    "title": "建設費は客の負け金で払う。未完成のホテルがバカラテーブルだけを並べる経済学",
-    "url": "https://note.com/ryu1poker_2nd/n/n74dc2579a609",
-    "author": "Hatano【poker上級基礎戦略】",
-    "platform": "note",
-    "date": "2026-01-29",
-    "desc": "",
-    "tags": [],
-    "thumbnail": "https://assets.st-note.com/production/uploads/images/247470653/rectangle_large_type_2_bfa8dcdb441c960ebbcf71e3984d79a4.jpeg?fit=bounds&quality=85&width=1280",
     "source": "initial_fetch_creator"
   },
   {
@@ -10210,7 +10211,9 @@
     "platform": "note",
     "date": "2026-01-28",
     "desc": "",
-    "tags": [],
+    "tags": [
+      "リーク"
+    ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/247147315/rectangle_large_type_2_45f24d4f7c6cbf0af531ba8be52a3f3d.png?fit=bounds&quality=85&width=1280",
     "source": "initial_fetch_creator"
   },
@@ -10296,7 +10299,9 @@
     "date": "2026-01-27",
     "desc": "",
     "tags": [
-      "エクイティ"
+      "エクイティ",
+      "5BP",
+      "特定のハンド"
     ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/246788588/rectangle_large_type_2_13cafd84ae3bfc7400a65e8b33f4aa52.png?fit=bounds&quality=85&width=1280",
     "source": "initial_fetch_creator"
@@ -10467,7 +10472,9 @@
     "platform": "note",
     "date": "2026-01-26",
     "desc": "",
-    "tags": [],
+    "tags": [
+      "レーキ"
+    ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/246777148/rectangle_large_type_2_4ae1864628442900e965662ce2fd9846.png?fit=bounds&quality=85&width=1280",
     "source": "initial_fetch_creator"
   },
@@ -10667,7 +10674,8 @@
     "date": "2026-01-23",
     "desc": "",
     "tags": [
-      "ポストフロップ"
+      "ポストフロップ",
+      "リバー"
     ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/245875867/rectangle_large_type_2_820c01144112b5aa3adae11d5f96aa35.png?fit=bounds&quality=85&width=1280",
     "source": "initial_fetch_creator"
@@ -10800,7 +10808,8 @@
     "date": "2026-01-22",
     "desc": "",
     "tags": [
-      "ソルバー"
+      "ソルバー",
+      "勉強法"
     ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/245801948/rectangle_large_type_2_89151773e4cbe1cde1a359ededb6b0eb.png?fit=bounds&quality=85&width=1280",
     "source": "initial_fetch_creator"
@@ -10813,7 +10822,9 @@
     "platform": "note",
     "date": "2026-01-22",
     "desc": "",
-    "tags": [],
+    "tags": [
+      "エクスプロイト"
+    ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/245627419/rectangle_large_type_2_c1395053464f05e4153c933e1365a6a2.png?fit=bounds&quality=85&width=1280",
     "source": "initial_fetch_creator"
   },
