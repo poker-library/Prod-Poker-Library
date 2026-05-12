@@ -577,7 +577,8 @@
       "コール",
       "フォールド",
       "マルチウェイ",
-      "ドロー"
+      "ドロー",
+      "MTT"
     ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/272610378/rectangle_large_type_2_3976a9933fc2da48a8cd5d7ef647040f.jpeg?fit=bounds&quality=85&width=1280",
     "source": "rss"
@@ -2056,21 +2057,7 @@
     "desc": "はじめに 続きをみる",
     "tags": [
       "MTT",
-      "プリフロップ",
-      "ポストフロップ",
-      "特定のスタック",
-      "特定のポジション",
-      "特定の役",
-      "特定のアクション",
-      "理論",
-      "エクスプロイト",
-      "MES",
-      "初心者向け",
-      "中級者向け",
-      "上級者向け",
-      "アンティ",
       "ICM",
-      "バリュー",
       "ブラフ",
       "オールイン",
       "ベット",
@@ -2080,14 +2067,8 @@
       "チェックレイズ",
       "フォールド",
       "SRP",
-      "3BP",
-      "4BP",
-      "CB",
-      "ドロー",
       "ブロッカー",
-      "FT",
-      "サテライト",
-      "特殊ルール"
+      "FT"
     ],
     "thumbnail": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/2afc19454ad5cc4ce094a4487226469ecb1fb3f1.png",
     "source": "rss"
@@ -3321,7 +3302,9 @@
       "エクスプロイト",
       "オールイン",
       "ベット",
-      "コール"
+      "コール",
+      "3bet",
+      "3BP"
     ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/262759582/rectangle_large_type_2_b2743e3f56e3df8770cd69b0678bd4cc.jpeg?fit=bounds&quality=85&width=1280",
     "source": "rss"
@@ -4388,7 +4371,12 @@
     "date": "2026-04-11",
     "desc": "",
     "tags": [
-      "プリフロップ"
+      "プリフロップ",
+      "ターン",
+      "3bet",
+      "3BP",
+      "OOP",
+      "GTO"
     ],
     "thumbnail": "",
     "source": "fetch_creator"
@@ -4688,7 +4676,10 @@
     "date": "2026-04-08",
     "desc": "",
     "tags": [
-      "エクスプロイト"
+      "エクスプロイト",
+      "3bet",
+      "3BP",
+      "ターン"
     ],
     "thumbnail": "",
     "source": "fetch_creator"
@@ -4945,7 +4936,9 @@
     "date": "2026-04-05",
     "desc": "",
     "tags": [
-      "ポジション"
+      "ポジション",
+      "3bet",
+      "3BP"
     ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/264162965/rectangle_large_type_2_0bef7afab375388bd8bf2f73fc349a3a.png?fit=bounds&quality=85&width=1280",
     "source": "initial_fetch_creator"
@@ -5125,7 +5118,8 @@
     "date": "2026-04-03",
     "desc": "",
     "tags": [
-      "プリフロップ"
+      "プリフロップ",
+      "リーク"
     ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/264306676/rectangle_large_type_2_400278169703683891635abd3a9cfa0b.jpeg?fit=bounds&quality=85&width=1280",
     "source": "initial_fetch_creator"
@@ -5449,7 +5443,9 @@
     "platform": "note",
     "date": "2026-03-31",
     "desc": "",
-    "tags": [],
+    "tags": [
+      "勉強法"
+    ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/263535465/rectangle_large_type_2_fe906989b962cf7b336f71f6b0efb140.png?fit=bounds&quality=85&width=1280",
     "source": "initial_fetch_creator"
   },
@@ -5896,7 +5892,8 @@
     "desc": "有名なポーカープロの講義動画です。 字幕あります 0. Intro 2分 1. Studying with Pio 27分 2. Live poker 25分 3. Playing from the BB OOP SRP 63分 4. BvB 58分 5. IP vs BB SRP 63分 6. 3bp IP 39分 7. 3bp oop better 56分 8. 3bp oop caller ",
     "tags": [
       "ポジション",
-      "エクイティ"
+      "エクイティ",
+      "キャッシュゲーム"
     ],
     "thumbnail": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/1ee2eda5b3210046af35f03b682d00ff285834c2.png",
     "source": "rss"
@@ -6063,7 +6060,10 @@
     "desc": "",
     "tags": [
       "プリフロップ",
-      "レンジ"
+      "レンジ",
+      "3bet",
+      "3BP",
+      "エクスプロイト"
     ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/262391776/rectangle_large_type_2_1da6f0171f1c2209ed543af7513f5d4c.png?fit=bounds&quality=85&width=1280",
     "source": "fetch_creator"
@@ -6077,7 +6077,10 @@
     "date": "2026-03-28",
     "desc": "",
     "tags": [
-      "ポジション"
+      "ポジション",
+      "3bet",
+      "3BP",
+      "特定のポジション"
     ],
     "thumbnail": "https://assets.st-note.com/img/1774684111-OipT9c3BKfkzUMRx8qr7dV6W.png",
     "source": "fetch_creator"
