@@ -6389,7 +6389,9 @@
     "date": "2026-03-25",
     "desc": "",
     "tags": [
-      "プリフロップ"
+      "プリフロップ",
+      "3bet",
+      "3BP"
     ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/261849606/rectangle_large_type_2_4588f71887f0ca721c852c32c84da54c.jpeg?fit=bounds&quality=85&width=1280",
     "source": "initial_fetch_creator"
@@ -6663,7 +6665,10 @@
     "date": "2026-03-22",
     "desc": "こんにちは、Naokiです。 今回は 3bet pot（以下3bp）におけるセカンドヒットのベット戦略 について解説していきます。 まずは、次のスポットをご覧ください。 続きをみる",
     "tags": [
-      "プリフロップ"
+      "プリフロップ",
+      "3BP",
+      "3bet",
+      "ベット"
     ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/259382110/rectangle_large_type_2_569abb436d3c1f7bcdc4bf79423d5dff.png?fit=bounds&quality=85&width=1280",
     "source": "rss"
@@ -6977,7 +6982,9 @@
     "date": "2026-03-19",
     "desc": "",
     "tags": [
-      "ポジション"
+      "ポジション",
+      "3bet",
+      "3BP"
     ],
     "thumbnail": "https://assets.st-note.com/img/1773914711-lO2iV7xY0JKTfwtbBzdmcZeD.png",
     "source": "fetch_creator"
@@ -7301,7 +7308,8 @@
     "date": "2026-03-16",
     "desc": "",
     "tags": [
-      "ポジション"
+      "ポジション",
+      "3BP"
     ],
     "thumbnail": "",
     "source": "fetch_creator"
@@ -8384,7 +8392,9 @@
     "platform": "note",
     "date": "2026-02-26",
     "desc": "",
-    "tags": [],
+    "tags": [
+      "ブロッカー"
+    ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/254852632/rectangle_large_type_2_267081d83ea9ec171d698797e7ad9da6.png?fit=bounds&quality=85&width=1280",
     "source": "initial_fetch_creator"
   },
