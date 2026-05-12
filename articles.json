@@ -4952,7 +4952,9 @@
     "date": "2026-04-05",
     "desc": "",
     "tags": [
-      "ポジション"
+      "4BP",
+      "特定のハンド",
+      "特定のポジション"
     ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/264730559/rectangle_large_type_2_20c36ee69130a6e2f165117017a0ae19.png?fit=bounds&quality=85&width=1280",
     "source": "initial_fetch_creator"
@@ -5289,7 +5291,9 @@
     "platform": "note",
     "date": "2026-04-01",
     "desc": "",
-    "tags": [],
+    "tags": [
+      "特定の環境"
+    ],
     "thumbnail": "https://assets.st-note.com/img/1775044475-7IW0GoOY8LeAXrS1xmP5kjnQ.png",
     "source": "initial_fetch_creator"
   },
@@ -5301,7 +5305,10 @@
     "platform": "note",
     "date": "2026-04-01",
     "desc": "",
-    "tags": [],
+    "tags": [
+      "レンジ",
+      "理論"
+    ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/262985579/rectangle_large_type_2_f61e48b72e194616a8726084e68e448d.png?fit=bounds&quality=85&width=1280",
     "source": "initial_fetch_creator"
   },
@@ -5431,7 +5438,11 @@
     "platform": "note",
     "date": "2026-03-31",
     "desc": "",
-    "tags": [],
+    "tags": [
+      "リーク",
+      "エクスプロイト",
+      "レンジ"
+    ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/263621614/rectangle_large_type_2_ac976f5da584874e1290d2bb7d5782d0.png?fit=bounds&quality=85&width=1280",
     "source": "initial_fetch_creator"
   },
@@ -5444,7 +5455,8 @@
     "date": "2026-03-31",
     "desc": "",
     "tags": [
-      "勉強法"
+      "勉強法",
+      "ポストフロップ"
     ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/263535465/rectangle_large_type_2_fe906989b962cf7b336f71f6b0efb140.png?fit=bounds&quality=85&width=1280",
     "source": "initial_fetch_creator"
@@ -5842,7 +5854,9 @@
     "platform": "note",
     "date": "2026-03-30",
     "desc": "",
-    "tags": [],
+    "tags": [
+      "特定のハンド"
+    ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/263270073/rectangle_large_type_2_7ec5191878154170be079a73d897fbf4.png?fit=bounds&quality=85&width=1280",
     "source": "initial_fetch_creator"
   },
@@ -5954,7 +5968,9 @@
     "platform": "note",
     "date": "2026-03-29",
     "desc": "",
-    "tags": [],
+    "tags": [
+      "特定の環境"
+    ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/262996937/rectangle_large_type_2_130067534aad45d99670aec7c83ea749.png?fit=bounds&quality=85&width=1280",
     "source": "initial_fetch_creator"
   },
@@ -6022,7 +6038,9 @@
     "platform": "note",
     "date": "2026-03-28",
     "desc": "",
-    "tags": [],
+    "tags": [
+      "特定の環境"
+    ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/262749113/rectangle_large_type_2_b174b37290851abaa0a8b9fbad465a48.png?fit=bounds&quality=85&width=1280",
     "source": "initial_fetch_creator"
   },
@@ -6165,7 +6183,9 @@
     "desc": "",
     "tags": [
       "プリフロップ",
-      "ポストフロップ"
+      "ポストフロップ",
+      "特定の環境",
+      "FT"
     ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/262528141/rectangle_large_type_2_0cec03fe8eb56a358c0b743b40e750e4.png?fit=bounds&quality=85&width=1280",
     "source": "initial_fetch_creator"
@@ -6318,7 +6338,9 @@
     "platform": "note",
     "date": "2026-03-26",
     "desc": "",
-    "tags": [],
+    "tags": [
+      "理論"
+    ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/262233374/rectangle_large_type_2_71b91f1bea991a332f35e74fc26f0e59.png?fit=bounds&quality=85&width=1280",
     "source": "initial_fetch_creator"
   },
@@ -6376,7 +6398,9 @@
     "platform": "note",
     "date": "2026-03-25",
     "desc": "",
-    "tags": [],
+    "tags": [
+      "MTT"
+    ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/262025249/rectangle_large_type_2_69a6ddd011588ae986ef065de64a22db.png?fit=bounds&quality=85&width=1280",
     "source": "initial_fetch_creator"
   },
@@ -6456,7 +6480,9 @@
     "platform": "note",
     "date": "2026-03-24",
     "desc": "大流行のノーレートポーカーアプリ【テンフォー】にエキスパート卓が実装された。条件を達成した人のみがプレイできるテーブルであり、プレイヤーネームの前に王冠が付く。これは気持ちいい。【テンフォー】で色々な機能があるけど最大の発明じゃないだろうか。 似たような機能は海外オンラインにもある。特定のトナメ覇者だったりハンド数により解除されるマークとか。WRでってのは初めてだと思う。 続きをみる",
-    "tags": [],
+    "tags": [
+      "特定の環境"
+    ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/261676324/rectangle_large_type_2_f75e693c013c28fc3cbd85b25ac9bb84.png?fit=bounds&quality=85&width=1280",
     "source": "rss"
   },
@@ -6502,7 +6528,7 @@
     "date": "2026-03-24",
     "desc": "",
     "tags": [
-      "ポジション"
+      "エクスプロイト"
     ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/261757372/rectangle_large_type_2_82c560f822df3c3e156127b75bfba5cd.png?fit=bounds&quality=85&width=1280",
     "source": "initial_fetch_creator"
@@ -6515,7 +6541,10 @@
     "platform": "note",
     "date": "2026-03-24",
     "desc": "",
-    "tags": [],
+    "tags": [
+      "4BP",
+      "レイズ"
+    ],
     "thumbnail": "",
     "source": "initial_fetch_creator"
   },
@@ -6527,7 +6556,10 @@
     "platform": "note",
     "date": "2026-03-24",
     "desc": "",
-    "tags": [],
+    "tags": [
+      "バリュー",
+      "ベット"
+    ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/261737236/rectangle_large_type_2_4037a2887d375d304a40e70ed634b98a.png?fit=bounds&quality=85&width=1280",
     "source": "initial_fetch_creator"
   },
@@ -6540,7 +6572,9 @@
     "date": "2026-03-24",
     "desc": "",
     "tags": [
-      "ブラフ"
+      "ブラフ",
+      "リーク",
+      "MES"
     ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/261682879/rectangle_large_type_2_21f79034991764b248ee685391b6a8b0.png?fit=bounds&quality=85&width=1280",
     "source": "initial_fetch_creator"
@@ -6594,7 +6628,9 @@
     "platform": "note",
     "date": "2026-03-23",
     "desc": "以下のハンドヒストリーに関する言及は個人的な感想であり、他者を批判するものではありません。実戦ではお互いにもっと深い考えや情報があったと思います。目に見える情報だけを拾っただけの考えです。 続きをみる",
-    "tags": [],
+    "tags": [
+      "特定の環境"
+    ],
     "thumbnail": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/6de0b1bc5533d21a9d3e8e02963ae6fdc15a7e91.png",
     "source": "rss"
   },
@@ -6607,9 +6643,7 @@
     "date": "2026-03-23",
     "desc": "初心者がハンド数や場数を稼ぐには良いと思う。 ノーレートなんで何かを試したいというなら面白い環境かもしれない。 どこを初級者、どこを中級者というのか難しいけど中級者以上の方が上手になるって効果は小さいと思う。 特殊ゲームって何でもそうだけど【テンフォー】が上手になるだけで【ポーカー】とは違う。 【テンフォー】を批判するつもりはない。 自分も楽しくプレイしているし、エキスパート条件に熱くなったし、達",
     "tags": [
-      "ポジション",
-      "中級",
-      "入門"
+      "特定の環境"
     ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/261407804/rectangle_large_type_2_eda1d3960bf46551037f85be67250914.png?fit=bounds&quality=85&width=1280",
     "source": "rss"
@@ -6896,7 +6930,9 @@
     "platform": "note",
     "date": "2026-03-20",
     "desc": "",
-    "tags": [],
+    "tags": [
+      "理論"
+    ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/260643889/rectangle_large_type_2_5292c71363a98dff48d8f2bf4d6ca5b4.png?fit=bounds&quality=85&width=1280",
     "source": "initial_fetch_creator"
   },
@@ -6909,7 +6945,8 @@
     "date": "2026-03-20",
     "desc": "",
     "tags": [
-      "GTO"
+      "GTO",
+      "勉強法"
     ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/260643439/rectangle_large_type_2_6c139e105b603b3d24a8fb5dfd4dfdd7.png?fit=bounds&quality=85&width=1280",
     "source": "initial_fetch_creator"
@@ -7027,7 +7064,10 @@
     "platform": "note",
     "date": "2026-03-18",
     "desc": "",
-    "tags": [],
+    "tags": [
+      "ICM",
+      "バブルファクター"
+    ],
     "thumbnail": "https://assets.st-note.com/img/1773824732-29vjQVtKHqZBrWIDxPykdLl5.png",
     "source": "initial_fetch_creator"
   },
@@ -7236,7 +7276,9 @@
     "desc": "ポーカーの学習を始めるとGTO、ゲーム理論という単語に触れるようになる。そしてポーカープレイヤーが使いたい単語第一位で過去には界隈流行語大賞にも輝いた【インディファレント(無差別化)】という言葉がある。 第二位が【ジオメトリック】、第三位が【MDF】 続きをみる",
     "tags": [
       "GTO",
-      "入門"
+      "MDF",
+      "初心者向け",
+      "理論"
     ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/259414127/rectangle_large_type_2_08ec8f312c7bf49302e0c13d4535cee0.png?fit=bounds&quality=85&width=1280",
     "source": "rss"
@@ -7251,7 +7293,7 @@
     "desc": "",
     "tags": [
       "プリフロップ",
-      "ポストフロップ"
+      "レーキ"
     ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/259552900/rectangle_large_type_2_0a9466b458f69def2835b80a8c83f863.png?fit=bounds&quality=85&width=1280",
     "source": "initial_fetch_creator"
@@ -7348,7 +7390,9 @@
     "platform": "note",
     "date": "2026-03-15",
     "desc": "",
-    "tags": [],
+    "tags": [
+      "特定の環境"
+    ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/259249659/rectangle_large_type_2_dca928d6de8bc21139c1bfe963b6a513.png?fit=bounds&quality=85&width=1280",
     "source": "initial_fetch_creator"
   },
@@ -7413,11 +7457,7 @@
     "date": "2026-03-14",
     "desc": "均衡からズレた人間的心理を突いて上手くいったプレイがあったので解説をしたいと思います。一つのハンドがハマって気持ち良かったというだけの話です。 プリフロップは9h9cでオープンをしてSBがコールドコール。 続きをみる",
     "tags": [
-      "プリフロップ",
-      "ポストフロップ",
-      "ポジション",
-      "ソルバー",
-      "エクイティ"
+      "エクスプロイト"
     ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/258978185/rectangle_large_type_2_c21a06581aafbd17d2f1c7805b5d4403.png?fit=bounds&quality=85&width=1280",
     "source": "rss"
@@ -7513,7 +7553,7 @@
     "date": "2026-03-12",
     "desc": "",
     "tags": [
-      "入門"
+      "初心者向け"
     ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/258456348/rectangle_large_type_2_057bd646e686e8ad32b76a370f313e80.png?fit=bounds&quality=85&width=1280",
     "source": "initial_fetch_creator"
@@ -7567,7 +7607,8 @@
     "desc": "はじめに──「EVで考える」とはどういうことか ポーカーを勉強し始めると、すぐに「EVで考えよう」という言葉に出会います。でも多くの人がここで立ち止まります。EVという言葉の意味はなんとなくわかる。でも、「じゃあ実際にどう考えるの？」となると急に霧がかかります。 続きをみる",
     "tags": [
       "レンジ",
-      "エクイティ"
+      "エクイティ",
+      "理論"
     ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/258356045/rectangle_large_type_2_389205e88383acb5d2e7b19ca2711427.png?fit=bounds&quality=85&width=1280",
     "source": "rss"
@@ -7741,10 +7782,9 @@
     "date": "2026-03-09",
     "desc": "今回の記事ではリバーまでに自模っているそこそこ強いハンドを相手のベットに対してコールするのかレイズ(オールイン)をするのかの判断基準について説明をします。文字を置いたり少し煩雑な式が出てくるが最後は簡単になっているので読み進めて欲しい。 3betについて計算をすると大変なのでレイズサイズはオールインとする。 計算の主旨とはあまり関係がないのでレーキは無視する。 気になる人はレーキ込みで計算してみて",
     "tags": [
-      "プリフロップ",
       "ポストフロップ",
       "バリュー",
-      "入門"
+      "レイズ"
     ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/257782488/rectangle_large_type_2_e1e3e4b7add87e89fe372067013b078e.png?fit=bounds&quality=85&width=1280",
     "source": "rss"
@@ -7773,7 +7813,9 @@
     "platform": "note",
     "date": "2026-03-08",
     "desc": "",
-    "tags": [],
+    "tags": [
+      "理論"
+    ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/257334274/rectangle_large_type_2_fa21da498ee9a04e3268e64ef330aa02.png?fit=bounds&quality=85&width=1280",
     "source": "initial_fetch_creator"
   },
@@ -7785,7 +7827,9 @@
     "platform": "note",
     "date": "2026-03-08",
     "desc": "",
-    "tags": [],
+    "tags": [
+      "勉強法"
+    ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/257454015/rectangle_large_type_2_9649546263773f7a6f4c68a926075fc6.png?fit=bounds&quality=85&width=1280",
     "source": "initial_fetch_creator"
   },
@@ -7857,23 +7901,11 @@
     "desc": "海外にはGG pokerというオンラインポーカーがある。日本からは遊べない。 そこにはRush & CashというテンフォーみたいなFast Foldゲームがある。 このゲームが特殊なのはプリフロップで3betした時点からレーキが発生する。一般的にはプリフロップで終わったポットにはレーキが発生しない。 今回の記事では3betで課税される環境でプリフロップレンジがどのような影響を受けるのかを簡単に分",
     "tags": [
       "プリフロップ",
-      "ポストフロップ",
-      "レンジ"
+      "レンジ",
+      "レーキ"
     ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/257356322/rectangle_large_type_2_726a1320419764da463522c3c1df193b.png?fit=bounds&quality=85&width=1280",
     "source": "rss"
-  },
-  {
-    "id": "auto-d454d00020",
-    "title": "2011年4月15日、世界が変わった日",
-    "url": "https://note.com/ryu1poker_2nd/n/n3e72de1ee151",
-    "author": "Hatano【poker上級基礎戦略】",
-    "platform": "note",
-    "date": "2026-03-07",
-    "desc": "",
-    "tags": [],
-    "thumbnail": "https://assets.st-note.com/production/uploads/images/257285104/rectangle_large_type_2_05c15128ce8f306c5487d4880d1dab00.png?fit=bounds&quality=85&width=1280",
-    "source": "initial_fetch_creator"
   },
   {
     "id": "auto-68b1d0a500",
@@ -7907,10 +7939,7 @@
     "platform": "note",
     "date": "2026-03-06",
     "desc": "Xのタイムラインを眺めているとハンドヒストリーと相手のスタッツと共にこんな言葉が添えられているのをたまに見かける。 「相手のタイプ的にこの状況でのブラフは少ないから」 ここに繋ぐ文章はさまざまだ 「降りた」「降りれたかな」「バリューしかねーだろクソ雑魚が」「感謝フォールド」などがある。 続きをみる",
-    "tags": [
-      "ブラフ",
-      "バリュー"
-    ],
+    "tags": [],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/256888047/rectangle_large_type_2_53e1e9aff759112199765c56e766a460.png?fit=bounds&quality=85&width=1280",
     "source": "rss"
   },
@@ -7938,8 +7967,8 @@
     "desc": "",
     "tags": [
       "プリフロップ",
-      "ポストフロップ",
-      "ソルバー"
+      "ソルバー",
+      "理論"
     ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/256634377/rectangle_large_type_2_a038ea83c770349785b1fc4680753142.png?fit=bounds&quality=85&width=1280",
     "source": "initial_fetch_creator"
@@ -8025,10 +8054,8 @@
     "desc": "トーナメント残り三人の状況でこんなアンケートを取った。 トーナメント残り三人 賞金は($30380,$21920,$15880) BTN(35bb) raise 2bb SB(15bb) fold BB(50bb Hero) with AJo BBでAJoをどうします？ — Hatano【Poker上級基礎戦略】 (@HighClass_Poker) March 3, 2026 続きをみる",
     "tags": [
       "プリフロップ",
-      "ポジション",
       "MTT",
-      "上級",
-      "入門"
+      "3bet"
     ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/256409485/rectangle_large_type_2_ad5d9331a32629aaf90b61aa7b0f44f2.png?fit=bounds&quality=85&width=1280",
     "source": "rss"
@@ -8043,7 +8070,8 @@
     "desc": "MTTの独自学習として数年前からスタック移動をグラフにしてBFの影響を可視化する資料を作成していた。最初は手入力でICMを計算してエクセルに貼ってコピペという作業で一個作るのに小一時間掛かっていた。 それをプログラミングで画像を一括生成できるようになり、遂にはブラウザでサクサク動くグラフ生成に至った。とんでもない時代ですね。 ↓ここで無料で使えます。動作確認しましたが問題はなさそう。不具合があった",
     "tags": [
       "ICM",
-      "MTT"
+      "MTT",
+      "バブルファクター"
     ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/256431202/rectangle_large_type_2_580ec3ed9e52ccf8a639a2b1cbd772bc.png?fit=bounds&quality=85&width=1280",
     "source": "rss"
@@ -8110,7 +8138,8 @@
     "date": "2026-03-03",
     "desc": "バンチング効果については過去記事で紹介しています。 続きをみる",
     "tags": [
-      "エクイティ"
+      "エクイティ",
+      "理論"
     ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/256100872/rectangle_large_type_2_ac0b566d91ea16c26b962a8e731d1960.png?fit=bounds&quality=85&width=1280",
     "source": "rss"
@@ -8232,9 +8261,7 @@
     "desc": "6MaxCash(テンフォー環境) あなたはSBに座っています。 ハンドを見る前にUTG～BTNのプレイヤーがフォールドをしました。 SBに座るあなたのハンドがAAである確率は？ 但し、全員がsolutionレンジを使っているものとする。 — Hatano【Poker上級基礎戦略】 (@HighClass_Poker) February 28, 2026 直感的に「自分の2枚はまだ見てないんだから",
     "tags": [
       "レンジ",
-      "ポジション",
-      "上級",
-      "入門"
+      "理論"
     ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/255373447/rectangle_large_type_2_cb429fca2a31b659f0ddd71f22006619.png?fit=bounds&quality=85&width=1280",
     "source": "rss"
@@ -8378,9 +8405,7 @@
     "platform": "note",
     "date": "2026-02-26",
     "desc": "テンフォーがリリースされて約一か月。みなさんスコアはどうでしょうか？調子よくハイスコアを出している人のツイートが目立ちますが苦戦している人も多いでしょう。変なプレイでワザとチップをばら撒いている人が少しいるせいで全体的なWin Rateは押し上げられていますが5％ 4bbというレーキ設定は長期的には重く圧し掛かります。 続きをみる",
-    "tags": [
-      "ポジション"
-    ],
+    "tags": [],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/254734438/rectangle_large_type_2_7e867d399ce47bd1f1a9dd62e9b4c0f2.png?fit=bounds&quality=85&width=1280",
     "source": "rss"
   },
@@ -8450,9 +8475,8 @@
     "desc": "記事の❤は残るんで宜しくお願いします。 何回かに分けてブロッカーについて話をしようと思う。 まずは、プリフロップでの頻度をどのようにブロックしているかについて調べてみる。 SB 3bb open(581.26combos)に対してBBが9bb 3bet をした時にBBのハンドがSBのレンジをどのようにブロックしているか？ SBはcall 182.12 combos (31.33%) , fold ",
     "tags": [
       "プリフロップ",
-      "ポストフロップ",
       "レンジ",
-      "ポジション"
+      "ブロッカー"
     ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/254712077/rectangle_large_type_2_b2dd1e35870033634f8b9e5bf39e4673.png?fit=bounds&quality=85&width=1280",
     "source": "rss"
@@ -8479,7 +8503,10 @@
     "desc": "",
     "tags": [
       "ポストフロップ",
-      "ブラフ"
+      "ブラフ",
+      "ターン",
+      "レイズ",
+      "バリュー"
     ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/254575156/rectangle_large_type_2_bf3647e71ff376100b0b99c05b329761.png?fit=bounds&quality=85&width=1280",
     "source": "initial_fetch_creator"
@@ -8549,10 +8576,8 @@
     "date": "2026-02-24",
     "desc": "ポーカーにおいて「レンジがキャップされている」という事実は、相手にとって最大の弱点となります。それが4betポットという高額なポットで、かつ最強のハンドである「AA」が欠けているとしたら、戦略はどこまで激変するのでしょうか。 本記事では、CO vs BTNの4-betポットにおける集合分析を実施。通常のGTOソリューションと、BTNのコールレンジから意図的にAAを排除した「キャップレンジ」の2パタ",
     "tags": [
-      "ポストフロップ",
-      "GTO",
       "レンジ",
-      "ポジション"
+      "リーク"
     ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/254238996/rectangle_large_type_2_40a4788cb0046097082a627918acdd11.png?fit=bounds&quality=85&width=1280",
     "source": "rss"
@@ -8655,8 +8680,8 @@
     "date": "2026-02-23",
     "desc": "記事の❤は残るんで宜しくお願いします。 Solverが解いたSolution(解)を使ったスポット学習について 【4bet pot → 3bet pot → 2bet pot】 の順で学習するのが良いと言われている。 この学習手順については自分も同意見である。 続きをみる",
     "tags": [
-      "プリフロップ",
-      "ソルバー"
+      "ソルバー",
+      "GTO"
     ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/253972946/rectangle_large_type_2_7a4f730dd7bc054fadcd14596725581d.png?fit=bounds&quality=85&width=1280",
     "source": "rss"
