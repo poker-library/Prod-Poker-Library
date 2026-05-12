@@ -143,7 +143,8 @@
       "キャッシュゲーム",
       "プリフロップ",
       "特定のポジション",
-      "レンジ"
+      "レンジ",
+      "3bet"
     ],
     "thumbnail": "https://i.ytimg.com/vi/gBANl1Rfoec/mqdefault.jpg",
     "source": "youtube_api"
@@ -2328,7 +2329,6 @@
     "date": "2026-04-23",
     "desc": "■ はじめに 続きをみる",
     "tags": [
-      "戦略",
       "特定の環境"
     ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/269823287/rectangle_large_type_2_087a089cd7a9fb4ba007c311f5e273d4.png?fit=bounds&quality=85&width=1280",
@@ -3584,7 +3584,6 @@
     "date": "2026-04-14",
     "desc": "小さいから弱い。 大きいから強い。 たしかに、そう見える場面はあります。 続きをみる",
     "tags": [
-      "戦略",
       "ベット"
     ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/267381244/rectangle_large_type_2_6f0ee2b30fd173b86d9edf123938ac7c.png?fit=bounds&quality=85&width=1280",
@@ -4064,9 +4063,7 @@
     "platform": "note",
     "date": "2026-04-11",
     "desc": "相手のズレが見えるようになってきたのに、なぜか収支だけが伸び切らない。 「この人、打ちすぎ」 続きをみる",
-    "tags": [
-      "戦略"
-    ],
+    "tags": [],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/266730203/rectangle_large_type_2_714b5d53984f1bc33d6d16b8eb3f3c63.png?fit=bounds&quality=85&width=1280",
     "source": "rss"
   },
@@ -4418,9 +4415,7 @@
     "platform": "note",
     "date": "2026-04-10",
     "desc": "「この人、よう降りるな」と思った卓で、 なぜか思ったほど勝ちが伸びない。 強い時はすぐ降りられる。 弱い時に打つと、なぜかそこだけ残られる。 続きをみる",
-    "tags": [
-      "戦略"
-    ],
+    "tags": [],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/266429471/rectangle_large_type_2_1f614f0df3ecb6cc50b64a908f6103dd.png?fit=bounds&quality=85&width=1280",
     "source": "rss"
   },
@@ -4432,9 +4427,7 @@
     "platform": "note",
     "date": "2026-04-10",
     "desc": "チェックが返ってくるたび、 「どうせ弱い」で雑に打って、変なコールに焼かれる。 逆に、 「罠かも」で止まりすぎて、 本当は取れていたポットを丸ごと逃している。 続きをみる",
-    "tags": [
-      "戦略"
-    ],
+    "tags": [],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/266408869/rectangle_large_type_2_cc5ab002c3f8c580bcbb8c6509186086.png?fit=bounds&quality=85&width=1280",
     "source": "rss"
   },
@@ -4476,9 +4469,7 @@
     "platform": "note",
     "date": "2026-04-10",
     "desc": "文責：Drama(@RiverProbe) 問題と解答 続きをみる",
-    "tags": [
-      "戦略"
-    ],
+    "tags": [],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/266123953/rectangle_large_type_2_21e22d4c0473fbbe63996ab857921095.jpeg?fit=bounds&quality=85&width=1280",
     "source": "rss"
   },
@@ -4558,9 +4549,7 @@
     "platform": "note",
     "date": "2026-04-09",
     "desc": "打ちすぎる相手を見ると、止めたくなる。 これ以上好きに打たせたくないし、どこかで強く返さないと負ける気もする。 でも実戦でよく起きているのは、 押されて損している んじゃなく、 止めにいって損している ということです。 アグレ相手に負ける人は、受けが弱いから負けているわけではありません。 相手の圧に反応して、 相手のミスが続く道を自分から切っている ことが多いです。 続きをみる",
-    "tags": [
-      "戦略"
-    ],
+    "tags": [],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/265899649/rectangle_large_type_2_c997fbbe1de06e8f2b6ca4191bb0086d.png?fit=bounds&quality=85&width=1280",
     "source": "rss"
   },
@@ -5151,7 +5140,10 @@
     "desc": "",
     "tags": [
       "ポストフロップ",
-      "GTO"
+      "GTO",
+      "3BP",
+      "3bet",
+      "特定のハンド"
     ],
     "thumbnail": "https://i.ytimg.com/vi/xU4ndOIcbj4/mqdefault.jpg",
     "source": "initial_fetch_yt"
@@ -5291,9 +5283,7 @@
     "platform": "note",
     "date": "2026-04-02",
     "desc": "ポーカーやってる人に聞きたいんだけど、自分の収支、正確に言える？ 「まあトントンくらい」「ちょいプラスかな」って答える人が多いと思う。 …甘い！俺もそう。 続きをみる",
-    "tags": [
-      "戦略"
-    ],
+    "tags": [],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/264287331/rectangle_large_type_2_373cbf41daaf41f46be3bce14258898e.png?fit=bounds&quality=85&width=1280",
     "source": "rss"
   },
@@ -5423,9 +5413,7 @@
     "platform": "note",
     "date": "2026-04-01",
     "desc": "ポーカーで「どの卓に座るか」って、実はハンドの強さと同じくらい大事だと思ってる。 続きをみる",
-    "tags": [
-      "戦略"
-    ],
+    "tags": [],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/264021957/rectangle_large_type_2_df99148e2694b62e4b2bdd347b858975.png?fit=bounds&quality=85&width=1280",
     "source": "rss"
   },
@@ -5779,9 +5767,7 @@
     "platform": "note",
     "date": "2026-03-30",
     "desc": "この記事では、ポーカーのトイゲームである \"[0,1] ゲーム\" のベットサイズ可変版について、その均衡戦略を オイラー＝ラグランジュ方程式 を使って解析します。 ベットサイズ可変の[0,1]ゲームは、通常の[0,1]ゲームよりも実際のポーカーの状況に近く、数学的な題材としても興味深い構造があります。 続きをみる",
-    "tags": [
-      "戦略"
-    ],
+    "tags": [],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/263283906/rectangle_large_type_2_d9291c7ab2c52bba06817f8da9ee44aa.png?fit=bounds&quality=85&width=1280",
     "source": "rss"
   },
@@ -5938,13 +5924,9 @@
     "date": "2026-03-29",
     "desc": "今回はオカダマニラでの低レートキャッシュゲーム（50/100）での一手。 テーマはシンプルで、「勝っている時にどれだけ取り切れるか」。 この差が、そのまま収支の差になると感じたハンドです。 --- ■ 状況 ・ブラインド：50 / 100 ・相手：CO ・自分：BTN ・ハンド：JTs --- ■ プリフロップ COの3ベット1000に対して、BTN(JTs)でコール。 ポジションがあり、JTsは",
     "tags": [
-      "プリフロップ",
-      "ポストフロップ",
-      "ブラフ",
-      "レンジ",
-      "ポジション",
-      "ショートスタック",
-      "入門"
+      "特定の環境",
+      "特定のハンド",
+      "レイズ"
     ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/263108515/rectangle_large_type_2_ee91d3a3e0296df71d2e009bbb785cde.png?fit=bounds&quality=85&width=1280",
     "source": "rss"
@@ -6469,9 +6451,7 @@
     "platform": "note",
     "date": "2026-03-24",
     "desc": "大流行のノーレートポーカーアプリ【テンフォー】にエキスパート卓が実装された。条件を達成した人のみがプレイできるテーブルであり、プレイヤーネームの前に王冠が付く。これは気持ちいい。【テンフォー】で色々な機能があるけど最大の発明じゃないだろうか。 似たような機能は海外オンラインにもある。特定のトナメ覇者だったりハンド数により解除されるマークとか。WRでってのは初めてだと思う。 続きをみる",
-    "tags": [
-      "戦略"
-    ],
+    "tags": [],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/261676324/rectangle_large_type_2_f75e693c013c28fc3cbd85b25ac9bb84.png?fit=bounds&quality=85&width=1280",
     "source": "rss"
   },
@@ -6609,9 +6589,7 @@
     "platform": "note",
     "date": "2026-03-23",
     "desc": "以下のハンドヒストリーに関する言及は個人的な感想であり、他者を批判するものではありません。実戦ではお互いにもっと深い考えや情報があったと思います。目に見える情報だけを拾っただけの考えです。 続きをみる",
-    "tags": [
-      "戦略"
-    ],
+    "tags": [],
     "thumbnail": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/6de0b1bc5533d21a9d3e8e02963ae6fdc15a7e91.png",
     "source": "rss"
   },
@@ -6979,7 +6957,10 @@
     "desc": "",
     "tags": [
       "プリフロップ",
-      "ポストフロップ"
+      "ポストフロップ",
+      "3bet",
+      "フォールド",
+      "特定のハンド"
     ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/260254262/rectangle_large_type_2_4bdfb6ceb3f84e461a94255cdcd4eb63.png?fit=bounds&quality=85&width=1280",
     "source": "fetch_creator"
@@ -7835,9 +7816,7 @@
     "platform": "note",
     "date": "2026-03-08",
     "desc": "この前の記事で、 僕は「なんとなく参加してしまう」と書きました。 今も正直、 その感覚が完全になくなったわけじゃない。 続きをみる",
-    "tags": [
-      "戦略"
-    ],
+    "tags": [],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/257485049/rectangle_large_type_2_f9875a0ebf0a670e154efef29d7ba7d3.png?fit=bounds&quality=85&width=1280",
     "source": "rss"
   },
@@ -8066,9 +8045,7 @@
     "platform": "note",
     "date": "2026-03-04",
     "desc": "ダブルボード・ボムポットで負け続けている人には、共通点があります。 それは── 続きをみる",
-    "tags": [
-      "戦略"
-    ],
+    "tags": [],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/256366638/rectangle_large_type_2_7b62afe3c5ca5717f724dfbed2527bb5.png?fit=bounds&quality=85&width=1280",
     "source": "rss"
   },
@@ -8230,9 +8207,7 @@
     "platform": "note",
     "date": "2026-02-28",
     "desc": "「流行りのテンフォーについて」 続きをみる",
-    "tags": [
-      "戦略"
-    ],
+    "tags": [],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/255409309/rectangle_large_type_2_ea3529a759f2a0581b8e5898f74f03c7.png?fit=bounds&quality=85&width=1280",
     "source": "rss"
   },
@@ -8326,9 +8301,7 @@
     "platform": "note",
     "date": "2026-02-27",
     "desc": "アメリカ人ポーカープロの Phil Galfond が、直感的に使える新しい分散シミュレーターを公開したので、あらためて ポーカーで自分の実力を測るために必要なハンド数の検証 をしました。 Phil Galfond 続きをみる",
-    "tags": [
-      "戦略"
-    ],
+    "tags": [],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/255137730/rectangle_large_type_2_1feb66d0d3f97ee74c51b5a160232bb4.png?fit=bounds&quality=85&width=1280",
     "source": "rss"
   },
@@ -9296,9 +9269,7 @@
     "platform": "note",
     "date": "2026-02-10",
     "desc": "オンラインポーカーは「 実力があっても短期で負ける 」ゲームです。 だからこそ、BR（Bankroll）管理＝資金運用ルールがないと、上振れで調子に乗って飛び、下振れでメンタルが崩れて辞めます。 この記事では、キャッシュゲームで使える “ルール化できるBR管理” を、 実務的 にまとめます。 続きをみる",
-    "tags": [
-      "戦略"
-    ],
+    "tags": [],
     "thumbnail": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/a8c20f44a6c6b4c5ad1c91411052c0b483a7a99e.png",
     "source": "rss"
   },
@@ -10189,9 +10160,7 @@
     "platform": "note",
     "date": "2026-01-29",
     "desc": "こんばんは、 ポーカープロのtori🦜です。 強いプレイヤーは、その他のプレイヤーと何が違うのか？ 7つの重要な特徴について、解説します。 強いプレイヤーが何を考えて、何をしているか、興味はありませんか？ 続きをみる",
-    "tags": [
-      "戦略"
-    ],
+    "tags": [],
     "thumbnail": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/5975aafdec04edf5de1582d48123c08ddb6b6804.png",
     "source": "rss"
   },
@@ -10375,9 +10344,7 @@
     "platform": "note",
     "date": "2026-01-27",
     "desc": "こんばんは、 ポーカープロのtori🐦です。 今回は、ヘッズアップのプレイの原則を解説します。 10分のプレイ動画と併せて、理解を深めてください。 続きをみる",
-    "tags": [
-      "戦略"
-    ],
+    "tags": [],
     "thumbnail": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/5863cad40c21e85d8fd63b207756a4b4207f4aae.png",
     "source": "rss"
   },
@@ -12664,9 +12631,7 @@
     "platform": "note",
     "date": "2025-12-19",
     "desc": "こんにちは。森マンです！ 今回、 「プロがミドルレートを本気で攻略したら、一体どれくらい勝てるのか？」 という検証を行いました。 続きをみる",
-    "tags": [
-      "戦略"
-    ],
+    "tags": [],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/237211420/rectangle_large_type_2_23fe2918cd2f71e7ab4ce02a723c8bce.png?fit=bounds&quality=85&width=1280",
     "source": "rss"
   },
@@ -12788,7 +12753,10 @@
     "platform": "note",
     "date": "2025-12-18",
     "desc": "",
-    "tags": [],
+    "tags": [
+      "エクスプロイト",
+      "3BP"
+    ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/237194822/rectangle_large_type_2_34e7d396759d8161804a975a95c37d97.png?fit=bounds&quality=85&width=1280",
     "source": "initial_fetch_creator"
   },
@@ -16167,7 +16135,6 @@
     "date": "2025-11-16",
     "desc": "0. はじめに こんにちは、メリーです。 今回は「勘違いされやすいハンドシリーズ」として、 87s（7♠8♠ などのミドルスーテッドコネクター） を扱っていきます。 続きをみる",
     "tags": [
-      "戦略",
       "特定のハンド"
     ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/229646040/rectangle_large_type_2_978623be360d11c0ef62a7445e60f566.png?fit=bounds&quality=85&width=1280",
@@ -16687,9 +16654,7 @@
     "platform": "note",
     "date": "2025-11-09",
     "desc": "0.導入 続きをみる",
-    "tags": [
-      "戦略"
-    ],
+    "tags": [],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/236658370/rectangle_large_type_2_0723a668b9c3c400901d17730e4cc9a9.png?fit=bounds&quality=85&width=1280",
     "source": "rss"
   },
@@ -18779,8 +18744,7 @@
     "date": "2025-10-17",
     "desc": "",
     "tags": [
-      "ポストフロップ",
-      "戦略"
+      "ポストフロップ"
     ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/222859104/rectangle_large_type_2_c0a0fcebb94e67bbbc7232831a2be6da.png?fit=bounds&quality=85&width=1280",
     "source": "initial_fetch_creator"
@@ -23370,7 +23334,10 @@
     "date": "2025-09-06",
     "desc": "3ベットポットでのミドルペア（77–TT）、フロップでセットは約11.5%（※セットorクワッズで約11.8%）。 「当たらなかった＝ ...",
     "tags": [
-      "ポストフロップ"
+      "ポストフロップ",
+      "3BP",
+      "コール",
+      "特定のハンド"
     ],
     "thumbnail": "https://i.ytimg.com/vi/2phBjkJo-Pw/mqdefault.jpg",
     "source": "initial_fetch_yt"
@@ -23397,7 +23364,10 @@
     "platform": "youtube",
     "date": "2025-09-05",
     "desc": "3ベットポットで溶かさないための最小ルールを60秒で。 ①ボード優位×小サイズ／②中強度は1ストリート／③レイズ＆大サイズ ...",
-    "tags": [],
+    "tags": [
+      "3bet",
+      "3BP"
+    ],
     "thumbnail": "https://i.ytimg.com/vi/aGTEpMQxUrA/mqdefault.jpg",
     "source": "initial_fetch_yt"
   },
@@ -23514,7 +23484,8 @@
     "desc": "A5sは見た目以上に“化ける”ハンド。 この動画ではプリフロップでの最適解を、位置・3ベット運用・スタック深さの3軸で超 ...",
     "tags": [
       "プリフロップ",
-      "ポストフロップ"
+      "3bet",
+      "特定のハンド"
     ],
     "thumbnail": "https://i.ytimg.com/vi/x5SCmxA9-Cw/mqdefault.jpg",
     "source": "initial_fetch_yt"
@@ -26150,7 +26121,9 @@
     "date": "2025-07-09",
     "desc": "",
     "tags": [
-      "GTO"
+      "GTO",
+      "3bet",
+      "3BP"
     ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/201150445/rectangle_large_type_2_43c1dfdb0eef10ca112d2a7c0c0acb56.jpg?fit=bounds&quality=85&width=1280",
     "source": "fetch_creator"
@@ -27446,7 +27419,9 @@
       "キャッシュゲーム",
       "ベット",
       "OOP",
-      "3BP"
+      "3BP",
+      "3bet",
+      "GTO"
     ],
     "thumbnail": "https://japan.gtowizard.com/wp-content/uploads/2025/06/gto-wizard-crush-3-bet-pots-oop-in-cash-games-blogpost-thumbnail.png",
     "source": "initial_fetch_web"
@@ -29137,7 +29112,8 @@
     "desc": "",
     "tags": [
       "レンジ",
-      "入門"
+      "入門",
+      "3bet"
     ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/186415893/rectangle_large_type_2_df8ba0e3938ac107bd49a87d8dc16c3d.png?fit=bounds&quality=85&width=1280",
     "source": "fetch_creator"
@@ -34140,7 +34116,8 @@
       "ベット",
       "3BP",
       "OOP",
-      "CB"
+      "CB",
+      "3bet"
     ],
     "thumbnail": "https://japan.gtowizard.com/wp-content/uploads/2024/12/1280x720-Blogpost-9.png",
     "source": "initial_fetch_web"
@@ -34227,7 +34204,8 @@
       "ベット",
       "IP",
       "3BP",
-      "CB"
+      "CB",
+      "3bet"
     ],
     "thumbnail": "https://japan.gtowizard.com/wp-content/uploads/2024/11/1280x720-Blogpost-8-1.png",
     "source": "initial_fetch_web"
@@ -40175,7 +40153,11 @@
     "platform": "note",
     "date": "2024-03-16",
     "desc": "",
-    "tags": [],
+    "tags": [
+      "3bet",
+      "3BP",
+      "エクスプロイト"
+    ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/133929124/rectangle_large_type_2_4bf40cbaac7755f3b406ea9d58a6ca02.png?fit=bounds&quality=85&width=1280",
     "source": "fetch_creator"
   },
@@ -43586,21 +43568,6 @@
     "source": "initial_fetch_yt"
   },
   {
-    "id": "auto-8bfc3dd794",
-    "title": "【JOPT】ナイスフォールド!! プリフロップを3ベットされた88はフロップでTJ9となりオープンエンドでしたが冷静な判断を行うことができました👏 #shorts #poker",
-    "url": "https://www.youtube.com/watch?v=LA1UTYquoKc",
-    "author": "Japan Open Poker Tour",
-    "platform": "youtube",
-    "date": "2023-07-24",
-    "desc": "",
-    "tags": [
-      "プリフロップ",
-      "ポストフロップ"
-    ],
-    "thumbnail": "https://i.ytimg.com/vi/LA1UTYquoKc/mqdefault.jpg",
-    "source": "initial_fetch_yt"
-  },
-  {
     "id": "auto-cc5099ceab",
     "title": "Responding to BB Squeezes",
     "url": "https://blog.gtowizard.com/responding-to-bb-squeezes/",
@@ -46861,7 +46828,9 @@
     "desc": "２４時間連続投稿第１１弾！ https://youtu.be/c0_xbI97nY4 目標は2022年7月1日で1万人登録です！ 応援よろしくお願いします！",
     "tags": [
       "レンジ",
-      "入門"
+      "入門",
+      "3bet",
+      "初心者向け"
     ],
     "thumbnail": "https://i.ytimg.com/vi/iiCGfqSOOcQ/mqdefault.jpg",
     "source": "initial_fetch_yt"
@@ -47003,7 +46972,9 @@
     "date": "2022-07-31",
     "desc": "",
     "tags": [
-      "ポジション"
+      "ポジション",
+      "3bet",
+      "3BP"
     ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/83758846/rectangle_large_type_2_6818bfa44d127963929542eb791e9b58.jpeg?fit=bounds&quality=85&width=1280",
     "source": "initial_fetch_creator"
@@ -47779,7 +47750,9 @@
     "tags": [
       "ブラフ",
       "レンジ",
-      "入門"
+      "入門",
+      "3bet",
+      "3BP"
     ],
     "thumbnail": "https://i.ytimg.com/vi/gu2pjaNZyco/mqdefault.jpg",
     "source": "initial_fetch_yt"
@@ -48711,7 +48684,9 @@
     "desc": "有効スタック30~40bb,実戦的には大体どのポジション関係でも使えます！ 追記:アップデートで無料版の機能が制限されましたね(´ ...",
     "tags": [
       "ポジション",
-      "MTT"
+      "MTT",
+      "3bet",
+      "3BP"
     ],
     "thumbnail": "https://i.ytimg.com/vi/63X9sY2k9bI/mqdefault.jpg",
     "source": "initial_fetch_yt"
