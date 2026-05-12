@@ -182,6 +182,53 @@
     "source": "rss"
   },
   {
+    "id": "auto-c6f9058ef1",
+    "title": "【データで勝つ】VPIPって何？相手の正体を見抜く「魔法の数字」",
+    "url": "https://note.com/poker_room_tt/n/ncfb1641e0499",
+    "author": "Poker Room TT@西中島南方",
+    "platform": "note",
+    "date": "2026-05-08",
+    "desc": "どうも。 Poker Room TT 店長の中森です。 ポーカーを勉強し始めると、よく「あの人はVPIPが高いから……」なんて会話を耳にしませんか？ 英語の略称で難しそうに聞こえますが、実はとってもシンプルな指標なんです。 続きをみる",
+    "tags": [
+      "リーク"
+    ],
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/270276553/rectangle_large_type_2_ef46385336dd2b74d91f5d3859ccb976.png?fit=bounds&quality=85&width=1280",
+    "source": "rss"
+  },
+  {
+    "id": "auto-74443bce6a",
+    "title": "１日１問GTO戦略クイズ【#19】",
+    "url": "https://www.youtube.com/watch?v=EJX4EuAqsZM",
+    "author": "心配性ポーカー",
+    "platform": "youtube",
+    "date": "2026-05-08",
+    "desc": "BB vs COのシングルレイズドポットに関するGTO戦略のクイズです！！ ＜問題の設定＞ ・9人MAX ・4bb cap/5% ・2.5bb open ...",
+    "tags": [
+      "特定のポジション",
+      "GTO",
+      "SRP"
+    ],
+    "thumbnail": "https://i.ytimg.com/vi/EJX4EuAqsZM/mqdefault.jpg",
+    "source": "youtube_api"
+  },
+  {
+    "id": "auto-60435dcc00",
+    "title": "SB 3betレンジ #ポーカー #poker #ポーカー戦略",
+    "url": "https://www.youtube.com/watch?v=hZ38lHtcRlY",
+    "author": "ポーカープロが解説するよ  tori🐦",
+    "platform": "youtube",
+    "date": "2026-05-08",
+    "desc": "こんばんは、 ポーカープロのtori です。 今回はキャッシュゲームにおける SBの3betレンジ(vsCO)の目安を一覧にしました。",
+    "tags": [
+      "キャッシュゲーム",
+      "特定のポジション",
+      "レンジ",
+      "プリフロップ"
+    ],
+    "thumbnail": "https://i.ytimg.com/vi/hZ38lHtcRlY/mqdefault.jpg",
+    "source": "youtube_api"
+  },
+  {
     "id": "manual-1778156444466",
     "url": "https://youtu.be/teWt-CmzJjI?si=GdwYjSDJar90JOSq",
     "title": "A5sの正しいプレイ",
@@ -461,6 +508,26 @@
     ],
     "thumbnail": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/17e064fa195e7823e518268e3c88dffc71943688.png",
     "source": "rss"
+  },
+  {
+    "id": "auto-cc145a4dbd",
+    "title": "Exploiting Profiles: Episode II – The Nit",
+    "url": "https://blog.gtowizard.com/exploiting-profiles-episode-ii-the-nit/",
+    "author": "GTO Wizard",
+    "platform": "blog",
+    "date": "2026-05-04",
+    "desc": "We will compare BTN’s c-bet strategy when playing heads up against a Nit and against a GTO opponent in a 100bb cash game, BTN vs BB SRP via custom reports.",
+    "tags": [
+      "キャッシュゲーム",
+      "特定のポジション",
+      "GTO",
+      "エクスプロイト",
+      "ベット",
+      "SRP",
+      "CB"
+    ],
+    "thumbnail": "https://blog.gtowizard.com/content/2026/05/Thumbnail.png",
+    "source": "web_rss"
   },
   {
     "id": "auto-92003697a0",
@@ -1708,6 +1775,21 @@
     ],
     "thumbnail": "https://blog.gtowizard.com/content/2026/04/header-4-1.png",
     "source": "web_rss"
+  },
+  {
+    "id": "auto-500e20f91e",
+    "title": "ポーカーのスポットドリルと評価・解説を普通のAIツールを用いて作ってみた。ーPerplexityで作るMTTポーカー学習プロンプトとその解説・学習方法（他AIツールへの応用可）v2",
+    "url": "https://note.com/kakip4952/n/nd482776edfca",
+    "author": "AI De Poker kkp(kakip)",
+    "platform": "note",
+    "date": "2026-04-27",
+    "desc": "GTO WizardのTrainerやPractice Modeの考え方を参考にしながら、Perplexity上で「問題作成」「苦手スポットの反復練習」「実戦ハンドレビュー」「目標大会向けの準備」を一つのスレッドで行うための、最新版プロンプトと利用ガイドをまとめた記事です。筆者が主に利用しているのがPerplexityなのでPerplexity用のものとして作成していますが、おそらくこれを参考にす",
+    "tags": [
+      "勉強法",
+      "ツール"
+    ],
+    "thumbnail": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/d547ce6ca7ab2311fc41b4706c21843358a3905b.png",
+    "source": "rss"
   },
   {
     "id": "auto-714ed27242",
@@ -7373,6 +7455,22 @@
     "tags": [],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/258894924/rectangle_large_type_2_84044e1e33436cad32ede0bfb41a8f35.jpeg?fit=bounds&quality=85&width=1280",
     "source": "initial_fetch_creator"
+  },
+  {
+    "id": "auto-46ae9d8d1a",
+    "title": "3ウェイポットでのプローブベット戦略",
+    "url": "https://japan.gtowizard.com/blog/probing-out-of-position-in-3-way-pots/",
+    "author": "GTO Wizard Japan",
+    "platform": "blog",
+    "date": "2026-03-14",
+    "desc": "",
+    "tags": [
+      "ベット",
+      "BMCB",
+      "マルチウェイ"
+    ],
+    "thumbnail": "https://japan.gtowizard.com/wp-content/uploads/2026/05/header-1.png",
+    "source": "web_scrape"
   },
   {
     "id": "auto-cf62942cc7",
