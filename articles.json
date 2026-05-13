@@ -30333,7 +30333,8 @@
     "date": "2025-04-04",
     "desc": "",
     "tags": [
-      "ポジション"
+      "特定のボード",
+      "特定のポジション"
     ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/182507091/rectangle_large_type_2_44c9dc100b4619cc778030adbc041041.png?fit=bounds&quality=85&width=1280",
     "source": "fetch_creator"
@@ -35449,7 +35450,8 @@
     "date": "2024-10-04",
     "desc": "",
     "tags": [
-      "ブラフ"
+      "ブラフ",
+      "特定の環境"
     ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/156734321/rectangle_large_type_2_1136604907e5810159d91f7bb656c6a0.png?fit=bounds&quality=85&width=1280",
     "source": "fetch_creator"
@@ -37879,7 +37881,10 @@
     "date": "2024-07-05",
     "desc": "",
     "tags": [
-      "ポジション"
+      "特定のポジション",
+      "フロップ",
+      "ポストフロップ",
+      "CB"
     ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/146273200/rectangle_large_type_2_7b4c2fc1a4e9f46b75d8418da14719b9.png?fit=bounds&quality=85&width=1280",
     "source": "fetch_creator"
