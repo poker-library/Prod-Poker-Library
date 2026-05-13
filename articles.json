@@ -15920,18 +15920,6 @@
     "source": "initial_fetch_creator"
   },
   {
-    "id": "auto-79b97624c0",
-    "title": "【Poker基礎学習】コンボ数でわかる戦略差【よくあるミス】",
-    "url": "https://note.com/ryu1poker_2nd/n/n3fee8e3c63e8",
-    "author": "Hatano【poker上級基礎戦略】",
-    "platform": "note",
-    "date": "2025-11-19",
-    "desc": "",
-    "tags": [],
-    "thumbnail": "https://assets.st-note.com/production/uploads/images/230566084/rectangle_large_type_2_af1ab35a3c11ced21e080ef3576cd068.png?fit=bounds&quality=85&width=1280",
-    "source": "initial_fetch_creator"
-  },
-  {
     "id": "auto-e82e425ff3",
     "title": "一気に理解が深まる！ 静的ボードと動的ボード 「未来の動き方」の話",
     "url": "https://note.com/ryu1poker_2nd/n/n3cf5f9fc1db0",
@@ -15939,7 +15927,9 @@
     "platform": "note",
     "date": "2025-11-19",
     "desc": "",
-    "tags": [],
+    "tags": [
+      "特定のボード"
+    ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/230480180/rectangle_large_type_2_3db81b965036a30f063fb314ca38efee.png?fit=bounds&quality=85&width=1280",
     "source": "initial_fetch_creator"
   },
@@ -16004,7 +15994,8 @@
     "date": "2025-11-18",
     "desc": "",
     "tags": [
-      "エクイティ"
+      "エクイティ",
+      "オッズ"
     ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/229824455/rectangle_large_type_2_b947fbe67fa8fa218cdf48c2815fc0a5.png?fit=bounds&quality=85&width=1280",
     "source": "initial_fetch_creator"
@@ -16019,7 +16010,7 @@
     "desc": "",
     "tags": [
       "ソルバー",
-      "入門"
+      "理論"
     ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/230148266/rectangle_large_type_2_57cb7983cf72ffa2eba9e130f673a513.png?fit=bounds&quality=85&width=1280",
     "source": "initial_fetch_creator"
@@ -16033,7 +16024,8 @@
     "date": "2025-11-18",
     "desc": "",
     "tags": [
-      "レンジ"
+      "レンジ",
+      "理論"
     ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/229823106/rectangle_large_type_2_70d593c96b132e669191e66666e78389.png?fit=bounds&quality=85&width=1280",
     "source": "initial_fetch_creator"
@@ -16047,7 +16039,8 @@
     "date": "2025-11-18",
     "desc": "",
     "tags": [
-      "レンジ"
+      "レンジ",
+      "理論"
     ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/229799531/rectangle_large_type_2_3cbd314681ae6d3c3e710badb0d38559.jpeg?fit=bounds&quality=85&width=1280",
     "source": "initial_fetch_creator"
@@ -16073,7 +16066,8 @@
     "date": "2025-11-17",
     "desc": "",
     "tags": [
-      "エクイティ"
+      "エクイティ",
+      "理論"
     ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/229143300/rectangle_large_type_2_d664c2abc7b7b5dc4d261f6253a93fee.png?fit=bounds&quality=85&width=1280",
     "source": "initial_fetch_creator"
@@ -16087,7 +16081,9 @@
     "date": "2025-11-17",
     "desc": "",
     "tags": [
-      "ポストフロップ"
+      "ポストフロップ",
+      "フロップ",
+      "ターン"
     ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/230041344/rectangle_large_type_2_5677c061fbf9d14ddb0e40152472d66d.png?fit=bounds&quality=85&width=1280",
     "source": "initial_fetch_creator"
@@ -16134,7 +16130,8 @@
     "date": "2025-11-16",
     "desc": "",
     "tags": [
-      "上級"
+      "上級",
+      "勉強法"
     ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/229074346/rectangle_large_type_2_0b76c403ac7d61d78251523ad25c5f0a.png?fit=bounds&quality=85&width=1280",
     "source": "initial_fetch_creator"
@@ -16147,7 +16144,9 @@
     "platform": "note",
     "date": "2025-11-16",
     "desc": "",
-    "tags": [],
+    "tags": [
+      "理論"
+    ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/229756296/rectangle_large_type_2_0cbcd488054f7c19972c7b47a78957dc.png?fit=bounds&quality=85&width=1280",
     "source": "initial_fetch_creator"
   },
@@ -16243,7 +16242,9 @@
     "platform": "note",
     "date": "2025-11-15",
     "desc": "",
-    "tags": [],
+    "tags": [
+      "理論"
+    ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/229625269/rectangle_large_type_2_759f0aca4ff45449b0618380f23d9d7c.png?fit=bounds&quality=85&width=1280",
     "source": "initial_fetch_creator"
   },
@@ -16256,7 +16257,8 @@
     "date": "2025-11-15",
     "desc": "",
     "tags": [
-      "ソルバー"
+      "ソルバー",
+      "GTO"
     ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/229513053/rectangle_large_type_2_982acdf0cf9298fd67c4c5c3cce71cfe.png?fit=bounds&quality=85&width=1280",
     "source": "initial_fetch_creator"
@@ -16281,7 +16283,9 @@
     "platform": "note",
     "date": "2025-11-15",
     "desc": "",
-    "tags": [],
+    "tags": [
+      "ドンク"
+    ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/229057525/rectangle_large_type_2_f460849d17ee241aee5fde700c7a3c8d.png?fit=bounds&quality=85&width=1280",
     "source": "initial_fetch_creator"
   },
@@ -16295,7 +16299,10 @@
     "desc": "",
     "tags": [
       "ブラフ",
-      "ポジション"
+      "ポジション",
+      "MDF",
+      "バリュー",
+      "ヘッズアップ"
     ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/229372107/rectangle_large_type_2_00a5956fcdbf7c83707168e5f2ef6df9.png?fit=bounds&quality=85&width=1280",
     "source": "initial_fetch_creator"
@@ -16308,7 +16315,9 @@
     "platform": "note",
     "date": "2025-11-15",
     "desc": "",
-    "tags": [],
+    "tags": [
+      "MDF"
+    ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/229373431/rectangle_large_type_2_b62af56f119a77d4d1e4bb8b7a35474a.png?fit=bounds&quality=85&width=1280",
     "source": "initial_fetch_creator"
   },
@@ -16360,7 +16369,9 @@
     "platform": "note",
     "date": "2025-11-14",
     "desc": "",
-    "tags": [],
+    "tags": [
+      "ツール"
+    ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/228357916/rectangle_large_type_2_04e2201d014a424b579e834c69b9448e.png?fit=bounds&quality=85&width=1280",
     "source": "initial_fetch_creator"
   },
@@ -16374,7 +16385,9 @@
     "desc": "",
     "tags": [
       "GTO",
-      "ICM"
+      "ICM",
+      "ツール",
+      "ソルバー"
     ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/229271967/rectangle_large_type_2_cea37d9cf56ece65ef279a18912cbb62.png?fit=bounds&quality=85&width=1280",
     "source": "initial_fetch_creator"
@@ -16389,7 +16402,8 @@
     "desc": "",
     "tags": [
       "レンジ",
-      "エクイティ"
+      "エクイティ",
+      "勉強法"
     ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/229174904/rectangle_large_type_2_41ce7b492d626522e65093a05366ce6a.png?fit=bounds&quality=85&width=1280",
     "source": "initial_fetch_creator"
@@ -16431,20 +16445,10 @@
     "platform": "note",
     "date": "2025-11-13",
     "desc": "",
-    "tags": [],
+    "tags": [
+      "エクイティ"
+    ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/228179471/rectangle_large_type_2_604305045da5da5a8d9e7814563d3490.png?fit=bounds&quality=85&width=1280",
-    "source": "initial_fetch_creator"
-  },
-  {
-    "id": "auto-4710fa803b",
-    "title": "集中力を高める糖質管理：脳を長持ちさせる実践ガイド",
-    "url": "https://note.com/ryu1poker_2nd/n/n3c8a6022a147",
-    "author": "Hatano【poker上級基礎戦略】",
-    "platform": "note",
-    "date": "2025-11-13",
-    "desc": "",
-    "tags": [],
-    "thumbnail": "https://assets.st-note.com/production/uploads/images/228569803/rectangle_large_type_2_bdd84693701f36ada47778573846c64e.png?fit=bounds&quality=85&width=1280",
     "source": "initial_fetch_creator"
   },
   {
@@ -16679,7 +16683,8 @@
     "desc": "",
     "tags": [
       "上級",
-      "入門"
+      "入門",
+      "勉強法"
     ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/236634217/rectangle_large_type_2_c97ad42bb8cd2fa3d9c473ed91f0545d.png?fit=bounds&quality=85&width=1280",
     "source": "initial_fetch_creator"
@@ -16693,9 +16698,9 @@
     "date": "2025-11-09",
     "desc": "",
     "tags": [
-      "プリフロップ",
       "レンジ",
-      "ポジション"
+      "ポジション",
+      "特定のポジション"
     ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/228089570/rectangle_large_type_2_49a6caceae6037e39f33c967ce3727f4.png?fit=bounds&quality=85&width=1280",
     "source": "initial_fetch_creator"
@@ -16823,7 +16828,9 @@
     "date": "2025-11-08",
     "desc": "",
     "tags": [
-      "ポジション"
+      "ポジション",
+      "特定のポジション",
+      "コール"
     ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/227549136/rectangle_large_type_2_a24832347aa3bc7b8c70c4d3a0da29ed.png?fit=bounds&quality=85&width=1280",
     "source": "initial_fetch_creator"
@@ -16836,7 +16843,9 @@
     "platform": "note",
     "date": "2025-11-08",
     "desc": "",
-    "tags": [],
+    "tags": [
+      "特定の環境"
+    ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/227537943/rectangle_large_type_2_438661f2409c84ae410cef2bb94860e7.jpeg?fit=bounds&quality=85&width=1280",
     "source": "initial_fetch_creator"
   },
@@ -16850,7 +16859,8 @@
     "desc": "",
     "tags": [
       "GTO",
-      "ソルバー"
+      "ソルバー",
+      "ツール"
     ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/227817738/rectangle_large_type_2_49e3a5248bf8ac81b974e76f5683096c.png?fit=bounds&quality=85&width=1280",
     "source": "initial_fetch_creator"
@@ -16863,7 +16873,10 @@
     "platform": "note",
     "date": "2025-11-08",
     "desc": "",
-    "tags": [],
+    "tags": [
+      "ベット",
+      "理論"
+    ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/227754505/rectangle_large_type_2_da5469c5ad3667cc0df63ecb5d38f203.png?fit=bounds&quality=85&width=1280",
     "source": "initial_fetch_creator"
   },
@@ -16875,7 +16888,10 @@
     "platform": "note",
     "date": "2025-11-08",
     "desc": "",
-    "tags": [],
+    "tags": [
+      "ベット",
+      "理論"
+    ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/227620914/rectangle_large_type_2_d121e6bba03bac5bf511b336e7d4c100.png?fit=bounds&quality=85&width=1280",
     "source": "initial_fetch_creator"
   },
@@ -16972,7 +16988,10 @@
     "platform": "note",
     "date": "2025-11-07",
     "desc": "",
-    "tags": [],
+    "tags": [
+      "ベット",
+      "理論"
+    ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/227621193/rectangle_large_type_2_9240fda1b0a816671820e0d6e4723b64.png?fit=bounds&quality=85&width=1280",
     "source": "initial_fetch_creator"
   },
@@ -17018,7 +17037,8 @@
     "desc": "",
     "tags": [
       "ポストフロップ",
-      "入門"
+      "入門",
+      "初心者向け"
     ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/227448011/rectangle_large_type_2_590b0301ab78f4944608452b98a712f9.png?fit=bounds&quality=85&width=1280",
     "source": "initial_fetch_creator"
@@ -17031,7 +17051,9 @@
     "platform": "note",
     "date": "2025-11-06",
     "desc": "",
-    "tags": [],
+    "tags": [
+      "GTO"
+    ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/227391349/rectangle_large_type_2_cd77af85b5b01d615337d70d05e23bcc.png?fit=bounds&quality=85&width=1280",
     "source": "initial_fetch_creator"
   },
@@ -17169,7 +17191,8 @@
     "date": "2025-11-04",
     "desc": "",
     "tags": [
-      "GTO"
+      "GTO",
+      "ツール"
     ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/226972864/rectangle_large_type_2_2e9646c0ee27603154da1958e2e67249.png?fit=bounds&quality=85&width=1280",
     "source": "initial_fetch_creator"
@@ -17182,7 +17205,9 @@
     "platform": "note",
     "date": "2025-11-04",
     "desc": "",
-    "tags": [],
+    "tags": [
+      "勉強法"
+    ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/226964872/rectangle_large_type_2_7c90826fa1c46527e9244823db38ea6a.png?fit=bounds&quality=85&width=1280",
     "source": "initial_fetch_creator"
   },
@@ -17195,7 +17220,11 @@
     "date": "2025-11-04",
     "desc": "",
     "tags": [
-      "ポジション"
+      "ポジション",
+      "ドンク",
+      "特定のポジション",
+      "特定のボード",
+      "SRP"
     ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/226870908/rectangle_large_type_2_9ee6c2a9cacbc18eb9d0384399fe5cdf.png?fit=bounds&quality=85&width=1280",
     "source": "initial_fetch_creator"
@@ -17209,7 +17238,9 @@
     "date": "2025-11-04",
     "desc": "",
     "tags": [
-      "ポジション"
+      "ポジション",
+      "特定のポジション",
+      "SRP"
     ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/226864288/rectangle_large_type_2_6cc04bb92386032d897d5e61a95159bc.png?fit=bounds&quality=85&width=1280",
     "source": "initial_fetch_creator"
@@ -17277,7 +17308,9 @@
     "platform": "note",
     "date": "2025-11-03",
     "desc": "",
-    "tags": [],
+    "tags": [
+      "勉強法"
+    ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/226825853/rectangle_large_type_2_5e73f702f90d98710e3a37f4faf2129a.png?fit=bounds&quality=85&width=1280",
     "source": "initial_fetch_creator"
   },
@@ -17303,7 +17336,8 @@
     "desc": "",
     "tags": [
       "GTO",
-      "ソルバー"
+      "ソルバー",
+      "ツール"
     ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/226680829/rectangle_large_type_2_6a7e229431dc5fc87381b250f7d08c6f.png?fit=bounds&quality=85&width=1280",
     "source": "initial_fetch_creator"
@@ -17316,7 +17350,9 @@
     "platform": "note",
     "date": "2025-11-03",
     "desc": "",
-    "tags": [],
+    "tags": [
+      "リンプ"
+    ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/226665461/rectangle_large_type_2_0959baae1af38ccbeb10ce402dd97306.png?fit=bounds&quality=85&width=1280",
     "source": "initial_fetch_creator"
   },
@@ -17411,7 +17447,6 @@
     "date": "2025-11-01",
     "desc": "",
     "tags": [
-      "ポジション",
       "MTT"
     ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/226282049/rectangle_large_type_2_27fb6ae03c0ffb6270e3d3cdc58d71b4.png?fit=bounds&quality=85&width=1280",
@@ -17494,7 +17529,10 @@
     "desc": "",
     "tags": [
       "プリフロップ",
-      "ポジション"
+      "ポジション",
+      "特定のポジション",
+      "MTT",
+      "3bet"
     ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/226076618/rectangle_large_type_2_d07a790d838eb1fb530fc7e335df8991.png?fit=bounds&quality=85&width=1280",
     "source": "initial_fetch_creator"
@@ -17630,7 +17668,9 @@
     "date": "2025-10-30",
     "desc": "",
     "tags": [
-      "入門"
+      "入門",
+      "初心者向け",
+      "MTT"
     ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/225832601/rectangle_large_type_2_616c064d6fc28d85985ace7dab5a1f4a.png?fit=bounds&quality=85&width=1280",
     "source": "initial_fetch_creator"
@@ -17729,7 +17769,9 @@
     "platform": "note",
     "date": "2025-10-29",
     "desc": "",
-    "tags": [],
+    "tags": [
+      "バブルファクター"
+    ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/225618903/rectangle_large_type_2_7c0167b16c17f2a0c0e39df019a3364f.png?fit=bounds&quality=85&width=1280",
     "source": "initial_fetch_creator"
   },
@@ -17741,7 +17783,9 @@
     "platform": "note",
     "date": "2025-10-29",
     "desc": "",
-    "tags": [],
+    "tags": [
+      "理論"
+    ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/225581717/rectangle_large_type_2_0f9e684d45073aba0050af48191d283d.png?fit=bounds&quality=85&width=1280",
     "source": "initial_fetch_creator"
   },
@@ -17811,7 +17855,8 @@
     "desc": "",
     "tags": [
       "ポストフロップ",
-      "ICM"
+      "ICM",
+      "バブルファクター"
     ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/225377661/rectangle_large_type_2_c5c7c15b827b466125edd5e5ba374fb5.png?fit=bounds&quality=85&width=1280",
     "source": "initial_fetch_creator"
@@ -18077,20 +18122,10 @@
     "platform": "note",
     "date": "2025-10-25",
     "desc": "",
-    "tags": [],
+    "tags": [
+      "勉強法"
+    ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/224687951/rectangle_large_type_2_aa3b1aac40efd9b678214c32b8f54936.png?fit=bounds&quality=85&width=1280",
-    "source": "initial_fetch_creator"
-  },
-  {
-    "id": "auto-7dde892c69",
-    "title": "ギャンブル依存症チェックリスト｜友人が“のめり込み始めた”とき、あなたができること。",
-    "url": "https://note.com/ryu1poker_2nd/n/n46b060f1b928",
-    "author": "Hatano【poker上級基礎戦略】",
-    "platform": "note",
-    "date": "2025-10-25",
-    "desc": "",
-    "tags": [],
-    "thumbnail": "https://assets.st-note.com/production/uploads/images/224565540/rectangle_large_type_2_f575f29e228b8f1a4ad5677f027c5f09.png?fit=bounds&quality=85&width=1280",
     "source": "initial_fetch_creator"
   },
   {
@@ -18156,7 +18191,8 @@
     "date": "2025-10-24",
     "desc": "",
     "tags": [
-      "GTO"
+      "GTO",
+      "理論"
     ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/224355483/rectangle_large_type_2_af7667ddafc6a7fbe7cb778d02107bad.png?fit=bounds&quality=85&width=1280",
     "source": "initial_fetch_creator"
@@ -18310,7 +18346,8 @@
     "date": "2025-10-23",
     "desc": "🔹 十数年前から抱えていた疑問 十数年前にポーカーを覚えてから、ずっと疑問に思っていることがある。 「COまで全員がフォールドして、BTNにアクションが回ってきたとき──この時点で山札の中身って、 もうランダムじゃないよね？ 」 続きをみる",
     "tags": [
-      "ポジション"
+      "ポジション",
+      "理論"
     ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/224141954/rectangle_large_type_2_fe8c128c2480a01d659f120318ddeb23.jpeg?fit=bounds&quality=85&width=1280",
     "source": "rss"
@@ -18323,7 +18360,9 @@
     "platform": "note",
     "date": "2025-10-23",
     "desc": "",
-    "tags": [],
+    "tags": [
+      "エクイティ"
+    ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/255029913/rectangle_large_type_2_9c5fda6e263531f6c0b1d789ee244ab5.png?fit=bounds&quality=85&width=1280",
     "source": "initial_fetch_creator"
   },
@@ -18336,7 +18375,8 @@
     "date": "2025-10-23",
     "desc": "",
     "tags": [
-      "ソルバー"
+      "ソルバー",
+      "勉強法"
     ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/244289253/rectangle_large_type_2_55307514907373f1fe291c85ecaa7b61.png?fit=bounds&quality=85&width=1280",
     "source": "initial_fetch_creator"
@@ -18409,7 +18449,8 @@
     "tags": [
       "プリフロップ",
       "ポストフロップ",
-      "レンジ"
+      "レンジ",
+      "初心者向け"
     ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/224063825/rectangle_large_type_2_2c5cb17781c79a74d8831cc69c3fbcbe.jpeg?fit=bounds&quality=85&width=1280",
     "source": "rss"
@@ -18424,9 +18465,10 @@
     "desc": "",
     "tags": [
       "プリフロップ",
-      "ポストフロップ",
       "GTO",
-      "レンジ"
+      "レンジ",
+      "キャッシュゲーム",
+      "特定のスタック"
     ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/224077423/rectangle_large_type_2_5800dea0c1fd4d6f24327ae4d6fcf356.png?fit=bounds&quality=85&width=1280",
     "source": "initial_fetch_creator"
@@ -18439,7 +18481,9 @@
     "platform": "note",
     "date": "2025-10-22",
     "desc": "",
-    "tags": [],
+    "tags": [
+      "エクイティ"
+    ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/223963112/rectangle_large_type_2_be96939b680ebe0229d4e839ce54decd.png?fit=bounds&quality=85&width=1280",
     "source": "initial_fetch_creator"
   },
@@ -18971,7 +19015,6 @@
     "date": "2025-10-15",
     "desc": "「このラインの方がEVで0.01bb上だからこっちが正解」 ──そんな会話、聞いたことありませんか？ でも実際のところ、 その“0.01bb差”は計算精度の範囲内。 つまり“まだ誤差”の可能性が高い。 続きをみる",
     "tags": [
-      "ポジション",
       "エクイティ"
     ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/222473657/rectangle_large_type_2_8c4c955d1b147b4d203f9b4f13fb5fa0.png?fit=bounds&quality=85&width=1280",
@@ -19138,7 +19181,9 @@
     "platform": "note",
     "date": "2025-10-14",
     "desc": "",
-    "tags": [],
+    "tags": [
+      "オッズ"
+    ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/222235098/rectangle_large_type_2_7d0fa313ba6b5b8e53833f2d1f577875.png?fit=bounds&quality=85&width=1280",
     "source": "initial_fetch_creator"
   },
@@ -19713,7 +19758,8 @@
     "desc": "「本記事ではキャッシュゲーム・MTTの両方に共通する学び方を解説します。」 ポーカーは、 長く楽しめる最高の趣味 です。 運だけでも勝てず、努力だけでも勝てない──だからこそ奥が深い。 続きをみる",
     "tags": [
       "MTT",
-      "上級"
+      "勉強法",
+      "キャッシュゲーム"
     ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/224057690/rectangle_large_type_2_55de1c7cc756643857f1c99ad541ebd9.png?fit=bounds&quality=85&width=1280",
     "source": "rss"
@@ -22884,7 +22930,9 @@
     "platform": "note",
     "date": "2025-09-11",
     "desc": "",
-    "tags": [],
+    "tags": [
+      "勉強法"
+    ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/236137860/rectangle_large_type_2_b59b97e2f7c1caf576a0ae687057e222.png?fit=bounds&quality=85&width=1280",
     "source": "initial_fetch_creator"
   },
