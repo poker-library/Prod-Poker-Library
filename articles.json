@@ -97,6 +97,19 @@
     "source": "youtube_api"
   },
   {
+    "id": "manual-1778684794221",
+    "url": "https://m.youtube.com/watch?si=pZkVw6GMa3IT89uG&v=9WGHub43HMY&feature=youtu.be",
+    "title": "【Ten-four】通常卓のランカーが打ち方を話すだけです",
+    "author": "舌青い町長",
+    "platform": "youtube",
+    "date": "2026-05-12",
+    "desc": "",
+    "tags": [
+      "特定の環境"
+    ],
+    "thumbnail": ""
+  },
+  {
     "id": "auto-239a5a6205",
     "title": "MTT ハンドレビュー：リバーのブラフキャッチは「ハンドの強さ」だけで決まらない",
     "url": "https://note.com/bentham_benben/n/n6f752524009e",
@@ -510,6 +523,21 @@
     ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/274875062/rectangle_large_type_2_0607a5178f113a0845ba5633028dc472.png?fit=bounds&quality=85&width=1280",
     "source": "rss"
+  },
+  {
+    "id": "manual-1778684497253",
+    "url": "https://youtu.be/RKAxwnMMT4w",
+    "title": "バリューベットの判断基準｜利益を伸ばせない人に共通するミスと改善法",
+    "author": "サボテンのポーカー",
+    "platform": "youtube",
+    "date": "2026-05-10",
+    "desc": "",
+    "tags": [
+      "バリュー",
+      "ベット",
+      "レンジ"
+    ],
+    "thumbnail": ""
   },
   {
     "id": "auto-5a2b17adbe",
@@ -3603,6 +3631,20 @@
     "tags": [],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/268947618/rectangle_large_type_2_5099d8e56de9e678b047108ee35ac26f.png?fit=bounds&quality=85&width=1280",
     "source": "fetch_creator"
+  },
+  {
+    "id": "manual-1778684695724",
+    "url": "https://m.youtube.com/watch?v=KS-iVvnIpRk",
+    "title": "ポーカーで勝つために最も重要な「本質」の話",
+    "author": "サボテンのポーカー",
+    "platform": "youtube",
+    "date": "2026-04-19",
+    "desc": "",
+    "tags": [
+      "レンジ",
+      "勉強法"
+    ],
+    "thumbnail": ""
   },
   {
     "id": "auto-2e48b21fd7",
