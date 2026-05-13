@@ -679,6 +679,20 @@
     "source": "youtube_api"
   },
   {
+    "id": "auto-e80da05ec3",
+    "title": "【ポーカー検証】１万回トーナメントでてみた",
+    "url": "https://note.com/merrypoker/n/n2d7969404d01",
+    "author": "メリー@海外トーナメント",
+    "platform": "note",
+    "date": "2026-05-08",
+    "desc": "",
+    "tags": [
+      "MTT"
+    ],
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/273246026/rectangle_large_type_2_7945b49cf1acaf4a475ef9fdc67e1a9a.jpeg?fit=bounds&quality=85&width=1280",
+    "source": "fetch_creator"
+  },
+  {
     "id": "manual-1778156444466",
     "url": "https://youtu.be/teWt-CmzJjI?si=GdwYjSDJar90JOSq",
     "title": "A5sの正しいプレイ",
@@ -3577,6 +3591,18 @@
     ],
     "thumbnail": "https://i.ytimg.com/vi/DxaToIc2S44/mqdefault.jpg",
     "source": "initial_fetch_yt"
+  },
+  {
+    "id": "auto-b6339ece9a",
+    "title": "ポーカー問題集 009",
+    "url": "https://note.com/poker_ninja/n/n06d2299fce71",
+    "author": "東京大学ポーカー研究会",
+    "platform": "note",
+    "date": "2026-04-20",
+    "desc": "",
+    "tags": [],
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/268947618/rectangle_large_type_2_5099d8e56de9e678b047108ee35ac26f.png?fit=bounds&quality=85&width=1280",
+    "source": "fetch_creator"
   },
   {
     "id": "auto-2e48b21fd7",
