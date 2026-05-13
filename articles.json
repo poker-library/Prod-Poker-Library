@@ -10603,7 +10603,8 @@
     "date": "2026-01-24",
     "desc": "",
     "tags": [
-      "GTO"
+      "GTO",
+      "理論"
     ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/246206731/rectangle_large_type_2_9f76406180b524727ea8c96eeb9509de.png?fit=bounds&quality=85&width=1280",
     "source": "initial_fetch_creator"
@@ -10848,7 +10849,9 @@
     "platform": "note",
     "date": "2026-01-20",
     "desc": "",
-    "tags": [],
+    "tags": [
+      "リーク"
+    ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/245220239/rectangle_large_type_2_955afd64451e67f82bf26caf0f471721.png?fit=bounds&quality=85&width=1280",
     "source": "initial_fetch_creator"
   },
@@ -10962,7 +10965,9 @@
     "platform": "note",
     "date": "2026-01-17",
     "desc": "",
-    "tags": [],
+    "tags": [
+      "理論"
+    ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/244471618/rectangle_large_type_2_83b98cae93950242eb9b8b27735ad561.png?fit=bounds&quality=85&width=1280",
     "source": "initial_fetch_creator"
   },
@@ -10990,7 +10995,9 @@
     "platform": "note",
     "date": "2026-01-16",
     "desc": "",
-    "tags": [],
+    "tags": [
+      "理論"
+    ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/244242397/rectangle_large_type_2_121ac10264870080b0da12e423b406e2.png?fit=bounds&quality=85&width=1280",
     "source": "initial_fetch_creator"
   },
@@ -11044,7 +11051,9 @@
     "platform": "note",
     "date": "2026-01-15",
     "desc": "",
-    "tags": [],
+    "tags": [
+      "勉強法"
+    ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/244044026/rectangle_large_type_2_d57709501bb2bd543f4c8f6be2f40c88.jpeg?fit=bounds&quality=85&width=1280",
     "source": "initial_fetch_creator"
   },
@@ -11715,7 +11724,9 @@
     "platform": "note",
     "date": "2026-01-02",
     "desc": "",
-    "tags": [],
+    "tags": [
+      "特定のハンド"
+    ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/240836662/rectangle_large_type_2_f0dbba911d93c3bb3b26d2571f8f2ec4.png?fit=bounds&quality=85&width=1280",
     "source": "initial_fetch_creator"
   },
@@ -11822,7 +11833,9 @@
     "platform": "note",
     "date": "2025-12-31",
     "desc": "",
-    "tags": [],
+    "tags": [
+      "勉強法"
+    ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/240182450/rectangle_large_type_2_7ee5a11638072796f4180d118a6d5e9d.png?fit=bounds&quality=85&width=1280",
     "source": "initial_fetch_creator"
   },
@@ -11861,7 +11874,8 @@
     "date": "2025-12-30",
     "desc": "",
     "tags": [
-      "ブラフ"
+      "ブラフ",
+      "バリュー"
     ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/239907696/rectangle_large_type_2_47a5d00ae6bdfd77a57830aa30208177.png?fit=bounds&quality=85&width=1280",
     "source": "initial_fetch_creator"
@@ -11953,7 +11967,9 @@
     "platform": "note",
     "date": "2025-12-29",
     "desc": "",
-    "tags": [],
+    "tags": [
+      "サテライト"
+    ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/239680560/rectangle_large_type_2_2d5d48d68b27d275f98c4d34f83f98be.png?fit=bounds&quality=85&width=1280",
     "source": "initial_fetch_creator"
   },
@@ -11967,7 +11983,9 @@
     "desc": "",
     "tags": [
       "レンジ",
-      "ソルバー"
+      "ソルバー",
+      "ドンク",
+      "GTO"
     ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/239652482/rectangle_large_type_2_6a567b490c387931d33dc8d9bb244efb.png?fit=bounds&quality=85&width=1280",
     "source": "initial_fetch_creator"
@@ -11982,8 +12000,8 @@
     "desc": "",
     "tags": [
       "プリフロップ",
-      "ポストフロップ",
-      "レンジ"
+      "レンジ",
+      "勉強法"
     ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/239557409/rectangle_large_type_2_ef0b8dfa28de49da6c86bae0f842c710.png?fit=bounds&quality=85&width=1280",
     "source": "initial_fetch_creator"
@@ -12041,7 +12059,9 @@
     "platform": "note",
     "date": "2025-12-28",
     "desc": "",
-    "tags": [],
+    "tags": [
+      "勉強法"
+    ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/239522251/rectangle_large_type_2_53b561da6ae8e22465ac89ad8be1cf4b.png?fit=bounds&quality=85&width=1280",
     "source": "initial_fetch_creator"
   },
@@ -12053,7 +12073,9 @@
     "platform": "note",
     "date": "2025-12-28",
     "desc": "",
-    "tags": [],
+    "tags": [
+      "特定の環境"
+    ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/239464473/rectangle_large_type_2_48977dfd539ab3bd849ca72c6bf56554.png?fit=bounds&quality=85&width=1280",
     "source": "initial_fetch_creator"
   },
@@ -12157,7 +12179,8 @@
     "date": "2025-12-27",
     "desc": "",
     "tags": [
-      "プリフロップ"
+      "プリフロップ",
+      "レーキ"
     ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/239241162/rectangle_large_type_2_a9ca7e637bcab7109550c70a22917c57.png?fit=bounds&quality=85&width=1280",
     "source": "initial_fetch_creator"
@@ -12196,7 +12219,7 @@
     "desc": "",
     "tags": [
       "MTT",
-      "ソルバー"
+      "ヘッズアップ"
     ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/239014694/rectangle_large_type_2_e61cdbfe74167e97e87426299ca1a824.png?fit=bounds&quality=85&width=1280",
     "source": "initial_fetch_creator"
@@ -12210,7 +12233,8 @@
     "date": "2025-12-26",
     "desc": "",
     "tags": [
-      "ブラフ"
+      "ブラフ",
+      "リーク"
     ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/238968420/rectangle_large_type_2_a0ab35aba36a5f211786a8e6482d764e.png?fit=bounds&quality=85&width=1280",
     "source": "initial_fetch_creator"
@@ -12279,7 +12303,9 @@
     "platform": "note",
     "date": "2025-12-25",
     "desc": "",
-    "tags": [],
+    "tags": [
+      "理論"
+    ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/238654227/rectangle_large_type_2_6754426787926fc21b19ae08cd90a669.png?fit=bounds&quality=85&width=1280",
     "source": "initial_fetch_creator"
   },
