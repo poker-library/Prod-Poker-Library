@@ -12332,7 +12332,10 @@
     "platform": "note",
     "date": "2025-12-24",
     "desc": "",
-    "tags": [],
+    "tags": [
+      "理論",
+      "エクスプロイト"
+    ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/238582423/rectangle_large_type_2_013c71a6d0051de37735f2b29acc60f8.png?fit=bounds&quality=85&width=1280",
     "source": "initial_fetch_creator"
   },
@@ -12344,7 +12347,9 @@
     "platform": "note",
     "date": "2025-12-24",
     "desc": "",
-    "tags": [],
+    "tags": [
+      "リーク"
+    ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/238509387/rectangle_large_type_2_a67b898db69fba1ce3bf85429529a51c.png?fit=bounds&quality=85&width=1280",
     "source": "initial_fetch_creator"
   },
@@ -12382,7 +12387,9 @@
     "platform": "note",
     "date": "2025-12-23",
     "desc": "",
-    "tags": [],
+    "tags": [
+      "特定の環境"
+    ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/237984289/rectangle_large_type_2_f0cc8b8c616a5b923d24f25750811494.png?fit=bounds&quality=85&width=1280",
     "source": "initial_fetch_creator"
   },
@@ -12466,7 +12473,10 @@
     "platform": "note",
     "date": "2025-12-22",
     "desc": "",
-    "tags": [],
+    "tags": [
+      "バウンティ",
+      "MTT"
+    ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/238128207/rectangle_large_type_2_0bc33bab5b011e4000e4c17fe0210878.png?fit=bounds&quality=85&width=1280",
     "source": "initial_fetch_creator"
   },
@@ -12493,21 +12503,11 @@
     "date": "2025-12-22",
     "desc": "",
     "tags": [
-      "ポストフロップ"
+      "ポストフロップ",
+      "リバー",
+      "コール"
     ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/237982181/rectangle_large_type_2_d28b9a7557b308ba1a930f1821af9ff3.png?fit=bounds&quality=85&width=1280",
-    "source": "initial_fetch_creator"
-  },
-  {
-    "id": "auto-cef5d1b245",
-    "title": "【一発合格】宅建を五日で取った勉強法",
-    "url": "https://note.com/ryu1poker_2nd/n/n2bafee11e52f",
-    "author": "Hatano【poker上級基礎戦略】",
-    "platform": "note",
-    "date": "2025-12-21",
-    "desc": "",
-    "tags": [],
-    "thumbnail": "https://assets.st-note.com/production/uploads/images/237824782/rectangle_large_type_2_4005bc9794886a899c5ce2a93dd8c0c0.png?fit=bounds&quality=85&width=1280",
     "source": "initial_fetch_creator"
   },
   {
@@ -12519,7 +12519,8 @@
     "date": "2025-12-21",
     "desc": "",
     "tags": [
-      "レンジ"
+      "レンジ",
+      "チェック"
     ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/237748238/rectangle_large_type_2_a31ee8538d44dc04175933925a3d8db6.png?fit=bounds&quality=85&width=1280",
     "source": "initial_fetch_creator"
@@ -12533,7 +12534,8 @@
     "date": "2025-12-21",
     "desc": "",
     "tags": [
-      "レンジ"
+      "レンジ",
+      "チェックレイズ"
     ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/237749954/rectangle_large_type_2_646fabc26f7ffea8664a08c0d3727c6a.png?fit=bounds&quality=85&width=1280",
     "source": "initial_fetch_creator"
@@ -12637,7 +12639,9 @@
     "platform": "note",
     "date": "2025-12-20",
     "desc": "",
-    "tags": [],
+    "tags": [
+      "勉強法"
+    ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/237604315/rectangle_large_type_2_7c4d8636f1544617d31776d80291ade0.png?fit=bounds&quality=85&width=1280",
     "source": "initial_fetch_creator"
   },
@@ -12718,7 +12722,10 @@
     "platform": "note",
     "date": "2025-12-19",
     "desc": "",
-    "tags": [],
+    "tags": [
+      "バブルファクター",
+      "特定の環境"
+    ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/237500173/rectangle_large_type_2_8e1e046df99ab81dec0ae9b05d0456ee.png?fit=bounds&quality=85&width=1280",
     "source": "initial_fetch_creator"
   },
@@ -12746,7 +12753,8 @@
     "desc": "",
     "tags": [
       "ブラフ",
-      "MTT"
+      "MTT",
+      "特定のハンド"
     ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/237397315/rectangle_large_type_2_9f69f77132ba5a0003a8643fefd5d645.png?fit=bounds&quality=85&width=1280",
     "source": "initial_fetch_creator"
@@ -12759,7 +12767,9 @@
     "platform": "note",
     "date": "2025-12-19",
     "desc": "",
-    "tags": [],
+    "tags": [
+      "勉強法"
+    ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/237349177/rectangle_large_type_2_90553bd728df9c0ecb3a351a2300d752.png?fit=bounds&quality=85&width=1280",
     "source": "initial_fetch_creator"
   },
@@ -12869,7 +12879,10 @@
     "platform": "note",
     "date": "2025-12-17",
     "desc": "",
-    "tags": [],
+    "tags": [
+      "エクスプロイト",
+      "ツール"
+    ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/236989373/rectangle_large_type_2_5ed74173b7ad455fe05bd1bab656f1f6.png?fit=bounds&quality=85&width=1280",
     "source": "initial_fetch_creator"
   },
@@ -12882,8 +12895,7 @@
     "date": "2025-12-17",
     "desc": "",
     "tags": [
-      "プリフロップ",
-      "ポストフロップ"
+      "プリフロップ"
     ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/236935665/rectangle_large_type_2_cf70624fc0c229358cf5bb401c5b4645.png?fit=bounds&quality=85&width=1280",
     "source": "initial_fetch_creator"
@@ -12979,7 +12991,9 @@
     "platform": "note",
     "date": "2025-12-16",
     "desc": "",
-    "tags": [],
+    "tags": [
+      "ルール"
+    ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/236638885/rectangle_large_type_2_72b531db36027635f5dc0c949fdfc2d1.png?fit=bounds&quality=85&width=1280",
     "source": "initial_fetch_creator"
   },
@@ -13051,7 +13065,9 @@
     "desc": "トーナメントのバブルや大きなペイジャンプの場面は、単純に「チップをたくさん集めた人が偉い」という世界から、「一枚でもカードを間違えれば人生が変わる」くらいの重みを持つフェーズに変わります。そこで初めて本格的に顔を出してくるのが ICM と呼ばれる考え方であり、同時に TDA のルールや理念が本領を発揮する場面でもあります。キャッシュゲームと同じノリでプレーしていると、バブル・ペイジャンプ周りのルー",
     "tags": [
       "ICM",
-      "MTT"
+      "MTT",
+      "バブルファクター",
+      "ルール"
     ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/236638174/rectangle_large_type_2_a889e6a5085191d63fe31f75273eaa87.png?fit=bounds&quality=85&width=1280",
     "source": "rss"
@@ -13065,8 +13081,7 @@
     "date": "2025-12-15",
     "desc": "【ショウダウンは「情報の処理」と「公正の確認」の時間】 ハンドがリバーまで進み、最後のベットやチェックが終わった瞬間から始まるのがショウダウンです。ここは単に「誰がポットをもらうか」を決めるだけの儀式ではなく、「どの情報をどこまで公開するか」と「ルールに沿って公正にポットが授与されているか」を確認するフェーズです。このときの振る舞いしだいで、テーブル全体の雰囲気や信頼度、さらには長期的なEVの配分",
     "tags": [
-      "ポストフロップ",
-      "エクイティ"
+      "ルール"
     ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/236508786/rectangle_large_type_2_db3e34fd7cd75c87f0ee35f760d3a969.png?fit=bounds&quality=85&width=1280",
     "source": "rss"
@@ -13079,7 +13094,9 @@
     "platform": "note",
     "date": "2025-12-15",
     "desc": "",
-    "tags": [],
+    "tags": [
+      "特定の環境"
+    ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/236597653/rectangle_large_type_2_c4bf7c71b78b0429874a7ea931115f6c.jpeg?fit=bounds&quality=85&width=1280",
     "source": "initial_fetch_creator"
   },
@@ -13094,7 +13111,8 @@
     "tags": [
       "GTO",
       "エクスプロイト",
-      "エクイティ"
+      "エクイティ",
+      "レーキ"
     ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/236570432/rectangle_large_type_2_7cbc819d8ec0a3acc85267a0ea536fcc.jpeg?fit=bounds&quality=85&width=1280",
     "source": "initial_fetch_creator"
@@ -13135,7 +13153,9 @@
     "desc": "",
     "tags": [
       "GTO",
-      "MTT"
+      "MTT",
+      "ソルバー",
+      "ツール"
     ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/236447977/rectangle_large_type_2_e00ff7d0bd4a72deceb0933c5194f97e.png?fit=bounds&quality=85&width=1280",
     "source": "initial_fetch_creator"
@@ -13388,22 +13408,8 @@
     "platform": "note",
     "date": "2025-12-13",
     "desc": "",
-    "tags": [
-      "エクイティ"
-    ],
-    "thumbnail": "https://assets.st-note.com/production/uploads/images/235962125/rectangle_large_type_2_88d58fa202d3e5db5c5d40ecad3b2c7e.png?fit=bounds&quality=85&width=1280",
-    "source": "initial_fetch_creator"
-  },
-  {
-    "id": "auto-eeee8d6e23",
-    "title": "【40代50代必見】消えた『無意識の視界』への理解と抵抗策",
-    "url": "https://note.com/ryu1poker_2nd/n/n637c8b9532a0",
-    "author": "Hatano【poker上級基礎戦略】",
-    "platform": "note",
-    "date": "2025-12-13",
-    "desc": "",
     "tags": [],
-    "thumbnail": "https://assets.st-note.com/production/uploads/images/235960243/rectangle_large_type_2_48a262174c179788f91a399052dec167.png?fit=bounds&quality=85&width=1280",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/235962125/rectangle_large_type_2_88d58fa202d3e5db5c5d40ecad3b2c7e.png?fit=bounds&quality=85&width=1280",
     "source": "initial_fetch_creator"
   },
   {
@@ -13466,7 +13472,9 @@
     "platform": "note",
     "date": "2025-12-12",
     "desc": "",
-    "tags": [],
+    "tags": [
+      "ルール"
+    ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/235786787/rectangle_large_type_2_1b2f57d7fe7e98b5996dbba2df316639.png?fit=bounds&quality=85&width=1280",
     "source": "initial_fetch_creator"
   },
@@ -13542,7 +13550,9 @@
     "platform": "note",
     "date": "2025-12-11",
     "desc": "",
-    "tags": [],
+    "tags": [
+      "MTT"
+    ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/235563110/rectangle_large_type_2_5b68afd50118242a2710e001404c0cac.jpeg?fit=bounds&quality=85&width=1280",
     "source": "initial_fetch_creator"
   },
@@ -13567,9 +13577,8 @@
     "date": "2025-12-10",
     "desc": "【見えないEVインフラとしての席配置】 トーナメントのフロアにいるとき、プレイヤーとして僕らが一番意識するのはハンドの結果やスタックの増減ですが、その裏側では常に「座席の割り振り」と「テーブル間の人数バランス」という、地味だけれど巨大なEV要因が動いています。同じバイイン、同じストラクチャー、同じフィールドでも、座ったテーブルやポジションのまわり方が歪んでいれば、プレーの上手さとは別にEVがじわじ",
     "tags": [
-      "ポジション",
       "MTT",
-      "エクイティ"
+      "ルール"
     ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/235396585/rectangle_large_type_2_fd8f03cd863de9940c1e20c4ddce0204.png?fit=bounds&quality=85&width=1280",
     "source": "rss"
@@ -13582,7 +13591,9 @@
     "platform": "note",
     "date": "2025-12-10",
     "desc": "",
-    "tags": [],
+    "tags": [
+      "ルール"
+    ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/235324703/rectangle_large_type_2_26fafcfc368bb4ef638cc39b09d1eb9e.png?fit=bounds&quality=85&width=1280",
     "source": "initial_fetch_creator"
   },
@@ -13594,7 +13605,9 @@
     "platform": "note",
     "date": "2025-12-10",
     "desc": "",
-    "tags": [],
+    "tags": [
+      "ルール"
+    ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/235247807/rectangle_large_type_2_4d91806de8e24d6355f20ecc02604a3e.png?fit=bounds&quality=85&width=1280",
     "source": "initial_fetch_creator"
   },
@@ -13642,7 +13655,9 @@
     "platform": "note",
     "date": "2025-12-09",
     "desc": "",
-    "tags": [],
+    "tags": [
+      "ルール"
+    ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/235195808/rectangle_large_type_2_6822d6fd7c64d702589d23da040bcbf4.png?fit=bounds&quality=85&width=1280",
     "source": "initial_fetch_creator"
   },
@@ -13654,7 +13669,9 @@
     "platform": "note",
     "date": "2025-12-09",
     "desc": "",
-    "tags": [],
+    "tags": [
+      "勉強法"
+    ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/235175080/rectangle_large_type_2_a66bc27f439d9278ad9f88dbadea86af.png?fit=bounds&quality=85&width=1280",
     "source": "initial_fetch_creator"
   },
@@ -13666,7 +13683,9 @@
     "platform": "note",
     "date": "2025-12-09",
     "desc": "",
-    "tags": [],
+    "tags": [
+      "ルール"
+    ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/235128011/rectangle_large_type_2_6923fce3b654b340a11fa9020985e0f6.png?fit=bounds&quality=85&width=1280",
     "source": "initial_fetch_creator"
   },
@@ -13679,7 +13698,8 @@
     "date": "2025-12-09",
     "desc": "",
     "tags": [
-      "レンジ"
+      "レンジ",
+      "ブロッカー"
     ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/235129839/rectangle_large_type_2_6072077d1a1f0fe0d96684f1f04b8c88.png?fit=bounds&quality=85&width=1280",
     "source": "initial_fetch_creator"
@@ -13692,7 +13712,9 @@
     "platform": "note",
     "date": "2025-12-09",
     "desc": "",
-    "tags": [],
+    "tags": [
+      "特定の環境"
+    ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/235104806/rectangle_large_type_2_3a353b87ed417619e0d9036e281864ff.png?fit=bounds&quality=85&width=1280",
     "source": "initial_fetch_creator"
   },
@@ -13704,7 +13726,9 @@
     "platform": "note",
     "date": "2025-12-09",
     "desc": "",
-    "tags": [],
+    "tags": [
+      "ルール"
+    ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/234679936/rectangle_large_type_2_8800fa3b0e6f913569f0765991643db5.png?fit=bounds&quality=85&width=1280",
     "source": "initial_fetch_creator"
   },
@@ -13718,7 +13742,10 @@
     "desc": "",
     "tags": [
       "エクイティ",
-      "入門"
+      "入門",
+      "初心者向け",
+      "フォールド",
+      "ブロッカー"
     ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/235013462/rectangle_large_type_2_6ccf744e84e4f3b81f78f2de23804c9f.jpeg?fit=bounds&quality=85&width=1280",
     "source": "initial_fetch_creator"
@@ -13976,7 +14003,7 @@
     "tags": [
       "GTO",
       "ソルバー",
-      "エクイティ"
+      "勉強法"
     ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/234887531/rectangle_large_type_2_e684ca1218c378474a7fe6c35218eecc.jpeg?fit=bounds&quality=85&width=1280",
     "source": "initial_fetch_creator"
